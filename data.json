@@ -1,133 +1,133 @@
 {
- "updated": "16 Oct 2026, 3:05 PM IST",
- "session": "Midday snapshot (market open)",
+ "updated": "16 Oct 2026, 4:55 PM IST",
+ "session": "Closing snapshot",
  "mood": {
   "label": "Neutral",
-  "score": 58,
-  "headline": "Mildly positive: Nifty holds above 23,077 on IT buying, but expect a cautious close before Saturday's bank results.",
-  "summary": "Nifty opened weak near 22,963 but climbed 0.56% to 23,126.80 by 2 PM, breaking the 23,077 resistance on a second day of IT buying (TechM +6.8%, Infosys +3.7%, TCS +3.3%). The rally is narrow: banks, insurers, FMCG and oil & gas are seeing profit-booking and midcaps and smallcaps are slightly lower. The rupee firmed to 94.79 and Brent eased to about $105.3, which helps, while India VIX stayed calm near 14. FIIs have sold for 15 straight sessions, and HDFC Bank, ICICI Bank and Axis Bank report on Saturday with a holiday on Tuesday, so traders may lighten positions into the close. A close above 23,077 keeps the 23,187–23,320 zone in sight; a slip below 23,000 would weaken the setup.",
+  "score": 60,
+  "headline": "Nifty closed at 23,146 near the day's high on a 4% IT jump; Saturday's bank results set Monday's tone.",
+  "summary": "Nifty rose 0.65% to 23,146.15 and Sensex 0.56% to 74,729.27, a second day of gains, after a dip to 22,914 in the morning. The IT index jumped about 4% (Tech Mahindra +8.5%, TCS +4.9%, Infosys +4.6%), while private banks, FMCG, financials and oil & gas lagged and midcaps and smallcaps ended flat. Easing Brent ($105.5), a firmer rupee and calm volatility helped, but FIIs have sold for 15 straight sessions. HDFC Bank, ICICI Bank, Axis Bank and Yes Bank report on Saturday, PNB reported a ₹5,532 crore profit after the close, and the market is shut on Tuesday. Watch 23,077 as support and 23,229–23,373 as the next hurdle on Monday.",
   "drivers": [
    {
     "name": "Nifty vs levels",
     "dir": "pos",
-    "note": "23,126.80 (+0.56%) at 2 PM, above 23,077 resistance; next 23,187–23,320"
+    "note": "Closed 23,146.15 (+0.65%) near the high, above 23,077; next 23,229–23,373"
    },
    {
     "name": "IT rally",
     "dir": "pos",
-    "note": "TechM +6.8%, Infosys +3.7%, TCS +3.3% at noon"
+    "note": "IT index about +4%; TechM +8.48%, TCS +4.89%, Infosys +4.61%"
    },
    {
-    "name": "Rupee and crude",
+    "name": "Oil and rupee",
     "dir": "pos",
-    "note": "Rupee 94.79 (+20 paise); Brent $105.34 (−0.6%)"
+    "note": "Brent $105.48 (−0.42%); rupee firmer at 94.79 midday"
    },
    {
-    "name": "Volatility",
+    "name": "After-hours results",
     "dir": "pos",
-    "note": "India VIX 14.16 at 10:09 AM, low and steady"
+    "note": "PNB profit ₹5,532 cr, gross NPA 2.55%; E2E revenue +411%"
    },
    {
     "name": "Narrow breadth",
     "dir": "neg",
-    "note": "Midcap −0.19%, Smallcap −0.14%; banks, insurers, FMCG lower"
+    "note": "Nifty 26 up / 24 down; midcap −0.11%, smallcap −0.01%"
    },
    {
     "name": "FII selling",
     "dir": "neg",
-    "note": "−₹5,285 cr on 15 Oct, 15th straight day"
+    "note": "−₹5,285 cr on 15 Oct, 15th straight day; 16 Oct data due tonight"
    },
    {
     "name": "Bank results",
     "dir": "neu",
-    "note": "HDFC Bank, ICICI, Axis report Sat 17 Oct; market shut Tue 20 Oct"
+    "note": "HDFC Bank, ICICI, Axis, Yes Bank report Sat 17 Oct; market shut Tue 20 Oct"
    },
    {
     "name": "Gold",
     "dir": "neu",
-    "note": "MCX ₹1,48,547 (+0.7%); analyst says sell on rallies"
+    "note": "MCX ₹1,48,429 (+0.64%), just under ₹1,48,605 resistance"
    }
   ]
  },
  "brief": [
   {
    "dir": "pos",
-   "text": "Nifty is at 23,126.80 (+0.56%) and Sensex at 74,679 (+0.49%) at 2 PM, holding above the 23,077 hurdle; 23,000 is the line to watch into the close."
+   "text": "Nifty closed 0.65% higher at 23,146.15 and Sensex 0.56% higher at 74,729.27, finishing near the day's high after a dip to 22,914."
   },
   {
    "dir": "pos",
-   "text": "IT is carrying the market: Tech Mahindra +6.8%, Infosys +3.7% and TCS +3.3% at noon, while Federal Bank gained 2.9% on a record ₹1,386 crore profit."
+   "text": "IT drove the gain with the IT index up about 4%: Tech Mahindra +8.48%, TCS +4.89% and Infosys +4.61%, while IndiGo (−1.91%) and BSE (−1.90%) led the losers."
+  },
+  {
+   "dir": "pos",
+   "text": "After the close, PNB reported a ₹5,532 crore Q2 profit with gross NPA down to 2.55%, so Monday is the first chance to react; E2E Networks posted revenue up 411%."
   },
   {
    "dir": "neg",
-   "text": "The rally is narrow: midcaps (−0.19%) and smallcaps (−0.14%) are lower, and HDFC Life (−1.6%), Jio Financial (−2.5%) and Nestle (−1.3%) are dragging."
-  },
-  {
-   "dir": "pos",
-   "text": "The rupee firmed 20 paise to 94.79 and Brent eased to $105.34, but FIIs have sold for 15 straight days (₹5,285 crore on Thursday)."
+   "text": "The rally stayed narrow: only 26 Nifty stocks rose, midcaps and smallcaps ended flat, and FIIs have sold for 15 straight days (₹5,285 crore on Thursday)."
   },
   {
    "dir": "neu",
-   "text": "HDFC Bank, ICICI Bank and Axis Bank report on Saturday and the market is shut Tuesday 20 Oct, so avoid big new positions just before the close."
+   "text": "HDFC Bank, ICICI Bank, Axis Bank and Yes Bank report on Saturday and the market is shut Tuesday; on Monday watch 23,077 as support and 23,229 as the next hurdle."
   }
  ],
  "live": [
   {
    "name": "Sensex",
-   "value": "74,679.23",
-   "chg": "+363.62",
-   "pct": 0.49,
-   "note": "As of 2:00 PM IST (Business Standard). Opened lower at 74,125.68 (9:18 AM)"
+   "value": "74,729.27",
+   "chg": "+413.66",
+   "pct": 0.56,
+   "note": "Close (Business Standard). Second straight gain"
   },
   {
    "name": "Nifty 50",
-   "value": "23,126.80",
-   "chg": "+129.45",
-   "pct": 0.56,
-   "note": "As of 2:00 PM IST. Above 23,077 resistance; opened at 22,962.90"
+   "value": "23,146.15",
+   "chg": "+148.80",
+   "pct": 0.65,
+   "note": "Close. Day's range 22,913.80–23,149.85; closed near the high (Angel One)"
   },
   {
    "name": "Bank Nifty",
-   "value": "55,615.80",
-   "chg": "−194.70",
-   "pct": -0.35,
-   "note": "9:40 AM (Kotak Neo); later figure not found. Banks lagged before Saturday's HDFC/ICICI/Axis results"
+   "value": "n/a",
+   "chg": "",
+   "pct": null,
+   "note": "Close not found; private banks and financials were under pressure before Saturday's HDFC/ICICI/Axis results (Kotak Neo)"
   },
   {
    "name": "India VIX",
    "value": "14.16",
    "chg": "+0.09",
    "pct": 0.64,
-   "note": "As of 10:09 AM IST (HDFC Sky); range 12.79–14.51; later figure not found",
+   "note": "Close not found; last reading 10:09 AM (HDFC Sky)",
    "invert": true
   },
   {
-   "name": "Nifty Midcap",
+   "name": "Nifty Midcap 100",
    "value": "n/a",
    "chg": "",
-   "pct": -0.19,
-   "note": "Intraday % only (Business Standard, early afternoon); another reading showed −0.35% earlier"
+   "pct": -0.11,
+   "note": "Close, % only (Business Standard)"
   },
   {
-   "name": "Nifty Smallcap",
+   "name": "Nifty Smallcap 100",
    "value": "n/a",
    "chg": "",
-   "pct": -0.14,
-   "note": "Intraday % only (Business Standard, early afternoon); −0.18% in an earlier reading"
+   "pct": -0.01,
+   "note": "Close, % only (Business Standard)"
   }
  ],
  "prevClose": {
-  "date": "Thu 15 Oct 2026",
+  "date": "Fri 16 Oct 2026",
   "items": [
    {
     "name": "Sensex",
-    "value": "74,315.61",
-    "pct": 2.11
+    "value": "74,729.27",
+    "pct": 0.56
    },
    {
     "name": "Nifty 50",
-    "value": "22,997.35",
-    "pct": 1.66
+    "value": "23,146.15",
+    "pct": 0.65
    },
    {
     "name": "Bank Nifty",
@@ -136,33 +136,33 @@
    },
    {
     "name": "Nifty Midcap 100",
-    "value": "59,197.25",
-    "pct": -0.36
+    "value": "",
+    "pct": -0.11
    },
    {
     "name": "Nifty Smallcap 100",
-    "value": "19,131.70",
-    "pct": -1.31
+    "value": "",
+    "pct": -0.01
    },
    {
     "name": "India VIX",
-    "value": "14.02",
-    "pct": -4.17
+    "value": "14.16 (10:09 AM)",
+    "pct": 0.64
    }
   ],
   "gainers": [
-   "Tech Mahindra +4.75% (₹1,650)",
-   "ICICI Bank +3.80% (₹1,389.40)",
-   "Reliance +3.44% (₹1,215)",
-   "Bharti Airtel +3.31% (₹1,854)",
-   "BSE +2.70%"
+   "Tech Mahindra +8.48% (₹1,790)",
+   "TCS +4.89% (₹2,465)",
+   "Infosys +4.61% (₹1,161.20)",
+   "Bharti Airtel (gain; % not found)",
+   "HCL Technologies (gain; % not found)"
   ],
   "losers": [
-   "Nestlé India −7.76% (₹1,275.80)",
-   "Adani Enterprises −0.83% (₹2,700)",
-   "Trent −0.72% (₹2,949.70)",
-   "Shriram Finance −0.65%",
-   "Bharat Electronics −0.51%"
+   "InterGlobe Aviation −1.91% (₹4,686.90)",
+   "BSE −1.90% (₹3,363)",
+   "Max Healthcare −1.40% (₹846)",
+   "Tata Consumer (fall; % not found)",
+   "Jio Financial (fall; % not found)"
   ]
  },
  "global": [
@@ -171,7 +171,7 @@
    "name": "Dow Jones",
    "value": "52,177.69",
    "pct": 1.08,
-   "note": "Rotation into health care, staples, financials; small caps +1.38% (Investrade)",
+   "note": "Rotation into health care, staples, financials (Investrade)",
    "dir": "pos"
   },
   {
@@ -187,39 +187,47 @@
    "name": "Nasdaq Composite",
    "value": "26,711.88",
    "pct": 0.07,
-   "note": "Neared a one-month low intraday on AI-funding worries, then recovered",
+   "note": "Near a one-month low intraday on AI-funding worries, then recovered",
    "dir": "neu"
   },
   {
-   "group": "Asia (16 Oct)",
-   "name": "Nikkei 225",
-   "value": "65,525.84",
-   "pct": 1.71,
-   "note": "Early Friday (ScanX); Topix was up about 1.5% in morning trade (Saxo). Later figure not found",
-   "dir": "pos"
-  },
-  {
-   "group": "Asia (16 Oct)",
-   "name": "Kospi",
-   "value": "5,644",
-   "pct": 1.6,
-   "note": "Morning trade (Saxo); up for a second session after Thursday's 7.7% crash",
-   "dir": "pos"
-  },
-  {
-   "group": "Asia (16 Oct)",
-   "name": "Hang Seng",
-   "value": "24,063",
+   "group": "Futures (16 Oct, Indian evening)",
+   "name": "S&P 500 futures",
+   "value": "+0.1%",
    "pct": null,
-   "note": "Thursday close (Saxo); Friday figure not found. Shanghai fell 1.6% Thursday",
+   "note": "Nasdaq 100 futures also +0.1% (Kotak Neo)",
    "dir": "neu"
+  },
+  {
+   "group": "Futures (16 Oct, Indian evening)",
+   "name": "Euro Stoxx 50 futures",
+   "value": "+0.8%",
+   "pct": null,
+   "note": "Europe set for a firmer session (Kotak Neo)",
+   "dir": "pos"
+  },
+  {
+   "group": "Asia (16 Oct close)",
+   "name": "Japan Topix",
+   "value": "+1.8%",
+   "pct": null,
+   "note": "Nikkei was 65,525.84 (+1.71%) early (ScanX); MSCI Asia Pacific +1.4% (Kotak Neo)",
+   "dir": "pos"
+  },
+  {
+   "group": "Asia (16 Oct close)",
+   "name": "Hang Seng",
+   "value": "+1.0%",
+   "pct": null,
+   "note": "Shanghai Composite +0.2% (Kotak Neo). Kospi was up about 1.6% in morning trade (Saxo)",
+   "dir": "pos"
   },
   {
    "group": "Currency & bonds",
    "name": "USD/INR",
    "value": "₹94.79",
    "pct": null,
-   "note": "Midday 16 Oct, rupee +20 paise vs 95.05 close; traders cite RBI support and a softer dollar (Punjab Kesari, HDFC Sky). Sixth straight gain",
+   "note": "Midday 16 Oct, rupee +20 paise vs 95.05; Kotak Neo says the rupee gained for another session. Exact close not found",
    "dir": "pos"
   },
   {
@@ -227,7 +235,7 @@
    "name": "Dollar Index (DXY)",
    "value": "102.00",
    "pct": -0.5,
-   "note": "15 Oct (Investrade); Bloomberg dollar index −0.3% Thursday, weakest day in a month (Saxo). Friday figure not found",
+   "note": "15 Oct (Investrade); Friday figure not found",
    "dir": "pos"
   },
   {
@@ -235,7 +243,7 @@
    "name": "US 10-yr yield",
    "value": "5.09%",
    "pct": null,
-   "note": "Settled 15 Oct after touching ~5.04% intraday (Saxo); Friday figure not found",
+   "note": "Settled 15 Oct (Saxo); Kotak Neo cites cooling bond yields Friday. Friday figure not found",
    "dir": "pos"
   },
   {
@@ -249,17 +257,17 @@
   {
    "group": "Commodities",
    "name": "Brent crude",
-   "value": "$105.34",
-   "pct": -0.57,
-   "note": "Dec futures at 2:10 PM IST, eased on talk of the US relaxing shadow-fleet curbs (Business Standard)",
+   "value": "$105.48",
+   "pct": -0.42,
+   "note": "3:47 PM IST (Kotak Neo); up about 72% from a year ago",
    "dir": "neg"
   },
   {
    "group": "Commodities",
    "name": "WTI crude",
-   "value": "~$97",
-   "pct": null,
-   "note": "Around $97 (Saxo); settled +$2.88 on Thursday",
+   "value": "$97.24",
+   "pct": -0.75,
+   "note": "3:47 PM IST (Kotak Neo). MCX crude ₹9,233 (−0.56%)",
    "dir": "neg"
   },
   {
@@ -273,14 +281,22 @@
   {
    "group": "Commodities",
    "name": "MCX gold (Dec)",
-   "value": "₹1,48,547/10g",
-   "pct": 0.7,
-   "note": "2:27 PM IST, +₹1,060 (GoodReturns; contract month not stated). Retail 24K ₹1,47,440/10g",
+   "value": "₹1,48,429/10g",
+   "pct": 0.64,
+   "note": "Close (Kotak Neo). Gold Mini (Nov) ₹1,46,985 (+0.56%)",
+   "dir": "pos"
+  },
+  {
+   "group": "Commodities",
+   "name": "MCX silver (Dec)",
+   "value": "₹2,13,460/kg",
+   "pct": 1.33,
+   "note": "Close (Kotak Neo); aluminium +1.83%, copper +0.73%",
    "dir": "pos"
   }
  ],
  "flows": {
-  "note": "Cash segment, provisional, ₹ crore (NSE via 5paisa, Tapetide, NewsBytes). Negative = net selling.",
+  "note": "Cash segment, provisional, ₹ crore (NSE via 5paisa, Tapetide, NewsBytes). Negative = net selling. Today's (16 Oct) FII/DII figures come out this evening and will appear in Monday's morning update.",
   "days": [
    {
     "date": "9 Oct",
@@ -314,79 +330,90 @@
   {
    "name": "IT",
    "bias": "pos",
-   "pct": 2.71,
-   "note": "9:40 AM (Kotak Neo); top sector all day. TechM +6.8%, Infosys +3.7%, TCS +3.3% at noon"
+   "pct": 4.0,
+   "note": "About 4% (Business Standard headline); top sector. TechM +8.48%, TCS +4.89%, Infosys +4.61%, Wipro about +5.7%"
+  },
+  {
+   "name": "Media",
+   "bias": "pos",
+   "pct": null,
+   "note": "Second-best sector (Kotak Neo); Tips Music up to 7% on results"
   },
   {
    "name": "Metal",
    "bias": "pos",
-   "pct": 0.27,
-   "note": "9:40 AM; later supported the index (Vedanta Aluminium, Lloyds Metals, Hindustan Zinc led); JSW Steel +2.2%"
+   "pct": null,
+   "note": "Among the gainers (Kotak Neo); MCX aluminium +1.83%"
   },
   {
-   "name": "Telecom",
+   "name": "Cement",
    "bias": "pos",
    "pct": null,
-   "note": "Bharti Airtel +2.2–2.4% at noon"
+   "note": "Among the gainers (Kotak Neo)"
   },
   {
    "name": "Auto",
    "bias": "pos",
-   "pct": -0.19,
-   "note": "9:40 AM; later moderate gains, M&M +2.1%"
+   "pct": null,
+   "note": "Advanced (Kotak Neo)"
+  },
+  {
+   "name": "PSU Bank",
+   "bias": "pos",
+   "pct": null,
+   "note": "Modest gains (Kotak Neo); PNB results after the close"
+  },
+  {
+   "name": "Pharma",
+   "bias": "neu",
+   "pct": null,
+   "note": "Steady (Kotak Neo); Solara Active Pharma jumped 16% on a turnaround"
+  },
+  {
+   "name": "Realty",
+   "bias": "neu",
+   "pct": null,
+   "note": "Steady (Kotak Neo); DLF and Oberoi results due after market"
   },
   {
    "name": "Private Bank",
    "bias": "neg",
-   "pct": -0.45,
-   "note": "9:40 AM; Federal Bank +2.9% on results, but big banks cautious before Saturday"
+   "pct": null,
+   "note": "Under pressure ahead of Saturday's HDFC Bank, ICICI Bank, Axis Bank results"
   },
   {
    "name": "Financial Services",
    "bias": "neg",
-   "pct": -0.66,
-   "note": "9:40 AM (Kotak Neo); HDFC Life, Jio Financial, SBI Life among top Nifty losers"
+   "pct": null,
+   "note": "Under pressure; BSE −1.90%, Jio Financial among top losers"
   },
   {
    "name": "FMCG",
    "bias": "neg",
-   "pct": -0.69,
-   "note": "9:40 AM; Nestlé −1.3% at noon after Thursday's 7.8% fall"
-  },
-  {
-   "name": "Pharma",
-   "bias": "neg",
-   "pct": -0.37,
-   "note": "9:40 AM; most shares lower, IPCA, Mankind and Gland led gainers at 1:40 PM"
+   "pct": null,
+   "note": "Under pressure; Tata Consumer among top Nifty losers"
   },
   {
    "name": "Oil & Gas",
    "bias": "neg",
    "pct": null,
-   "note": "Weakest sector early; Reliance traded lower with Brent near $105"
-  },
-  {
-   "name": "PSU Bank",
-   "bias": "neg",
-   "pct": 0.18,
-   "note": "9:40 AM; small bounce after Thursday's 1.55% fall"
+   "note": "Worst sector of the day (Business Standard); Reliance a drag on Nifty"
   }
  ],
  "news": [
   {
-   "id": "mid",
-   "headline": "Nifty climbs past 23,100 by afternoon as IT rally offsets bank and FMCG profit-booking",
+   "id": "close",
+   "headline": "Sensex rises 414 points, Nifty ends at 23,146 as IT index jumps about 4%",
    "source": "Business Standard",
    "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
-   "time": "16 Oct, 2:00 PM",
+   "time": "16 Oct, 3:35 PM",
    "cat": "Market",
    "impact": "High",
    "tag": "Bullish",
-   "summary": "After a soft open (Nifty 22,963 at 9:18 AM), buying in IT and metals lifted Nifty 0.56% to 23,126.80 and Sensex 0.49% to 74,679.23 by 2 PM. Midcaps and smallcaps stayed slightly lower.",
-   "why": "Nifty is now above the 23,077 resistance; a close above it would extend Thursday's breakout, but the rally is narrow and led by a few large IT stocks.",
+   "summary": "Sensex closed at 74,729.27 (+0.56%) and Nifty at 23,146.15 (+0.65%), a second day of gains, after dipping to 22,914 in early trade. Midcaps (−0.11%) and smallcaps (−0.01%) ended flat.",
+   "why": "Nifty closed near the day's high and above the 23,077 hurdle; the next zone is 23,229–23,373, but Saturday's bank results decide Monday's tone.",
    "affects": [
-    "Overall market",
-    "IT"
+    "Overall market"
    ],
    "symbols": [
     "NIFTY",
@@ -394,159 +421,218 @@
    ]
   },
   {
-   "id": "itrally",
-   "headline": "IT stocks extend rally: TechM +6.8%, Infosys +3.7%, TCS +3.3% at noon",
-   "source": "HDFC Sky",
-   "url": "https://hdfcsky.com/news/top-gainers-and-losers-on-october-16-2026-at-12-pm",
-   "time": "16 Oct, 12:00 PM",
+   "id": "itclose",
+   "headline": "IT rally extends: Tech Mahindra +8.5%, TCS +4.9%, Infosys +4.6%, Wipro about +5.7%",
+   "source": "Angel One / DSIJ",
+   "url": "https://angelone.in/news/market-updates/top-gainers-and-losers-on-october-16-2026-tech-mahindra-and-tcs-gain-while-interglobe-aviation-drops-over-1",
+   "time": "16 Oct, close",
    "cat": "Sector",
    "impact": "High",
    "tag": "Bullish",
-   "summary": "IT was the best sector for a second day. Tech Mahindra led Nifty gainers after its Q2 beat and bonus, with Infosys and TCS also among the top five.",
-   "why": "IT carries big index weight, so continued buying keeps Nifty supported; Infosys reports on 23 Oct.",
+   "summary": "IT stocks led for a second day after Tech Mahindra's strong results and bonus. Infosys, Bharti Airtel and TCS added the most points to Nifty.",
+   "why": "Big IT names are now up sharply in two days; Infosys reports on 23 Oct, so the rally will be tested by its numbers and US visa commentary.",
    "affects": [
     "IT"
    ],
    "symbols": [
     "TECHM",
-    "INFY",
     "TCS",
-    "WIPRO"
+    "INFY",
+    "WIPRO",
+    "HCLTECH"
    ]
   },
   {
-   "id": "fedbank",
-   "headline": "Federal Bank rises 2.9% on record Q2 profit of ₹1,386 cr, up 45%",
-   "source": "Business Standard",
-   "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
-   "time": "16 Oct, 2:20 PM",
-   "cat": "Results",
-   "impact": "Medium",
-   "tag": "Bullish",
-   "summary": "Federal Bank posted its highest-ever quarterly profit, up 45.1% from a year ago, and the share rose 2.9% to ₹344.80 on NSE.",
-   "why": "A strong mid-size bank result sets a positive tone before HDFC Bank, ICICI Bank and Axis report on Saturday.",
-   "affects": [
-    "Banks"
-   ],
-   "symbols": [
-    "FEDERALBNK"
-   ]
-  },
-  {
-   "id": "techm",
-   "headline": "Tech Mahindra beats: profit +32.7% to ₹1,586 cr, 1:1 bonus and ₹15 dividend",
-   "source": "ScanX / IndiaIPO",
-   "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
-   "time": "15 Oct, after close; move 16 Oct noon",
+   "id": "pnb",
+   "headline": "PNB Q2 profit ₹5,532 cr, up from ₹5,253 cr in Q1; gross NPA 2.55%",
+   "source": "Whalesbook",
+   "url": "https://www.whalesbook.com/corporate-news/English/bankingfinance/Punjab-National-Bank-Q2-Profit-Rises-to-Rs-5532-Crore/6ad2027cb2eb76fd08c55734",
+   "time": "16 Oct, 4:25 PM (after close)",
    "cat": "Results",
    "impact": "High",
    "tag": "Bullish",
-   "summary": "Q2 profit rose 32.7% to ₹1,585.6 cr and revenue 15.6% to ₹16,180 cr, with deal wins of $1.02 bn. The board approved a 1:1 bonus and ₹15 interim dividend (record date 23 Oct). The share was up 6.8% to ₹1,762 at noon.",
-   "why": "Stronger margins and deal wins counter Wipro's weak guide; the stock already rose 4.75% on Thursday ahead of the results.",
+   "summary": "Punjab National Bank's standalone profit rose about 5% from the June quarter to ₹5,532 crore; a year ago it was ₹4,904 crore. Gross NPA is 2.55%, net NPA 0.25%, and provision cover 97.3%.",
+   "why": "Announced after the close, so Monday is the first reaction. Very clean asset quality supports PSU bank sentiment, but Saturday's private bank results will also move the sector.",
    "affects": [
-    "IT"
+    "PSU banks"
    ],
    "symbols": [
-    "TECHM"
+    "PNB"
    ]
   },
   {
-   "id": "onward",
-   "headline": "Onward Technologies hits 20% upper circuit after profit rises 41%",
-   "source": "Business Standard",
-   "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
-   "time": "16 Oct, 12:21 PM",
+   "id": "inb",
+   "headline": "Indian Bank Q2 profit up 15% to ₹3,460 cr; NII +18%, net NPA 0.14%",
+   "source": "Whalesbook",
+   "url": "https://www.whalesbook.com/news/English/brokerage-reports/Indian-Bank-Q2-Profit-Rises-15percent-as-Brokerages-Adjust-Outlook/6ad1ee5279a16deaeaf41845",
+   "time": "16 Oct, 2:58 PM",
    "cat": "Results",
-   "impact": "Low",
+   "impact": "Medium",
    "tag": "Bullish",
-   "summary": "The small engineering-services company jumped 19.9% to a 52-week high of ₹427.40 after Q2 profit rose 41% to ₹16.8 crore.",
-   "why": "Shows smallcap IT names with good numbers are being rewarded, but the move is already large.",
+   "summary": "Indian Bank's profit rose 15% and net interest income 18%, with margin steady at 3.31%. It used gains from its NSE stake sale to add ₹1,390 crore to provisions. ICICI Securities raised its EPS estimates by about 4%.",
+   "why": "Strong PSU bank numbers alongside PNB support the PSU bank pack into Saturday's private bank results.",
+   "affects": [
+    "PSU banks"
+   ],
+   "symbols": [
+    "INDIANB"
+   ]
+  },
+  {
+   "id": "e2e",
+   "headline": "E2E Networks Q2 revenue up 411% to ₹224 cr; profit ₹72.7 cr",
+   "source": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/business/e2e-networks-q2-fy27-revenue-jumps-to-2238-mn-pat-rises-to-727-mn-signs-1000-cr-ai-deal",
+   "time": "16 Oct, around 3:30 PM",
+   "cat": "Results",
+   "impact": "Medium",
+   "tag": "Bullish",
+   "summary": "The AI cloud company's revenue jumped 411% from a year ago and 43% from the June quarter, with a 32.5% profit margin. It repeated its ₹1,000 crore GPU contract with a sovereign AI client (first announced 1 Sept).",
+   "why": "Results came near the close, so Monday shows the reaction. The share is volatile and has moved sharply on AI news before.",
    "affects": [
     "IT services",
-    "Smallcaps"
+    "AI"
    ],
    "symbols": [
-    "ONWARDTEC"
+    "E2E"
    ]
   },
   {
-   "id": "hbl",
-   "headline": "HBL Engineering jumps 15% to ₹818.80, among NSE's top gainers",
+   "id": "bankpre",
+   "headline": "Big bank results on Saturday: HDFC Bank, ICICI Bank, Axis Bank, Yes Bank",
    "source": "Business Standard",
    "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
-   "time": "16 Oct, 1:20 PM",
-   "cat": "Stocks",
-   "impact": "Low",
-   "tag": "Bullish",
-   "summary": "HBL Engineering rose 15.25% to its day's high of ₹818.80. The live blog did not give a reason for the jump.",
-   "why": "Sharp unexplained moves can reverse; check for an exchange filing before acting.",
-   "affects": [
-    "Railways / defence electronics"
-   ],
-   "symbols": [
-    "HBLENGINE"
-   ]
-  },
-  {
-   "id": "rupee",
-   "headline": "Rupee gains 20 paise to 94.79 as dollar softens; Brent eases to $105.3",
-   "source": "Punjab Kesari / Business Standard",
-   "url": "https://english.punjabkesari.com/india/stock-market-updates-october-16-2026-sensex-nifty-it-rally",
-   "time": "16 Oct, midday",
-   "cat": "Currency",
-   "impact": "Medium",
-   "tag": "Bullish",
-   "summary": "The rupee firmed for a sixth day to 94.79 per dollar, helped by RBI support and a weaker dollar. Brent December futures slipped 0.6% to $105.34 by 2:10 PM on talk the US may relax shadow-fleet curbs.",
-   "why": "A firmer rupee and slightly lower oil ease pressure on importers and FII returns, though CNBC reports forecasters still see the rupee weakening toward 100.",
-   "affects": [
-    "Oil marketers",
-    "Importers",
-    "FIIs"
-   ],
-   "symbols": [
-    "BPCL",
-    "HPCL",
-    "IOC"
-   ]
-  },
-  {
-   "id": "gold",
-   "headline": "MCX gold up 0.7% to ₹1,48,547; analyst advises selling on rallies",
-   "source": "GoodReturns / Business Standard",
-   "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-16-10-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-price-1541909.html",
-   "time": "16 Oct, 2:27 PM",
-   "cat": "Commodities",
-   "impact": "Medium",
-   "tag": "Neutral",
-   "summary": "MCX gold rose about ₹1,060 to ₹1,48,547 per 10g with spot near $4,170, while silver gained 1.3%. Mirae Asset Sharekhan's Praveen Singh said US rate-hike fears make rallies a selling chance.",
-   "why": "Gold ETFs like GOLDBEES are firm today, but resistance near ₹1,48,600 and Fed-hike risk can cap gains.",
-   "affects": [
-    "Gold ETFs",
-    "Jewellers"
-   ],
-   "symbols": [
-    "GOLDBEES"
-   ]
-  },
-  {
-   "id": "banks",
-   "headline": "Saturday bank results: ICICI seen +8–14%, Axis +37–43%, margins under pressure",
-   "source": "Business Standard",
-   "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
-   "time": "16 Oct, 1:10 PM",
+   "time": "17 Oct (Sat)",
    "cat": "Results",
    "impact": "High",
    "tag": "Neutral",
-   "summary": "HDFC Bank, ICICI Bank, Axis Bank and Yes Bank report on Saturday. Analysts expect ICICI profit to grow 8–14% and Axis 37–43%, but both may show lower margins.",
-   "why": "These results will set Monday's direction for banks; the market is shut Tuesday 20 Oct for Dussehra.",
+   "summary": "Analysts expect ICICI Bank profit +8–14% and Axis +37–43%, with margins under pressure after the RBI's rate hike. Yes Bank may disclose the AT1 ruling's impact.",
+   "why": "These banks carry heavy Nifty weight; Monday's open will largely reflect their numbers, and Tuesday is a holiday.",
    "affects": [
-    "Banks"
+    "Banks",
+    "Overall market"
    ],
    "symbols": [
     "HDFCBANK",
     "ICICIBANK",
     "AXISBANK",
     "YESBANK"
+   ]
+  },
+  {
+   "id": "losers",
+   "headline": "IndiGo, BSE and Max Healthcare top Nifty losers; private banks and FMCG lag",
+   "source": "Angel One",
+   "url": "https://angelone.in/news/market-updates/top-gainers-and-losers-on-october-16-2026-tech-mahindra-and-tcs-gain-while-interglobe-aviation-drops-over-1",
+   "time": "16 Oct, close",
+   "cat": "Market",
+   "impact": "Medium",
+   "tag": "Bearish",
+   "summary": "InterGlobe Aviation fell 1.91%, BSE 1.90% and Max Healthcare 1.40%. Reliance was the biggest drag on Nifty in points.",
+   "why": "The rally was narrow: only 26 Nifty stocks rose and 24 fell, so gains depend on a few large IT names.",
+   "affects": [
+    "Aviation",
+    "Capital markets",
+    "FMCG"
+   ],
+   "symbols": [
+    "INDIGO",
+    "BSE",
+    "MAXHEALTH",
+    "RELIANCE"
+   ]
+  },
+  {
+   "id": "tips",
+   "headline": "Tips Music jumps up to 7% as Q2 profit rises 24.5%; ₹6.50 dividend",
+   "source": "Kotak Neo",
+   "url": "https://www.kotakneo.com/news/stocks/tips-music-share-price-in-focus-after-q2-fy-27-results/",
+   "time": "16 Oct, 12:57 PM",
+   "cat": "Results",
+   "impact": "Low",
+   "tag": "Bullish",
+   "summary": "Profit rose to ₹66 crore and revenue 34.8% to ₹120 crore, though EBITDA margin slipped to 70.8% from 76%. The share hit ₹736.60.",
+   "why": "Media was the second-best sector; the dividend record date was not stated.",
+   "affects": [
+    "Media"
+   ],
+   "symbols": [
+    "TIPSMUSIC"
+   ]
+  },
+  {
+   "id": "solara",
+   "headline": "Solara Active Pharma rises 16% on turnaround to ₹28.6 cr profit",
+   "source": "Whalesbook",
+   "url": "https://www.whalesbook.com/news/English/healthcarebiotech/Solara-Active-Pharma-Jumps-16percent-on-Q2-Profit-Turnaround/6ad1ea5579a16deaeaf412aa",
+   "time": "16 Oct, 2:41 PM",
+   "cat": "Results",
+   "impact": "Low",
+   "tag": "Bullish",
+   "summary": "Profit of ₹28.59 crore against a ₹9.29 crore loss a year ago. The share touched ₹759, near its 52-week high of ₹774.",
+   "why": "Already up sharply; small pharma names can give back gains quickly.",
+   "affects": [
+    "Pharma"
+   ],
+   "symbols": [
+    "SOLARA"
+   ]
+  },
+  {
+   "id": "jneco",
+   "headline": "Jayaswal Neco profit doubles to ₹230 cr; revenue up 23%",
+   "source": "Whalesbook",
+   "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Jayaswal-Neco-Industries-Q2-Profit-Doubles-to-Rs-230-Crore/6ad1ec7ab2eb76fd08c53172",
+   "time": "16 Oct, 2:52 PM",
+   "cat": "Results",
+   "impact": "Low",
+   "tag": "Bullish",
+   "summary": "Q2 profit ₹229.81 crore vs ₹105.13 crore; revenue ₹2,194 crore vs ₹1,781 crore.",
+   "why": "Strong steel-maker numbers; today's share move was not found.",
+   "affects": [
+    "Metals"
+   ],
+   "symbols": [
+    "JAYNECOIND"
+   ]
+  },
+  {
+   "id": "gold",
+   "headline": "MCX gold ends 0.64% higher at ₹1,48,429; silver +1.33%",
+   "source": "Kotak Neo",
+   "url": "https://www.kotakneo.com/news/market-news/stock-market-closing-bell-16-october-2026-sensex-gains-nifty-above-23100/",
+   "time": "16 Oct, close",
+   "cat": "Commodities",
+   "impact": "Medium",
+   "tag": "Bullish",
+   "summary": "MCX December gold closed at ₹1,48,429 and silver at ₹2,13,460. Gold remains just under the ₹1,48,605 resistance.",
+   "why": "Gold ETFs like GOLDBEES track this; the 28 Oct Fed meeting is the next big swing factor.",
+   "affects": [
+    "Gold"
+   ],
+   "symbols": [
+    "GOLDBEES"
+   ]
+  },
+  {
+   "id": "crude",
+   "headline": "Brent eases to $105.5, WTI $97.2 on talk of relaxed US shipping curbs",
+   "source": "Kotak Neo",
+   "url": "https://www.kotakneo.com/news/market-news/stock-market-closing-bell-16-october-2026-sensex-gains-nifty-above-23100/",
+   "time": "16 Oct, 3:47 PM",
+   "cat": "Global",
+   "impact": "Medium",
+   "tag": "Bullish",
+   "summary": "Brent was down 0.42% and WTI 0.75% in Indian afternoon trade. Prices are still about 70% above a year ago.",
+   "why": "Easing oil helps the rupee, inflation and oil marketing companies, but oil above $100 remains a pressure point for India.",
+   "affects": [
+    "Oil & gas",
+    "Rupee"
+   ],
+   "symbols": [
+    "BPCL",
+    "IOC",
+    "HPCL"
    ]
   },
   {
@@ -569,21 +655,39 @@
    ]
   },
   {
-   "id": "wipro",
-   "headline": "Wipro guides Q3 revenue at −1.5% to +0.5%; large-deal bookings fall 59%",
-   "source": "Business Today",
-   "url": "https://www.businesstoday.in/markets/stocks/story/wipro-q2-profit-slips-slightly-yoy-to-rs-3201-crore-revenue-climbs-9-561842-2026-10-15",
-   "time": "15 Oct, after market",
+   "id": "techm",
+   "headline": "Tech Mahindra closes 8.5% higher at ₹1,790 after profit +32.7%, 1:1 bonus and ₹15 dividend",
+   "source": "ScanX / IndiaIPO",
+   "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
+   "time": "15 Oct after close; move 16 Oct close",
    "cat": "Results",
    "impact": "High",
-   "tag": "Bearish",
-   "summary": "Q2 profit fell 1.4% to ₹3,200.6 cr while revenue rose 9.1% to ₹24,750 cr. IT services revenue was flat in constant currency; total bookings fell 22.9% and large-deal bookings 58.6% from the June quarter. Operating margin was 16.5%. One live report said the share gained with the IT rally today, but no confirmed figure was found.",
-   "why": "The guidance points to no growth next quarter, which could cool Thursday's IT rally on Friday. Wipro closed +1.58% at ₹173.70 before the numbers.",
+   "tag": "Bullish",
+   "summary": "Q2 profit rose 32.7% to ₹1,585.6 cr and revenue 15.6% to ₹16,180 cr, with deal wins of $1.02 bn. The board approved a 1:1 bonus and ₹15 interim dividend (record date 23 Oct). The share was up 6.8% to ₹1,762 at noon.",
+   "why": "Stronger margins and deal wins counter Wipro's weak guide; the stock already rose 4.75% on Thursday ahead of the results.",
    "affects": [
     "IT"
    ],
    "symbols": [
-    "WIPRO"
+    "TECHM"
+   ]
+  },
+  {
+   "id": "fedbank",
+   "headline": "Federal Bank rises 2.9% on record Q2 profit of ₹1,386 cr, up 45%",
+   "source": "Business Standard",
+   "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
+   "time": "16 Oct, 2:20 PM",
+   "cat": "Results",
+   "impact": "Medium",
+   "tag": "Bullish",
+   "summary": "Federal Bank posted its highest-ever quarterly profit, up 45.1% from a year ago, and the share rose 2.9% to ₹344.80 on NSE.",
+   "why": "A strong mid-size bank result sets a positive tone before HDFC Bank, ICICI Bank and Axis report on Saturday.",
+   "affects": [
+    "Banks"
+   ],
+   "symbols": [
+    "FEDERALBNK"
    ]
   },
   {
@@ -605,40 +709,21 @@
    ]
   },
   {
-   "id": "jfs",
-   "headline": "Jio Financial falls 2.5% as analysts cut estimates after profit miss",
-   "source": "Business Standard",
-   "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
-   "time": "16 Oct, 11:41 AM",
+   "id": "wipro",
+   "headline": "Wipro guides Q3 revenue at −1.5% to +0.5%; large-deal bookings fall 59%",
+   "source": "Business Today",
+   "url": "https://www.businesstoday.in/markets/stocks/story/wipro-q2-profit-slips-slightly-yoy-to-rs-3201-crore-revenue-climbs-9-561842-2026-10-15",
+   "time": "15 Oct, after market",
    "cat": "Results",
-   "impact": "Medium",
+   "impact": "High",
    "tag": "Bearish",
-   "summary": "The stock fell 2.5% to ₹213.11 after Q2 profit nearly halved on higher borrowing costs; brokerages including MOFSL cut FY27 estimates.",
-   "why": "Estimate cuts after a miss often keep a share under pressure for several sessions.",
+   "summary": "Q2 profit fell 1.4% to ₹3,200.6 cr while revenue rose 9.1% to ₹24,750 cr. IT services revenue was flat in constant currency; total bookings fell 22.9% and large-deal bookings 58.6% from the June quarter. Operating margin was 16.5%. One live report said the share gained with the IT rally today, but no confirmed figure was found. Despite the weak guidance, the share rose about 5.7% on Friday with the IT rally (DSIJ).",
+   "why": "The guidance points to no growth next quarter, which could cool Thursday's IT rally on Friday. Wipro closed +1.58% at ₹173.70 before the numbers.",
    "affects": [
-    "NBFCs"
+    "IT"
    ],
    "symbols": [
-    "JIOFIN"
-   ]
-  },
-  {
-   "id": "hdfclife",
-   "headline": "HDFC Life slides after Q2 profit misses estimates",
-   "source": "HDFC Sky / Business Standard",
-   "url": "https://hdfcsky.com/news/top-gainers-and-losers-on-october-16-2026-at-12-pm",
-   "time": "16 Oct, 12:00 PM",
-   "cat": "Results",
-   "impact": "Medium",
-   "tag": "Bearish",
-   "summary": "HDFC Life was ₹541.55 (−1.63%) at noon and was the top Nifty loser; Business Standard put the fall at about 3% even as brokerages stayed upbeat. SBI Life also fell.",
-   "why": "Insurers are dragging on the index; brokerages' positive view may limit the fall once the miss is digested.",
-   "affects": [
-    "Insurance"
-   ],
-   "symbols": [
-    "HDFCLIFE",
-    "SBILIFE"
+    "WIPRO"
    ]
   },
   {
@@ -661,86 +746,48 @@
     "ANGELONE",
     "NUVAMA"
    ]
-  },
-  {
-   "id": "bop",
-   "headline": "August current account deficit narrows to $5.2 bn; balance of payments in $45.4 bn surplus",
-   "source": "Sunday Guardian",
-   "url": "https://sundayguardianlive.com/business/sensex-today-nifty-50-indian-stock-market-live-tech-mahindra-surges-over-7-wipro-gains-more-than-5-as-it-stocks-lead-recovery-check-top-nifty-50-gainers-biggest-losers-latest-updates-306773/",
-   "time": "16 Oct",
-   "cat": "Macro",
-   "impact": "Medium",
-   "tag": "Bullish",
-   "summary": "India's current account deficit was $5.2 bn in August versus $6.1 bn a year earlier, with net services receipts of $16.5 bn. The overall balance of payments showed a $45.4 bn surplus. The April–August deficit, however, widened to $18.3 bn from $12.8 bn.",
-   "why": "A smaller monthly deficit and a BoP surplus support the rupee, though high oil prices keep the year-to-date gap wider.",
-   "affects": [
-    "Currency",
-    "Macro"
-   ],
-   "symbols": []
-  },
-  {
-   "id": "maruti",
-   "headline": "Maruti wins tax appeal order cutting interest component by ₹6,300 cr",
-   "source": "Business Standard",
-   "url": "https://www.business-standard.com/markets/news/stocks-to-watch-jio-fin-yes-bank-wipro-l-t-fin-angel-one-urban-co-126101600086_1.html",
-   "time": "16 Oct, morning",
-   "cat": "Company",
-   "impact": "Medium",
-   "tag": "Bullish",
-   "summary": "An income tax appellate order covering eight years reduced the interest part of the demand by ₹6,300 crore, according to Business Standard's stocks-to-watch list.",
-   "why": "Removes a large contingent liability; the share's reaction today was not reported in sources checked.",
-   "affects": [
-    "Auto"
-   ],
-   "symbols": [
-    "MARUTI"
-   ]
-  },
-  {
-   "id": "ltf",
-   "headline": "L&T Finance profit up 33% to ₹975 cr; bad loans fall",
-   "source": "Business Standard / Sunday Guardian",
-   "url": "https://www.business-standard.com/markets/news/stocks-to-watch-jio-fin-yes-bank-wipro-l-t-fin-angel-one-urban-co-126101600086_1.html",
-   "time": "15 Oct, after close",
-   "cat": "Results",
-   "impact": "Medium",
-   "tag": "Bullish",
-   "summary": "Consolidated net profit rose 32.7% to ₹975 crore and net interest income 43.7% to ₹3,187 crore. The loan book grew 28% to ₹1.36 lakh crore and gross NPA eased to 2.7% from 3.2%.",
-   "why": "Strong growth with better asset quality is what lenders are being rewarded for this season.",
-   "affects": [
-    "NBFCs"
-   ],
-   "symbols": [
-    "LTF"
-   ]
   }
  ],
  "watch": [
   {
-   "sym": "TECHM",
+   "sym": "PNB",
    "dir": "pos",
-   "reason": "+6.8% at noon after Q2 beat and 1:1 bonus (record date 23 Oct); up 11%+ in two days, wait for a dip"
+   "reason": "Q2 profit ₹5,532 cr after the close; gross NPA 2.55%. First reaction Monday"
   },
   {
-   "sym": "FEDERALBNK",
+   "sym": "E2E",
    "dir": "pos",
-   "reason": "Record Q2 profit ₹1,386 cr (+45%); +2.9% to ₹344.80"
+   "reason": "Revenue +411%, profit ₹72.7 cr; results near the close"
+  },
+  {
+   "sym": "INDIANB",
+   "dir": "pos",
+   "reason": "Profit +15% to ₹3,460 cr; ICICI Sec raised estimates"
+  },
+  {
+   "sym": "TECHM",
+   "dir": "pos",
+   "reason": "Closed +8.48% at ₹1,790; up about 13% in two days. Bonus/dividend record date 23 Oct; wait for a dip"
   },
   {
    "sym": "INFY",
    "dir": "pos",
-   "reason": "+3.7% at noon in IT rally; Q2 results 23 Oct"
+   "reason": "+4.61% to ₹1,161.20; Q2 results 23 Oct"
+  },
+  {
+   "sym": "FEDERALBNK",
+   "dir": "pos",
+   "reason": "Record Q2 profit ₹1,386 cr (+45%)"
   },
   {
    "sym": "BDL",
    "dir": "pos",
-   "reason": "₹1,307 cr Navy torpedo order; holding window to 21 Oct"
+   "reason": "₹1,307 cr Navy torpedo order; review 22 Oct"
   },
   {
    "sym": "IIFL",
    "dir": "pos",
-   "reason": "Profit +93% to ₹766 cr, beat; gold-loan AUM +38%"
+   "reason": "Profit +93% to ₹766 cr, beat"
   },
   {
    "sym": "ICICIBANK",
@@ -748,53 +795,37 @@
    "reason": "Q2 Saturday; analysts expect profit +8–14% with lower margins"
   },
   {
-   "sym": "JIOFIN",
-   "dir": "neg",
-   "reason": "−2.5% after profit halved; analysts cut estimates"
-  },
-  {
-   "sym": "HDFCLIFE",
-   "dir": "neg",
-   "reason": "−1.6% at noon after Q2 profit missed estimates"
+   "sym": "HDFCBANK",
+   "dir": "neu",
+   "reason": "Q2 Saturday; reaction Monday"
   },
   {
    "sym": "YESBANK",
    "dir": "neg",
-   "reason": "AT1 reinstatement could cut CET1 by ~250 bps; results Saturday"
+   "reason": "AT1 ruling could cut CET1 by ~250 bps; results Saturday"
   },
   {
-   "sym": "LTF",
-   "dir": "pos",
-   "reason": "Profit +33%, gross NPA down to 2.7%"
+   "sym": "JIOFIN",
+   "dir": "neg",
+   "reason": "Profit halved; among top Nifty losers again today"
   },
   {
-   "sym": "MARUTI",
-   "dir": "pos",
-   "reason": "₹6,300 cr cut in tax-demand interest"
-  },
-  {
-   "sym": "PRESTIGE",
-   "dir": "pos",
-   "reason": "CPPIB invests ₹1,500 cr in hotel arm"
+   "sym": "INDIGO",
+   "dir": "neg",
+   "reason": "Top Nifty loser −1.91% with Brent above $105"
   },
   {
    "sym": "GOLDBEES",
    "dir": "pos",
-   "reason": "MCX gold +0.7% to ₹1,48,547 at 2:27 PM; resistance near ₹1,48,600"
+   "reason": "MCX gold +0.64% to ₹1,48,429; resistance ₹1,48,605"
   }
  ],
  "events": [
   {
-   "date": "16 Oct",
-   "label": "Fri",
-   "title": "DLF, PNB, LTM, Oberoi Realty, Urban Company Q2 (after market)",
-   "detail": "Federal Bank and Bajaj Housing already reported. RBI's 99% daily CRR rule started. Forex reserves data this evening"
-  },
-  {
    "date": "17 Oct",
    "label": "Sat",
    "title": "HDFC Bank, ICICI Bank, Axis Bank and Yes Bank Q2 results",
-   "detail": "Saturday results; reaction on Monday 19 Oct. Yes Bank may disclose the AT1 ruling's impact"
+   "detail": "Saturday results; reaction on Monday 19 Oct. Yes Bank may disclose the AT1 ruling's impact. DLF, LTM, Oberoi Realty and Urban Company reported Friday evening"
   },
   {
    "date": "19 Oct",
@@ -883,40 +914,40 @@
  ],
  "sources": [
   {
-   "name": "Business Standard: Stock Market LIVE, 16 Oct 2026",
+   "name": "Business Standard: Market close, 16 Oct 2026",
    "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html"
   },
   {
-   "name": "HDFC Sky: India VIX 14.16, 16 Oct",
-   "url": "https://hdfcsky.com/news/india-vix-rises-0-64percent-to-14-16-as-profit-taking-offsets-global-market-recovery-october-16-2026"
+   "name": "Kotak Neo: Closing Bell, 16 Oct 2026",
+   "url": "https://www.kotakneo.com/news/market-news/stock-market-closing-bell-16-october-2026-sensex-gains-nifty-above-23100/"
   },
   {
-   "name": "HDFC Sky: Top gainers and losers at 12 PM, 16 Oct",
-   "url": "https://hdfcsky.com/news/top-gainers-and-losers-on-october-16-2026-at-12-pm"
+   "name": "Angel One: Top gainers and losers, 16 Oct 2026",
+   "url": "https://angelone.in/news/market-updates/top-gainers-and-losers-on-october-16-2026-tech-mahindra-and-tcs-gain-while-interglobe-aviation-drops-over-1"
   },
   {
-   "name": "Punjab Kesari: Stock market today, 16 Oct midday",
-   "url": "https://english.punjabkesari.com/india/stock-market-updates-october-16-2026-sensex-nifty-it-rally"
+   "name": "Whalesbook: PNB Q2 results",
+   "url": "https://www.whalesbook.com/corporate-news/English/bankingfinance/Punjab-National-Bank-Q2-Profit-Rises-to-Rs-5532-Crore/6ad2027cb2eb76fd08c55734"
   },
   {
-   "name": "Sunday Guardian: Sensex today, 16 Oct",
-   "url": "https://sundayguardianlive.com/business/sensex-today-nifty-50-indian-stock-market-live-tech-mahindra-surges-over-7-wipro-gains-more-than-5-as-it-stocks-lead-recovery-check-top-nifty-50-gainers-biggest-losers-latest-updates-306773/"
+   "name": "Whalesbook: Indian Bank Q2",
+   "url": "https://www.whalesbook.com/news/English/brokerage-reports/Indian-Bank-Q2-Profit-Rises-15percent-as-Brokerages-Adjust-Outlook/6ad1ee5279a16deaeaf41845"
   },
   {
-   "name": "GoodReturns: Gold and silver rates live, 16 Oct",
-   "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-16-10-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-price-1541909.html"
+   "name": "Free Press Journal: E2E Networks Q2 FY27",
+   "url": "https://www.freepressjournal.in/business/e2e-networks-q2-fy27-revenue-jumps-to-2238-mn-pat-rises-to-727-mn-signs-1000-cr-ai-deal"
   },
   {
-   "name": "Saxo: Asia Market Quick Take, 16 Oct",
-   "url": "https://www.home.saxo/en-hk/content/articles/macro/asia-market-quick-take-16-october-2026-16102026"
+   "name": "Kotak Neo: Tips Music Q2 FY27",
+   "url": "https://www.kotakneo.com/news/stocks/tips-music-share-price-in-focus-after-q2-fy-27-results/"
   },
   {
-   "name": "HDFC Sky: Rupee rises 20 paise to 94.79, 16 Oct",
-   "url": "https://hdfcsky.com/news/inr-vs-usd-rate-october-16-2026"
+   "name": "Whalesbook: Solara Active Pharma Q2",
+   "url": "https://www.whalesbook.com/news/English/healthcarebiotech/Solara-Active-Pharma-Jumps-16percent-on-Q2-Profit-Turnaround/6ad1ea5579a16deaeaf412aa"
   },
   {
-   "name": "CNBC: India's rupee forecast to weaken toward 100, 16 Oct",
-   "url": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html"
+   "name": "Whalesbook: Jayaswal Neco Q2",
+   "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Jayaswal-Neco-Industries-Q2-Profit-Doubles-to-Rs-230-Crore/6ad1ec7ab2eb76fd08c53172"
   },
   {
    "name": "NewsBytes: FIIs sell ₹5,285 cr, DIIs buy ₹3,319 cr (15 Oct)",
@@ -933,26 +964,6 @@
   {
    "name": "IndiaIPO: Stocks to watch, 16 Oct",
    "url": "https://www.indiaipo.in/news/detail/stocks-to-watch-tomorrow-october-16-wipro-persistent-irfc-and-more"
-  },
-  {
-   "name": "5paisa: Nifty trade setup for 16 Oct",
-   "url": "https://www.5paisa.com/blog/nifty-trade-setup-for-october-16-2026"
-  },
-  {
-   "name": "HDFC Sky: India VIX falls 4.17% to 14.02 (15 Oct)",
-   "url": "https://hdfcsky.com/news/india-vix-falls-4-17percent-to-14-02-as-indian-markets-rally-despite-global-volatility-october-15-2026"
-  },
-  {
-   "name": "Tapetide: FII DII data",
-   "url": "https://tapetide.com/fii-dii-data"
-  },
-  {
-   "name": "Business Standard: Stock Market LIVE / close, 15 Oct",
-   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-15-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101500089_1.html"
-  },
-  {
-   "name": "DSIJ: Closing Bell, 15 Oct",
-   "url": "https://insights.dsij.in/dsijarticledetail/closing-bell-sensex-surges-1534-points-nifty-50-gains-375-points-as-it-and-banking-stocks-rally"
   },
   {
    "name": "Business Today: Wipro Q2",
@@ -979,10 +990,6 @@
    "url": "https://tradebrains.in/indian-markets/bdl-bags-a-1307-crore-torpedo-order-from-the-navy-as-quarterly-profit-jumps-more-than-sixfold-12679300"
   },
   {
-   "name": "Whalesbook: HDFC AMC Q2",
-   "url": "https://www.whalesbook.com/corporate-news/English/bankingfinance/HDFC-Asset-Management-Company-Q2-Profit-Rises-to-Rs-74981-Crore/6ad0993eb2eb76fd08c42d52"
-  },
-  {
    "name": "UNI: India–US trade deal first tranche",
    "url": "https://www.uniindia.com/business-economy/trade-deal-india-us-piyush-goyal/214661"
   },
@@ -991,16 +998,8 @@
    "url": "https://www.theweek.in/news/biz-tech/2026/10/13/npci-defers-upi-mdr-until-after-diwali.html"
   },
   {
-   "name": "Upstox: SEBI CAS guidelines",
-   "url": "https://upstox.com/news/market-news/financial-regulations/sebi-to-issue-guidelines-on-cas-in-a-week-says-chairman-tuhin-pandey/article-201631/"
-  },
-  {
    "name": "Upstox: IDBI–Fairfax explained",
    "url": "https://upstox.com/news/market-news/stocks/idbi-bank-shares-in-focus-fairfax-s-60-72-stake-acquisition-explained-10-key-factors-investors-need-to-know/article-201866/"
-  },
-  {
-   "name": "Kotak Neo: HCLTech Q2",
-   "url": "https://www.kotakneo.com/news/stocks/hcltech-q2-fy27-results-revenue-profit-and-deal-wins/"
   },
   {
    "name": "Kotak Neo: BHEL Q2",
@@ -1011,32 +1010,12 @@
    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-15-2026-hdb-financial-services-tata/53573460"
   },
   {
-   "name": "Business Standard: Transformers & Rectifiers Q2",
-   "url": "https://www.business-standard.com/markets/news/transformers-and-rectifiers-soars-14-on-strong-q2-stock-up-28-in-october-126101400202_1.html"
-  },
-  {
-   "name": "Kotak Neo: Stock Market Update, 16 Oct",
-   "url": "https://www.kotakneo.com/news/market-news/stock-market-update-16-october-2026-sensex-nifty/"
-  },
-  {
    "name": "Business Standard: Stocks to watch, 16 Oct",
    "url": "https://www.business-standard.com/markets/news/stocks-to-watch-jio-fin-yes-bank-wipro-l-t-fin-angel-one-urban-co-126101600086_1.html"
   },
   {
-   "name": "Kotak Neo: Bajaj Housing Finance Q2",
-   "url": "https://www.kotakneo.com/news/stocks/bajaj-housing-finance-q2-results-net-profit-rises-18-percent/"
-  },
-  {
    "name": "Upstox: SEBI revises CAS framework",
    "url": "https://upstox.com/news/market-news/stocks/bse-nse-nuvama-wealth-capital-market-stocks-in-focus-as-sebi-revises-cas-framework/article-201955/"
-  },
-  {
-   "name": "TradingView/Moneycontrol: Rupee opens at 94.73",
-   "url": "https://www.tradingview.com/news/moneycontrol:d9a31372b094b:0-rupee-opens-33-paise-higher-at-94-73-as-traders-unwind-dollar-bets-rbi-support-lifts-sentiment/"
-  },
-  {
-   "name": "ScanX: Stocks to watch, 14 Oct",
-   "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-14-2026-bharat-electronics-transformers/53487349"
   }
  ],
  "macro": [
@@ -1122,83 +1101,82 @@
   }
  ],
  "levels": {
-  "note": "Nifty levels: 5paisa and LKP (16 Oct setup); intraday levels from Business Standard live blog. Bank Nifty levels from 14 Oct (5paisa). MCX gold: GoodReturns, Upstox, Kedia.",
+  "note": "Nifty and Bank Nifty levels: 5paisa (15 Oct setup) plus today's high/low (Angel One). Sensex levels from recent closes. MCX gold: Kotak Neo close, Kedia and Upstox levels.",
   "indices": [
    {
     "name": "Nifty 50",
-    "close": "23,126.80 (+129.45, +0.56%) at 2:00 PM",
+    "close": "23,146.15 (+148.80, +0.65%)",
     "support": [
-     "23,077 (old resistance, now support)",
-     "22,900–22,850 (5paisa)",
-     "22,963 (today's opening low area)"
+     "23,077 (old hurdle, now support)",
+     "22,914 (today's low)",
+     "22,765 / 22,622 (5paisa)"
     ],
     "resistance": [
-     "23,187–23,320 (5paisa)"
+     "23,150 (today's high 23,149.85)",
+     "23,229 / 23,373 (5paisa)"
     ],
-    "comment": "Nifty dipped to about 22,963 at the open, then climbed through the 23,077 resistance on IT buying and held near 23,100–23,127 into the afternoon. Holding above 23,077 into the close would confirm the break; the next zone is 23,187–23,320. A slip back below 23,000 would mean the breakout failed."
+    "comment": "Nifty dipped to 22,914 early, then closed near the day's high, holding above 23,077 for a second day of gains on IT buying. The next hurdle is 23,229–23,373. Saturday's bank results and the Tuesday holiday mean Monday could open with a gap either way; a slip below 23,077 would weaken the set-up."
    },
    {
     "name": "Bank Nifty",
-    "close": "Close not found; private banks led (ICICI +3.8%, HDFC Bank +2.3%)",
+    "close": "Close not found; private banks lagged",
     "support": [
-     "55,000",
-     "54,813",
-     "54,501"
+     "55,272",
+     "54,940"
     ],
     "resistance": [
-     "55,819",
-     "56,131"
+     "56,349",
+     "56,681"
     ],
-    "comment": "No intraday Bank Nifty figure was found today. Banks and financials saw profit-booking after Thursday's rally, while Federal Bank rose 2.9% on record profit. HDFC Bank, ICICI Bank and Axis Bank report Saturday; analysts expect ICICI profit +8–14% and Axis +37–43% with margin pressure."
+    "comment": "Levels from 5paisa's 15 Oct setup. Private banks and financials saw profit-booking today ahead of HDFC Bank, ICICI Bank, Axis Bank and Yes Bank results on Saturday; Monday's open will mostly reflect those numbers. PSU banks posted modest gains, and PNB reported after the close."
    },
    {
     "name": "Sensex",
-    "close": "74,679.23 (+363.62, +0.49%) at 2:00 PM",
+    "close": "74,729.27 (+413.66, +0.56%)",
     "support": [
-     "73,970 (closing-auction level)",
-     "73,500",
-     "73,000"
+     "74,316 (Thursday close)",
+     "73,970",
+     "73,500"
     ],
     "resistance": [
      "75,000 (round number)"
     ],
-    "comment": "Sensex opened lower at 74,126, then recovered on IT (TechM, Infosys, TCS) and Airtel. 75,000 is the round-number hurdle and 74,300 (Thursday close) the first support."
+    "comment": "Sensex gained for a second day, led by Infosys, TCS, Tech Mahindra and Bharti Airtel. 75,000 is the next round-number hurdle; Thursday's 74,316 close is first support."
    },
    {
     "name": "MCX Gold (Dec)",
-    "close": "₹1,48,547 (+0.7%) at 2:27 PM",
+    "close": "₹1,48,429 (+0.64%) close",
     "support": [
      "1,47,665 (Kedia)",
      "1,46,400 (recent low, Upstox)"
     ],
     "resistance": [
-     "1,48,069 (Upstox)",
      "1,48,605",
      "1,51,040"
     ],
-    "comment": "Per 10g. MCX gold cleared ₹1,48,069 and is just under ₹1,48,605; a close above that opens ₹1,51,040. Mirae Asset Sharekhan advised selling on rallies due to US rate-hike fears, so expect resistance near these levels. ₹1,46,400 is the recent low."
+    "comment": "Per 10g. MCX gold rose 0.64% but stayed just under ₹1,48,605 resistance; a close above it opens ₹1,51,040. Silver did better (+1.33% to ₹2,13,460). Analysts still advise caution into the 28 Oct Fed meeting."
    }
   ],
   "breadth": [
    {
     "name": "Nifty 50",
-    "adv": 41,
-    "dec": 8
+    "adv": 26,
+    "dec": 24
    },
    {
     "name": "Sensex",
-    "adv": 1343,
-    "dec": 2218
+    "adv": 2131,
+    "dec": 1422
    }
   ],
-  "breadthDate": "15 Oct close. Nifty 50: 41 up, 8 down, 1 unchanged (Angel One). NSE all shares (shown on the Sensex card): 1,343 up, 2,218 down, 106 unchanged (DSIJ). Bank Nifty breadth not found"
+  "breadthDate": "16 Oct close. Nifty 50: 26 up, 24 down (Angel One). NSE all shares (shown on the Sensex card): 2,131 up, 1,422 down, 116 unchanged (DSIJ). Bank Nifty breadth not found"
  },
  "gold": {
-  "asof": "16 Oct, 2:30 PM IST",
-  "label": "Up ~0.7% today",
+  "asof": "16 Oct, close",
+  "label": "Up ~0.6% today",
   "dir": "pos",
-  "base": 148547,
-  "summary": "MCX gold rose about 0.7% to ₹1,48,547 per 10g by 2:27 PM with spot near $4,170, following Comex's 1.5% gain on Thursday, so gold ETFs like GOLDBEES are trading firm. A slightly stronger rupee (94.79) trims a little of the gain for Indian buyers. MCX is just below ₹1,48,605 resistance (₹1,51,040 above, ₹1,46,400 support), and one analyst advises selling on rallies until the 28 Oct Fed decision.",
+  "base": 148429,
+  "summary": "MCX December gold closed 0.64% higher at ₹1,48,429 per 10g, with spot near $4,170 and silver up 1.33%, so gold ETFs like GOLDBEES ended firm. The rupee kept gaining (about 94.79 midday), which trims part of the rise for Indian buyers. MCX is just under ₹1,48,605 resistance (₹1,51,040 above, ₹1,46,400 support), and the 28 Oct Fed decision is the next big swing factor.",
   "how": "Indian gold ETFs track the domestic gold rate: world gold in dollars × USD/INR, plus import duty. So both world events and the rupee move them.",
   "scenarios": [
    {
@@ -1215,7 +1193,7 @@
     "odds": "Under way overnight",
     "why": "The dollar fully reversed its post-CPI spike and the US 10-year yield fell to about 5.1%. If that continues, world gold gains; a firmer rupee takes back a small part for Indian ETFs.",
     "when": "Rupee 94.79 midday 16 Oct; DXY 102.00 on 15 Oct",
-    "line": "Dollar soft; MCX gold +0.7% to ₹1,48,547, rupee firmer."
+    "line": "Dollar soft; MCX gold +0.64% to ₹1,48,429, rupee firmer."
    },
    {
     "title": "Fed holds on 28 Oct (~71% odds)",
@@ -1310,7 +1288,7 @@
     "netWord": "Negative",
     "odds": "Under way",
     "why": "The rupee has gained 183 paise in five sessions (to 95.05) on RBI support, cheaper oil and unwinding of dollar bets, a big reason MCX gold has lagged world gold. A further 2% recovery would knock about 2% off Indian gold ETFs.",
-    "when": "USD/INR 95.05 close on 15 Oct; support 94.70, resistance 95.50 (HDFC Securities)",
+    "when": "USD/INR ~94.79 midday 16 Oct after 95.05 on 15 Oct; support 94.70 (HDFC Securities)",
     "line": "Rupee up ~1.9% in 5 days; another 2% would cut ~2% off gold ETFs."
    },
    {
@@ -1326,8 +1304,8 @@
     "netWord": "Positive",
     "odds": "Watch",
     "why": "Investors move money into gold when stocks fall. The WGC says weak Indian equities drove gold ETF buying in September. In a severe crash gold can dip briefly as people sell everything to raise cash, then recover.",
-    "when": "Nifty 22,997 (+1.66%) but smallcaps −1.31%; Kospi −7.7%, Nikkei −4.8%; India VIX ~14",
-    "line": "Money shifts to gold when stocks fall; Asian tech crash is the live risk."
+    "when": "Nifty 23,146 (+0.65%), second day up; midcaps flat; India VIX ~14",
+    "line": "Money shifts to gold when stocks fall; Saturday's bank results are the near-term test."
    },
    {
     "title": "Central banks keep buying",
@@ -1364,22 +1342,52 @@
   ]
  },
  "triggers": {
-  "asof": "16 Oct, 3:05 PM IST",
+  "asof": "16 Oct, 4:55 PM IST (after close)",
   "items": [
    {
-    "sym": "FEDERALBNK",
-    "name": "Federal Bank",
+    "sym": "PNB",
+    "name": "Punjab National Bank",
     "type": "Results",
     "dir": "pos",
-    "head": "Record Q2 profit ₹1,386 cr, up 45.1% from a year ago",
-    "detail": "Highest-ever quarterly profit, announced during market hours. Whether it beat analyst estimates was not confirmed in sources checked.",
-    "move": "+2.9% to ₹344.80 at 2:20 PM",
-    "src": "Business Standard live blog",
-    "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
+    "head": "Q2 profit ₹5,532 cr (Q1 ₹5,253 cr; year ago ₹4,904 cr); gross NPA 2.55%",
+    "detail": "Standalone profit up about 5% from the June quarter and about 13% from a year ago. Net NPA 0.25%, provision cover 97.3%, total income ₹38,185 cr. Whether it beat estimates was not confirmed.",
+    "move": "Announced after close",
+    "src": "Whalesbook",
+    "url": "https://www.whalesbook.com/corporate-news/English/bankingfinance/Punjab-National-Bank-Q2-Profit-Rises-to-Rs-5532-Crore/6ad2027cb2eb76fd08c55734",
     "hold": "2–4 weeks",
     "review": "6 Nov",
-    "moved": "2.9% today",
-    "holdNote": "Strong result, but big-bank results on Saturday can swing all banking shares on Monday."
+    "moved": "",
+    "holdNote": "Freshest idea: not in the price yet. Saturday's private bank results will also set Monday's bank mood."
+   },
+   {
+    "sym": "E2E",
+    "name": "E2E Networks",
+    "type": "Results",
+    "dir": "pos",
+    "head": "Q2 revenue +411% to ₹224 cr; profit ₹72.7 cr (32.5% margin)",
+    "detail": "Revenue up 43% from Q1. Repeats the ₹1,000 cr multi-year GPU contract with a sovereign AI client (first disclosed 1 Sept, so not new).",
+    "move": "Announced around the close; reaction Monday",
+    "src": "Free Press Journal",
+    "url": "https://www.freepressjournal.in/business/e2e-networks-q2-fy27-revenue-jumps-to-2238-mn-pat-rises-to-727-mn-signs-1000-cr-ai-deal",
+    "hold": "2–4 weeks",
+    "review": "6 Nov",
+    "moved": "",
+    "holdNote": "Very volatile AI stock; the big order is old news, so the reaction rests on the numbers. Use a tight stop-loss."
+   },
+   {
+    "sym": "INDIANB",
+    "name": "Indian Bank",
+    "type": "Results",
+    "dir": "pos",
+    "head": "Q2 profit +15% to ₹3,460 cr; NII +18%; net NPA 0.14%",
+    "detail": "Margin steady at 3.31%. NSE stake-sale gains used to add ₹1,390 cr to provisions (buffer ₹2,500 cr). ICICI Securities raised FY27–28 EPS estimates by about 4%.",
+    "move": "Today's move not found",
+    "src": "Whalesbook",
+    "url": "https://www.whalesbook.com/news/English/brokerage-reports/Indian-Bank-Q2-Profit-Rises-15percent-as-Brokerages-Adjust-Outlook/6ad1ee5279a16deaeaf41845",
+    "hold": "2–4 weeks",
+    "review": "6 Nov",
+    "moved": "",
+    "holdNote": "Clean, steady quarter; PSU banks move as a group, so watch PNB's reaction too."
    },
    {
     "sym": "TECHM",
@@ -1388,13 +1396,73 @@
     "dir": "pos",
     "head": "Q2 profit +32.7% to ₹1,586 cr; EBIT margin 14.8%; 1:1 bonus and ₹15 dividend",
     "detail": "Profit +32.7%, revenue +15.6%, deal wins $1.02 bn. 1:1 bonus and ₹15 dividend, record date 23 Oct.",
-    "move": "+6.8% to ₹1,762 at 12 PM (Fri)",
+    "move": "Close +8.48% to ₹1,790",
     "src": "ScanX / IndiaIPO",
     "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
     "hold": "Until 23 Oct record date",
     "review": "23 Oct",
-    "moved": "6.8% today, 4.75% Thu",
-    "holdNote": "Already up over 11% in two days; wait for a dip rather than chase. Bonus and dividend record date is 23 Oct."
+    "moved": "Close +8.5% today, +4.75% Thu",
+    "holdNote": "Up about 13% in two days; wait for a dip rather than chase. Bonus and dividend record date is 23 Oct."
+   },
+   {
+    "sym": "FEDERALBNK",
+    "name": "Federal Bank",
+    "type": "Results",
+    "dir": "pos",
+    "head": "Record Q2 profit ₹1,386 cr, up 45.1% from a year ago",
+    "detail": "Highest-ever quarterly profit, announced during market hours. Whether it beat analyst estimates was not confirmed in sources checked.",
+    "move": "+2.9% to ₹344.80 at 2:20 PM; close not found",
+    "src": "Business Standard live blog",
+    "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
+    "hold": "2–4 weeks",
+    "review": "6 Nov",
+    "moved": "",
+    "holdNote": "Strong result; gain under 3% so far. Saturday's big-bank results can swing all bank shares on Monday."
+   },
+   {
+    "sym": "IIFL",
+    "name": "IIFL Finance",
+    "type": "Results",
+    "dir": "pos",
+    "head": "Q2 profit +93% to ₹766 cr, beats estimate; AUM +38% on gold loans",
+    "detail": "Profit and asset quality (gross NPA 1.48%) both improved; gold-loan growth is the driver.",
+    "move": "Thu +0.55% to ₹598.10 (before results)",
+    "src": "ScanX",
+    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
+    "hold": "2–4 weeks",
+    "review": "2 Nov",
+    "moved": "",
+    "holdNote": "Not yet in the price; risk is a fall in gold prices slowing gold-loan demand."
+   },
+   {
+    "sym": "ANGELONE",
+    "name": "Angel One",
+    "type": "Results",
+    "dir": "pos",
+    "head": "Q2 profit +58% to ₹335 cr, beats estimates; ₹1.40 dividend (record 22 Oct)",
+    "detail": "EBITDA margin 44.6% and 37,000 net new active clients in September; the dividend is small, results are the trigger.",
+    "move": "Thu +2.27% to ₹313 (before results)",
+    "src": "ScanX",
+    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
+    "hold": "2–4 weeks",
+    "review": "2 Nov",
+    "moved": "",
+    "holdNote": "Broker shares swing with market volumes; any SEBI F&O curbs are the main risk."
+   },
+   {
+    "sym": "BDL",
+    "name": "Bharat Dynamics",
+    "type": "Order won",
+    "dir": "pos",
+    "head": "Signs ₹1,307 cr Indian Navy contract for heavyweight torpedoes",
+    "detail": "Worth about ₹1,307 cr plus taxes, to be delivered over 42 months. Order book was ₹26,176 cr at end-March; Q1 FY27 profit rose to ₹118.8 cr. Not confirmed as large against yearly revenue.",
+    "move": "Announced after close (closed ₹1,126.30, −0.1%)",
+    "src": "Business Today, Trade Brains",
+    "url": "https://tradebrains.in/indian-markets/bdl-bags-a-1307-crore-torpedo-order-from-the-navy-as-quarterly-profit-jumps-more-than-sixfold-12679300",
+    "hold": "2–3 trading days",
+    "review": "21 Oct",
+    "moved": "",
+    "holdNote": "Order is not yet in the price; BDL is a large company, so the order adds to its book rather than changing its size."
    },
    {
     "sym": "LTF",
@@ -1442,51 +1510,6 @@
     "holdNote": "A big global investor valuing the unit is positive; realty was weak today, which can delay the reaction."
    },
    {
-    "sym": "BDL",
-    "name": "Bharat Dynamics",
-    "type": "Order won",
-    "dir": "pos",
-    "head": "Signs ₹1,307 cr Indian Navy contract for heavyweight torpedoes",
-    "detail": "Worth about ₹1,307 cr plus taxes, to be delivered over 42 months. Order book was ₹26,176 cr at end-March; Q1 FY27 profit rose to ₹118.8 cr. Not confirmed as large against yearly revenue.",
-    "move": "Announced after close (closed ₹1,126.30, −0.1%)",
-    "src": "Business Today, Trade Brains",
-    "url": "https://tradebrains.in/indian-markets/bdl-bags-a-1307-crore-torpedo-order-from-the-navy-as-quarterly-profit-jumps-more-than-sixfold-12679300",
-    "hold": "2–3 trading days",
-    "review": "21 Oct",
-    "moved": "",
-    "holdNote": "Order is not yet in the price; BDL is a large company, so the order adds to its book rather than changing its size."
-   },
-   {
-    "sym": "IIFL",
-    "name": "IIFL Finance",
-    "type": "Results",
-    "dir": "pos",
-    "head": "Q2 profit +93% to ₹766 cr, beats estimate; AUM +38% on gold loans",
-    "detail": "Profit and asset quality (gross NPA 1.48%) both improved; gold-loan growth is the driver.",
-    "move": "Thu +0.55% to ₹598.10 (before results)",
-    "src": "ScanX",
-    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
-    "hold": "2–4 weeks",
-    "review": "2 Nov",
-    "moved": "",
-    "holdNote": "Not yet in the price; risk is a fall in gold prices slowing gold-loan demand."
-   },
-   {
-    "sym": "ANGELONE",
-    "name": "Angel One",
-    "type": "Results",
-    "dir": "pos",
-    "head": "Q2 profit +58% to ₹335 cr, beats estimates; ₹1.40 dividend (record 22 Oct)",
-    "detail": "EBITDA margin 44.6% and 37,000 net new active clients in September; the dividend is small, results are the trigger.",
-    "move": "Thu +2.27% to ₹313 (before results)",
-    "src": "ScanX",
-    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
-    "hold": "2–4 weeks",
-    "review": "2 Nov",
-    "moved": "",
-    "holdNote": "Broker shares swing with market volumes; any SEBI F&O curbs are the main risk."
-   },
-   {
     "sym": "PFC",
     "name": "PFC (and REC)",
     "type": "Regulatory",
@@ -1500,51 +1523,6 @@
     "review": "22 Oct",
     "moved": "",
     "holdNote": "Large PSU stocks move slowly on approvals; the swap ratio decides which share benefits more."
-   },
-   {
-    "sym": "ONWARDTEC",
-    "name": "Onward Technologies",
-    "type": "Results",
-    "dir": "pos",
-    "head": "Q2 profit up 41% to ₹16.8 cr; share hits 52-week high",
-    "detail": "Small engineering-services firm; the share hit its 20% upper limit.",
-    "move": "+19.9% to ₹427.40 at 12:21 PM",
-    "src": "Business Standard live blog",
-    "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
-    "hold": "2–4 weeks",
-    "review": "6 Nov",
-    "moved": "19.9% today",
-    "holdNote": "Very small company and already up 20%; late buyers face high risk of a pullback."
-   },
-   {
-    "sym": "SHOPERSTOP",
-    "name": "Shoppers Stop",
-    "type": "Results",
-    "dir": "pos",
-    "head": "Q2 profit ₹3.1 cr versus ₹20.1 cr loss a year ago",
-    "detail": "Back in profit after losses last year and in Q1 (₹14.1 cr loss); announced around 2:30 PM.",
-    "move": "",
-    "src": "Business Standard live blog",
-    "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
-    "hold": "2–4 weeks",
-    "review": "6 Nov",
-    "moved": "",
-    "holdNote": "Turnaround is small in size; check the market reaction and margins before buying."
-   },
-   {
-    "sym": "SWSOLAR",
-    "name": "Sterling and Wilson Renewable",
-    "type": "Results",
-    "dir": "pos",
-    "head": "Q2 profit ₹16.8 cr vs ₹478 cr loss; order book +34% to ₹12,480 cr",
-    "detail": "Swing to profit with a much larger order book.",
-    "move": "Thu +1.87% to ₹174.96",
-    "src": "ScanX",
-    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
-    "hold": "2–4 weeks",
-    "review": "2 Nov",
-    "moved": "",
-    "holdNote": "Small profit on a large revenue base; volatile midcap, use a tight stop-loss."
    },
    {
     "sym": "TATACOMM",
@@ -1577,34 +1555,64 @@
     "holdNote": "Results beat estimates, but the stock is at a record and up 58% this year; NTPC's nuclear plans support the story. Buy only on a dip."
    },
    {
-    "sym": "TARIL",
-    "name": "Transformers & Rectifiers (India)",
+    "sym": "TIPSMUSIC",
+    "name": "Tips Music",
     "type": "Results",
     "dir": "pos",
-    "head": "Q2 profit more than doubles; revenue up over 60%; order book ₹7,237 cr",
-    "detail": "Q2 revenue up about 61% to ₹739 cr, EBITDA margin 17.4%, profit ₹75–81 cr (sources differ on consolidation). Order book ₹7,237 cr (+32%) and inquiry pipeline about ₹21,000 cr; new Changodar capacity due around Diwali.",
-    "move": "Rallied up to 18% intraday (Upstox); close not found",
-    "src": "Business Standard, ScanX",
-    "url": "https://www.business-standard.com/markets/news/transformers-and-rectifiers-soars-14-on-strong-q2-stock-up-28-in-october-126101400202_1.html",
+    "head": "Q2 profit +24.5% to ₹66 cr; revenue +34.8%; ₹6.50 interim dividend",
+    "detail": "EBITDA margin dipped to 70.8% from 76%. Record date not stated.",
+    "move": "+7.08% to ₹732.85 at 12:57 PM",
+    "src": "Kotak Neo",
+    "url": "https://www.kotakneo.com/news/stocks/tips-music-share-price-in-focus-after-q2-fy-27-results/",
     "hold": "2–4 weeks",
-    "review": "4 Nov",
-    "moved": "15–18% on Wed",
-    "holdNote": "Results beat, but the stock is up 28% this month and 15% today; wait for a pullback before buying."
+    "review": "6 Nov",
+    "moved": "Up ~7% today",
+    "holdNote": "Already up on the news; lower margin is the watch point."
    },
    {
-    "sym": "PAYTM",
-    "name": "One 97 Communications (Paytm)",
-    "type": "Regulatory",
+    "sym": "SOLARA",
+    "name": "Solara Active Pharma",
+    "type": "Results",
     "dir": "pos",
-    "head": "GST demand on gaming arm First Games cut to ₹703.66 cr from ₹5,712 cr",
-    "detail": "GST demand on gaming arm First Games cut 88% with no extra impact on results. Nomura started coverage with a Buy and a ₹2,250 target (Trendlyne, 15 Oct). NPCI has deferred the 0.4% UPI merchant fee on payments above ₹2,000 until after Diwali.",
-    "move": "Close not found Thu",
-    "src": "ScanX, Trendlyne",
-    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-14-2026-bharat-electronics-transformers/53487349",
-    "hold": "3–5 trading days",
-    "review": "22 Oct",
+    "head": "Q2 profit ₹28.6 cr vs ₹9.3 cr loss a year ago",
+    "detail": "Turnaround quarter; share near its 52-week high of ₹774.",
+    "move": "Up 16% intraday, high ₹759",
+    "src": "Whalesbook",
+    "url": "https://www.whalesbook.com/news/English/healthcarebiotech/Solara-Active-Pharma-Jumps-16percent-on-Q2-Profit-Turnaround/6ad1ea5579a16deaeaf412aa",
+    "hold": "2–4 weeks",
+    "review": "6 Nov",
+    "moved": "Up 16% today",
+    "holdNote": "Small company already up sharply; late buyers risk a pullback."
+   },
+   {
+    "sym": "JAYNECOIND",
+    "name": "Jayaswal Neco Industries",
+    "type": "Results",
+    "dir": "pos",
+    "head": "Q2 profit doubles to ₹230 cr; revenue ₹2,194 cr vs ₹1,781 cr",
+    "detail": "Profit ₹229.81 cr vs ₹105.13 cr a year ago; revenue up about 23%.",
+    "move": "Today's move not found",
+    "src": "Whalesbook",
+    "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Jayaswal-Neco-Industries-Q2-Profit-Doubles-to-Rs-230-Crore/6ad1ec7ab2eb76fd08c53172",
+    "hold": "2–4 weeks",
+    "review": "6 Nov",
     "moved": "",
-    "holdNote": "Two positives (tax relief, broker Buy); the UPI fee start date after Diwali is the next trigger."
+    "holdNote": "Strong numbers in a cyclical steel business; check Monday's reaction before acting."
+   },
+   {
+    "sym": "ONWARDTEC",
+    "name": "Onward Technologies",
+    "type": "Results",
+    "dir": "pos",
+    "head": "Q2 profit up 41% to ₹16.8 cr; share hits 52-week high",
+    "detail": "Small engineering-services firm; the share hit its 20% upper limit.",
+    "move": "+19.9% to ₹427.40 (upper circuit, 12:21 PM)",
+    "src": "Business Standard live blog",
+    "url": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
+    "hold": "2–4 weeks",
+    "review": "6 Nov",
+    "moved": "19.9% today",
+    "holdNote": "Very small company and already up 20%; late buyers face high risk of a pullback."
    },
    {
     "sym": "WIPRO",
@@ -1613,58 +1621,13 @@
     "dir": "neu",
     "head": "Q3 revenue guide −1.5% to +0.5%; profit −1.4%; large-deal bookings −59%",
     "detail": "Q2 profit ₹3,200.6 cr, revenue ₹24,750 cr (+9.1%). IT services flat in constant currency; total bookings $2,595 mn (−22.9% q/q), large deals $674 mn (−58.6%). Margin 16.5%.",
-    "move": "Up about 2% today (some reports: over 5%) with the IT rally",
+    "move": "Close about +5.7% with the IT rally (DSIJ)",
     "src": "Business Today",
     "url": "https://www.businesstoday.in/markets/stocks/story/wipro-q2-profit-slips-slightly-yoy-to-rs-3201-crore-revenue-climbs-9-561842-2026-10-15",
     "hold": "Wait",
     "review": "21 Oct",
     "moved": "",
     "holdNote": "Shares rose with the sector despite weak guidance and bearish brokerages; that support is fragile."
-   },
-   {
-    "sym": "BAJAJHFL",
-    "name": "Bajaj Housing Finance",
-    "type": "Results",
-    "dir": "neu",
-    "head": "Q2 profit +18% to ₹643 cr; AUM +25% to ₹1.58 lakh cr",
-    "detail": "Revenue +15.3% to ₹2,726.78 crore; disbursements +25% to ₹19,930 crore. Margins about 20 bps lower year on year.",
-    "move": "−0.2% to ₹83.60 (12:47 PM)",
-    "src": "Kotak Neo",
-    "url": "https://www.kotakneo.com/news/stocks/bajaj-housing-finance-q2-results-net-profit-rises-18-percent/",
-    "hold": "Wait",
-    "review": "21 Oct",
-    "moved": "",
-    "holdNote": "In-line growth with slightly lower margins; no clear trigger either way."
-   },
-   {
-    "sym": "MANKIND",
-    "name": "Mankind Pharma",
-    "type": "Corporate action",
-    "dir": "neu",
-    "head": "Buying 70% of Belgium's Armed Cell Therapeutics for ₹511 cr",
-    "detail": "An overseas cell-therapy acquisition; deal size is small against Mankind's size.",
-    "move": "Among top Nifty Pharma gainers at 1:40 PM (no % given)",
-    "src": "Business Standard",
-    "url": "https://www.business-standard.com/markets/news/stocks-to-watch-jio-fin-yes-bank-wipro-l-t-fin-angel-one-urban-co-126101600086_1.html",
-    "hold": "Wait",
-    "review": "21 Oct",
-    "moved": "",
-    "holdNote": "A long-term bet on a new area; little near-term earnings effect."
-   },
-   {
-    "sym": "JIOFIN",
-    "name": "Jio Financial Services",
-    "type": "Results",
-    "dir": "neg",
-    "head": "Q2 profit −51% to ₹340 cr, misses ₹470 cr estimate",
-    "detail": "Income more than doubled but finance costs rose 325% as borrowing grew.",
-    "move": "−2.5% to ₹213.11 (11:41 AM)",
-    "src": "ScanX",
-    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
-    "hold": "Avoid new buying",
-    "review": "23 Oct",
-    "moved": "",
-    "holdNote": "Brokerages including MOFSL cut FY27 estimates; estimate cuts tend to weigh for several sessions."
    },
    {
     "sym": "YESBANK",
@@ -1679,37 +1642,22 @@
     "hold": "Avoid new buying",
     "review": "19 Oct",
     "moved": "",
-    "holdNote": "Q2 results on Saturday 17 Oct should show how the bank will account for the ruling."
+    "holdNote": "Results on Saturday should show the AT1 hit; review on Monday 19 Oct after the numbers."
    },
    {
-    "sym": "NESTLEIND",
-    "name": "Nestlé India",
+    "sym": "JIOFIN",
+    "name": "Jio Financial Services",
     "type": "Results",
     "dir": "neg",
-    "head": "Shares fall 7.8% despite Q2 profit +36% to ₹1,026.7 cr",
-    "detail": "Sales +20.5% to ₹6,782 cr, EBITDA +31%; roughly in line with estimates after a 6% run-up this month. Management flagged food inflation and cost pressure.",
-    "move": "−1.32% to ₹1,258.90 at noon (after −7.76% Thu)",
-    "src": "Business Standard, Angel One, Trendlyne",
-    "url": "https://www.business-standard.com/markets/news/nestle-india-share-price-crashes-9-in-intraday-trade-post-q2-results-126101500502_1.html",
+    "head": "Q2 profit −51% to ₹340 cr, misses ₹470 cr estimate",
+    "detail": "Income more than doubled but finance costs rose 325% as borrowing grew.",
+    "move": "Among top 5 Nifty losers at close (Kotak Neo); −2.5% at 11:41 AM",
+    "src": "ScanX",
+    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
     "hold": "Avoid new buying",
-    "review": "21 Oct",
+    "review": "23 Oct",
     "moved": "",
-    "holdNote": "Down about 9% in two days; selling has not settled yet."
-   },
-   {
-    "sym": "PERSISTENT",
-    "name": "Persistent Systems",
-    "type": "Results",
-    "dir": "neg",
-    "head": "Q2 profit falls 25% to ₹351.5 cr on Nagarro takeover costs; revenue up to ₹4,663.9 cr",
-    "detail": "Revenue rose from ₹3,580.7 cr as Nagarro SE (94% acquired) was added; integration and financing costs cut profit from ₹471.5 cr. Corporate guarantee of up to €1,540 mn for bridge loans; up to $1.25 bn fund-raise approved on 5 Oct.",
-    "move": "Announced around 4 PM, after close",
-    "src": "Whalesbook",
-    "url": "https://www.whalesbook.com/corporate-news/English/technology/Persistent-Systems-Q2-Revenue-Rises-to-4663-Crore-Profit-Dips-to-351-Crore/6ad0acdfb2eb76fd08c45631",
-    "hold": "Avoid new buying",
-    "review": "21 Oct",
-    "moved": "",
-    "holdNote": "Company calls the margin hit temporary, but a profit fall at a premium valuation usually gets sold first."
+    "holdNote": "Brokerages including MOFSL cut FY27 estimates; estimate cuts tend to weigh for several sessions."
    },
    {
     "sym": "HDBFS",
@@ -1727,13 +1675,43 @@
     "holdNote": "Two days of heavy selling to a record low; avoid until it stabilises."
    },
    {
+    "sym": "NESTLEIND",
+    "name": "Nestlé India",
+    "type": "Results",
+    "dir": "neg",
+    "head": "Shares fall 7.8% despite Q2 profit +36% to ₹1,026.7 cr",
+    "detail": "Sales +20.5% to ₹6,782 cr, EBITDA +31%; roughly in line with estimates after a 6% run-up this month. Management flagged food inflation and cost pressure.",
+    "move": "−1.32% to ₹1,258.90 at noon Fri (after −7.76% Thu)",
+    "src": "Business Standard, Angel One, Trendlyne",
+    "url": "https://www.business-standard.com/markets/news/nestle-india-share-price-crashes-9-in-intraday-trade-post-q2-results-126101500502_1.html",
+    "hold": "Avoid new buying",
+    "review": "21 Oct",
+    "moved": "",
+    "holdNote": "Down about 9% in two days; selling has not settled yet."
+   },
+   {
+    "sym": "PERSISTENT",
+    "name": "Persistent Systems",
+    "type": "Results",
+    "dir": "neg",
+    "head": "Q2 profit falls 25% to ₹351.5 cr on Nagarro takeover costs; revenue up to ₹4,663.9 cr",
+    "detail": "Revenue rose from ₹3,580.7 cr as Nagarro SE (94% acquired) was added; integration and financing costs cut profit from ₹471.5 cr. Corporate guarantee of up to €1,540 mn for bridge loans; up to $1.25 bn fund-raise approved on 5 Oct.",
+    "move": "Declined on Friday (DSIJ); % not found",
+    "src": "Whalesbook",
+    "url": "https://www.whalesbook.com/corporate-news/English/technology/Persistent-Systems-Q2-Revenue-Rises-to-4663-Crore-Profit-Dips-to-351-Crore/6ad0acdfb2eb76fd08c45631",
+    "hold": "Avoid new buying",
+    "review": "21 Oct",
+    "moved": "",
+    "holdNote": "Company calls the margin hit temporary, but a profit fall at a premium valuation usually gets sold first."
+   },
+   {
     "sym": "HDFCLIFE",
     "name": "HDFC Life Insurance",
     "type": "Results",
     "dir": "neg",
     "head": "Q2 profit +13.6% to ₹508 cr, below estimates; APE +11%",
     "detail": "Premium growth was healthy but profit missed; board also cleared up to ₹500 cr of subordinated NCDs.",
-    "move": "−1.63% to ₹541.55 at noon (top Nifty loser)",
+    "move": "−1.63% to ₹541.55 at noon; close not found",
     "src": "ScanX / IndiaIPO",
     "url": "https://www.indiaipo.in/news/detail/stocks-to-watch-tomorrow-october-16-wipro-persistent-irfc-and-more",
     "hold": "Avoid new buying",
@@ -1743,7 +1721,7 @@
    }
   ],
   "guide": {
-   "_all": "Each card is a company-specific event from the latest filings and news. Green = likely to support the share, red = likely to pressure it, amber = watch. New overnight: Tech Mahindra beat with a 1:1 bonus, IIFL Finance and Angel One beat, PFC–REC got the RBI's nod; Jio Financial and Metro Brands missed. No client-loss or order-cancellation news found today. Review-by dates are counted in trading days (20 Oct is a market holiday). Also new since the open: L&T Finance's beat, Maruti's ₹6,300 cr tax relief, CPPIB's ₹1,500 cr into Prestige's hotel arm and Mankind's Belgian acquisition.",
+   "_all": "Each card is a company-specific event from the latest filings and news. Green = likely to support the share, red = likely to pressure it, amber = watch. New today: PNB reported after the close (fresh, not yet priced), E2E Networks reported near the close, plus Indian Bank, Tips Music, Solara and Jayaswal Neco results. DLF, LTM, Oberoi Realty, Urban Company and others report this evening; they will appear in Monday's morning update. No client-loss or order-cancellation news found today. Review-by dates are counted in trading days (20 Oct is a market holiday).",
    "Can rise": "Positive triggers. A share does not always rise on good news, especially if it ran up before the announcement or the overall market is weak.",
    "Can fall": "Negative triggers. Results misses, big investor exits and weak business updates usually hit the share on the day and can weigh for weeks.",
    "Order won": "An order matters most when it is big compared with the company's yearly revenue (5–10% or more is significant for smaller companies). Repeat orders and orders in a new area are good signs of future growth. Check the execution period: a 24-month order adds revenue slowly. Being named the only qualified bidder (Goodluck) is a step before an order, not an order itself.",
@@ -1759,9 +1737,9 @@
   },
   "meetings": [
    {
-    "date": "Fri 16 Oct",
-    "names": "LTM, DLF, PNB, Oberoi Realty, Urban Company, Crompton, Ujjivan SFB, Tejas Networks, Jindal Saw, Himadri, E2E Networks",
-    "note": "Q2 results due after market; Federal Bank, Bajaj Housing Finance and Shoppers Stop already out. Forex reserves data this evening"
+    "date": "Fri 16 Oct (evening)",
+    "names": "DLF, LTM, Oberoi Realty, Urban Company, Crompton, Ujjivan SFB, Tejas Networks, Jindal Saw, Himadri",
+    "note": "Results after market; figures not yet out at 4:55 PM. Reaction Monday 19 Oct. PNB already reported"
    },
    {
     "date": "Sat 17 Oct",
@@ -1796,7 +1774,7 @@
   ]
  },
  "policy": {
-  "asof": "16 Oct, 3:05 PM IST",
+  "asof": "16 Oct, 4:55 PM IST",
   "items": [
    {
     "id": "trade",
