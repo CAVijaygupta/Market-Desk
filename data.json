@@ -32,23 +32,28 @@
  "brief": [
   {
    "dir": "neg",
-   "text": "Nifty fell 1.11% to 22,888.95 and Sensex 1.17% to 73,852.90; private banks led the fall."
+   "text": "Nifty fell 1.11% to 22,888.95 and Sensex 1.17% to 73,852.90; private banks led the fall.",
+   "date": "19 Oct"
   },
   {
    "dir": "neg",
-   "text": "Axis Bank fell about 5% even though Q2 profit rose 39%; HDFC Bank, Bajaj Finance and UltraTech also fell."
+   "text": "Axis Bank fell about 5% even though Q2 profit rose 39%; HDFC Bank, Bajaj Finance and UltraTech also fell.",
+   "date": "19 Oct"
   },
   {
    "dir": "pos",
-   "text": "PSU banks rose 2.4%: Union Bank +5–6% on a 30% profit jump, PNB +5%, SBI higher."
+   "text": "PSU banks rose 2.4%: Union Bank +5–6% on a 30% profit jump, PNB +5%, SBI higher.",
+   "date": "19 Oct"
   },
   {
    "dir": "pos",
-   "text": "Brent fell about 2% to ~$107 after the US waived some Russia-linked sanctions: good for India's import bill."
+   "text": "Brent fell about 2% to ~$107 after the US waived some Russia-linked sanctions: good for India's import bill.",
+   "date": "19 Oct"
   },
   {
    "dir": "neu",
-   "text": "Holiday tomorrow (Dussehra). Wednesday: Jio Platforms IPO opens; watch 22,800 support and 23,000 resistance."
+   "text": "Holiday tomorrow (Dussehra). Wednesday: Jio Platforms IPO opens; watch 22,800 support and 23,000 resistance.",
+   "date": "19 Oct"
   }
  ],
  "live": [
@@ -735,22 +740,22 @@
   {
    "sym": "PNB",
    "dir": "pos",
-   "reason": "Q2 profit ₹5,532 cr after the close; gross NPA 2.55%. First reaction Monday"
+   "reason": "16 Oct: Q2 profit ₹5,532 cr after the close; gross NPA 2.55%. First reaction Monday"
   },
   {
    "sym": "E2E",
    "dir": "pos",
-   "reason": "Revenue +411%, profit ₹72.7 cr; results near the close"
+   "reason": "16 Oct: Revenue +411%, profit ₹72.7 cr; results near the close"
   },
   {
    "sym": "INDIANB",
    "dir": "pos",
-   "reason": "Profit +15% to ₹3,460 cr; ICICI Sec raised estimates"
+   "reason": "16 Oct: Profit +15% to ₹3,460 cr; ICICI Sec raised estimates"
   },
   {
    "sym": "TECHM",
    "dir": "pos",
-   "reason": "Closed +8.48% at ₹1,790; up about 13% in two days. Bonus/dividend record date 23 Oct; wait for a dip"
+   "reason": "15 Oct: Closed +8.48% at ₹1,790; up about 13% in two days. Bonus/dividend record date 23 Oct; wait for a dip"
   },
   {
    "sym": "INFY",
@@ -760,17 +765,17 @@
   {
    "sym": "FEDERALBNK",
    "dir": "pos",
-   "reason": "Record Q2 profit ₹1,386 cr (+45%)"
+   "reason": "16 Oct: Record Q2 profit ₹1,386 cr (+45%)"
   },
   {
    "sym": "BDL",
    "dir": "pos",
-   "reason": "₹1,307 cr Navy torpedo order; review 22 Oct"
+   "reason": "16 Oct: ₹1,307 cr Navy torpedo order; review 22 Oct"
   },
   {
    "sym": "IIFL",
    "dir": "pos",
-   "reason": "Profit +93% to ₹766 cr, beat"
+   "reason": "15 Oct: Profit +93% to ₹766 cr, beat"
   },
   {
    "sym": "ICICIBANK",
@@ -785,12 +790,12 @@
   {
    "sym": "YESBANK",
    "dir": "neg",
-   "reason": "AT1 ruling could cut CET1 by ~250 bps; results Saturday"
+   "reason": "15 Oct: AT1 ruling could cut CET1 by ~250 bps; results Saturday"
   },
   {
    "sym": "JIOFIN",
    "dir": "neg",
-   "reason": "Profit halved; among top Nifty losers again today"
+   "reason": "15 Oct: Profit halved; among top Nifty losers again today"
   },
   {
    "sym": "INDIGO",
@@ -1307,7 +1312,8 @@
     "hold": "2–4 weeks",
     "review": "9 Nov",
     "moved": "Already up 5–6%",
-    "holdNote": "Part of the move is done; better entry on a dip. Exit if PSU bank index loses momentum."
+    "holdNote": "Part of the move is done; better entry on a dip. Exit if PSU bank index loses momentum.",
+    "date": "19 Oct"
    },
    {
     "sym": "IXIGO",
@@ -1322,7 +1328,8 @@
     "hold": "1–3 weeks",
     "review": "6 Nov",
     "moved": "Already up 13%",
-    "holdNote": "Big one-day jump can retrace; small position only, short holding."
+    "holdNote": "Big one-day jump can retrace; small position only, short holding.",
+    "date": "19 Oct"
    },
    {
     "sym": "NATCOPHARM",
@@ -1337,7 +1344,8 @@
     "hold": "2–4 weeks",
     "review": "9 Nov",
     "moved": "",
-    "holdNote": "Small move so far; review with Q2 results."
+    "holdNote": "Small move so far; review with Q2 results.",
+    "date": "19 Oct"
    },
    {
     "sym": "AXISBANK",
@@ -1352,7 +1360,8 @@
     "hold": "Avoid fresh buying 1–2 weeks",
     "review": "2 Nov",
     "moved": "",
-    "holdNote": "Wait for the fall to settle before considering."
+    "holdNote": "Wait for the fall to settle before considering.",
+    "date": "19 Oct"
    },
    {
     "sym": "URBANCO",
@@ -1367,7 +1376,8 @@
     "hold": "Avoid 2–4 weeks",
     "review": "9 Nov",
     "moved": "",
-    "holdNote": "Loss-making stocks fall hard on misses."
+    "holdNote": "Loss-making stocks fall hard on misses.",
+    "date": "19 Oct"
    },
    {
     "sym": "JSFB",
@@ -1382,7 +1392,8 @@
     "hold": "Avoid 2–4 weeks",
     "review": "9 Nov",
     "moved": "",
-    "holdNote": ""
+    "holdNote": "",
+    "date": "19 Oct"
    },
    {
     "sym": "ULTRACEMCO",
@@ -1397,7 +1408,8 @@
     "hold": "Wait 1–2 weeks",
     "review": "2 Nov",
     "moved": "",
-    "holdNote": ""
+    "holdNote": "",
+    "date": "19 Oct"
    },
    {
     "sym": "PNB",
@@ -1412,7 +1424,8 @@
     "hold": "2–4 weeks",
     "review": "6 Nov",
     "moved": "Up about 5% on 19 Oct",
-    "holdNote": "Results already reacted (+5% on 19 Oct); hold window still runs to 6 Nov."
+    "holdNote": "Results already reacted (+5% on 19 Oct); hold window still runs to 6 Nov.",
+    "date": "16 Oct"
    },
    {
     "sym": "E2E",
@@ -1427,7 +1440,8 @@
     "hold": "2–4 weeks",
     "review": "6 Nov",
     "moved": "",
-    "holdNote": "Very volatile AI stock; the big order is old news, so the reaction rests on the numbers. Use a tight stop-loss."
+    "holdNote": "Very volatile AI stock; the big order is old news, so the reaction rests on the numbers. Use a tight stop-loss.",
+    "date": "16 Oct"
    },
    {
     "sym": "INDIANB",
@@ -1442,7 +1456,8 @@
     "hold": "2–4 weeks",
     "review": "6 Nov",
     "moved": "",
-    "holdNote": "Clean, steady quarter; PSU banks move as a group, so watch PNB's reaction too."
+    "holdNote": "Clean, steady quarter; PSU banks move as a group, so watch PNB's reaction too.",
+    "date": "16 Oct"
    },
    {
     "sym": "TECHM",
@@ -1457,7 +1472,8 @@
     "hold": "Until 23 Oct record date",
     "review": "23 Oct",
     "moved": "Close +8.5% today, +4.75% Thu",
-    "holdNote": "Up about 13% in two days; wait for a dip rather than chase. Bonus and dividend record date is 23 Oct."
+    "holdNote": "Up about 13% in two days; wait for a dip rather than chase. Bonus and dividend record date is 23 Oct.",
+    "date": "15 Oct"
    },
    {
     "sym": "FEDERALBNK",
@@ -1472,7 +1488,8 @@
     "hold": "2–4 weeks",
     "review": "6 Nov",
     "moved": "",
-    "holdNote": "Strong result; gain under 3% so far. Saturday's big-bank results can swing all bank shares on Monday."
+    "holdNote": "Strong result; gain under 3% so far. Saturday's big-bank results can swing all bank shares on Monday.",
+    "date": "16 Oct"
    },
    {
     "sym": "IIFL",
@@ -1487,7 +1504,8 @@
     "hold": "2–4 weeks",
     "review": "2 Nov",
     "moved": "",
-    "holdNote": "Not yet in the price; risk is a fall in gold prices slowing gold-loan demand."
+    "holdNote": "Not yet in the price; risk is a fall in gold prices slowing gold-loan demand.",
+    "date": "15 Oct"
    },
    {
     "sym": "ANGELONE",
@@ -1502,7 +1520,8 @@
     "hold": "2–4 weeks",
     "review": "2 Nov",
     "moved": "",
-    "holdNote": "Broker shares swing with market volumes; any SEBI F&O curbs are the main risk."
+    "holdNote": "Broker shares swing with market volumes; any SEBI F&O curbs are the main risk.",
+    "date": "15 Oct"
    },
    {
     "sym": "BDL",
@@ -1517,7 +1536,8 @@
     "hold": "2–3 trading days",
     "review": "21 Oct",
     "moved": "",
-    "holdNote": "Order is not yet in the price; BDL is a large company, so the order adds to its book rather than changing its size."
+    "holdNote": "Order is not yet in the price; BDL is a large company, so the order adds to its book rather than changing its size.",
+    "date": "16 Oct"
    },
    {
     "sym": "LTF",
@@ -1532,7 +1552,8 @@
     "hold": "2–4 weeks",
     "review": "6 Nov",
     "moved": "",
-    "holdNote": "Growth plus cleaner loans; NBFC shares are swinging on results this week, so use a stop-loss."
+    "holdNote": "Growth plus cleaner loans; NBFC shares are swinging on results this week, so use a stop-loss.",
+    "date": "15 Oct"
    },
    {
     "sym": "MARUTI",
@@ -1547,7 +1568,8 @@
     "hold": "3–5 trading days",
     "review": "26 Oct",
     "moved": "",
-    "holdNote": "Removes a large contingent liability; the tax department can still appeal."
+    "holdNote": "Removes a large contingent liability; the tax department can still appeal.",
+    "date": "15 Oct"
    },
    {
     "sym": "PRESTIGE",
@@ -1562,7 +1584,8 @@
     "hold": "2–3 trading days",
     "review": "22 Oct",
     "moved": "",
-    "holdNote": "A big global investor valuing the unit is positive; realty was weak today, which can delay the reaction."
+    "holdNote": "A big global investor valuing the unit is positive; realty was weak today, which can delay the reaction.",
+    "date": "15 Oct"
    },
    {
     "sym": "PFC",
@@ -1577,7 +1600,8 @@
     "hold": "3–5 trading days",
     "review": "22 Oct",
     "moved": "",
-    "holdNote": "Large PSU stocks move slowly on approvals; the swap ratio decides which share benefits more."
+    "holdNote": "Large PSU stocks move slowly on approvals; the swap ratio decides which share benefits more.",
+    "date": "15 Oct"
    },
    {
     "sym": "TATACOMM",
@@ -1592,7 +1616,8 @@
     "hold": "2–4 weeks",
     "review": "5 Nov",
     "moved": "5.5% on Thu",
-    "holdNote": "Clear beat, but it gave back half its intraday jump; better bought on a dip with a stop-loss."
+    "holdNote": "Clear beat, but it gave back half its intraday jump; better bought on a dip with a stop-loss.",
+    "date": "15 Oct"
    },
    {
     "sym": "BHEL",
@@ -1607,7 +1632,8 @@
     "hold": "2–4 weeks",
     "review": "28 Oct",
     "moved": "5.1% on Wed",
-    "holdNote": "Results beat estimates, but the stock is at a record and up 58% this year; NTPC's nuclear plans support the story. Buy only on a dip."
+    "holdNote": "Results beat estimates, but the stock is at a record and up 58% this year; NTPC's nuclear plans support the story. Buy only on a dip.",
+    "date": "14 Oct"
    },
    {
     "sym": "TIPSMUSIC",
@@ -1622,7 +1648,8 @@
     "hold": "2–4 weeks",
     "review": "6 Nov",
     "moved": "Up ~7% today",
-    "holdNote": "Already up on the news; lower margin is the watch point."
+    "holdNote": "Already up on the news; lower margin is the watch point.",
+    "date": "16 Oct"
    },
    {
     "sym": "SOLARA",
@@ -1637,7 +1664,8 @@
     "hold": "2–4 weeks",
     "review": "6 Nov",
     "moved": "Up 16% today",
-    "holdNote": "Small company already up sharply; late buyers risk a pullback."
+    "holdNote": "Small company already up sharply; late buyers risk a pullback.",
+    "date": "16 Oct"
    },
    {
     "sym": "JAYNECOIND",
@@ -1652,7 +1680,8 @@
     "hold": "2–4 weeks",
     "review": "6 Nov",
     "moved": "",
-    "holdNote": "Strong numbers in a cyclical steel business; check Monday's reaction before acting."
+    "holdNote": "Strong numbers in a cyclical steel business; check Monday's reaction before acting.",
+    "date": "16 Oct"
    },
    {
     "sym": "ONWARDTEC",
@@ -1667,7 +1696,8 @@
     "hold": "2–4 weeks",
     "review": "6 Nov",
     "moved": "19.9% today",
-    "holdNote": "Very small company and already up 20%; late buyers face high risk of a pullback."
+    "holdNote": "Very small company and already up 20%; late buyers face high risk of a pullback.",
+    "date": "16 Oct"
    },
    {
     "sym": "WIPRO",
@@ -1682,7 +1712,8 @@
     "hold": "Wait",
     "review": "21 Oct",
     "moved": "",
-    "holdNote": "Shares rose with the sector despite weak guidance and bearish brokerages; that support is fragile."
+    "holdNote": "Shares rose with the sector despite weak guidance and bearish brokerages; that support is fragile.",
+    "date": "15 Oct"
    },
    {
     "sym": "YESBANK",
@@ -1697,7 +1728,8 @@
     "hold": "Avoid new buying",
     "review": "19 Oct",
     "moved": "Fell about 4% on 19 Oct",
-    "holdNote": "Results on Saturday should show the AT1 hit; review on Monday 19 Oct after the numbers."
+    "holdNote": "Results on Saturday should show the AT1 hit; review on Monday 19 Oct after the numbers.",
+    "date": "15 Oct"
    },
    {
     "sym": "JIOFIN",
@@ -1712,7 +1744,8 @@
     "hold": "Avoid new buying",
     "review": "23 Oct",
     "moved": "",
-    "holdNote": "Brokerages including MOFSL cut FY27 estimates; estimate cuts tend to weigh for several sessions."
+    "holdNote": "Brokerages including MOFSL cut FY27 estimates; estimate cuts tend to weigh for several sessions.",
+    "date": "15 Oct"
    },
    {
     "sym": "HDBFS",
@@ -1727,7 +1760,8 @@
     "hold": "Avoid new buying",
     "review": "23 Oct",
     "moved": "",
-    "holdNote": "Two days of heavy selling to a record low; avoid until it stabilises."
+    "holdNote": "Two days of heavy selling to a record low; avoid until it stabilises.",
+    "date": "14 Oct"
    },
    {
     "sym": "NESTLEIND",
@@ -1742,7 +1776,8 @@
     "hold": "Avoid new buying",
     "review": "21 Oct",
     "moved": "",
-    "holdNote": "Down about 9% in two days; selling has not settled yet."
+    "holdNote": "Down about 9% in two days; selling has not settled yet.",
+    "date": "15 Oct"
    },
    {
     "sym": "PERSISTENT",
@@ -1757,7 +1792,8 @@
     "hold": "Avoid new buying",
     "review": "21 Oct",
     "moved": "",
-    "holdNote": "Company calls the margin hit temporary, but a profit fall at a premium valuation usually gets sold first."
+    "holdNote": "Company calls the margin hit temporary, but a profit fall at a premium valuation usually gets sold first.",
+    "date": "15 Oct"
    },
    {
     "sym": "HDFCLIFE",
@@ -1772,7 +1808,8 @@
     "hold": "Avoid new buying",
     "review": "21 Oct",
     "moved": "",
-    "holdNote": "Market rejected the profit miss even though brokerages stay positive; wait for it to settle."
+    "holdNote": "Market rejected the profit miss even though brokerages stay positive; wait for it to settle.",
+    "date": "15 Oct"
    }
   ],
   "guide": {
@@ -1852,7 +1889,8 @@
     ],
     "symbols": [],
     "src": "UNI, Bloomberg (15 Oct)",
-    "url": "https://www.uniindia.com/business-economy/trade-deal-india-us-piyush-goyal/214661"
+    "url": "https://www.uniindia.com/business-economy/trade-deal-india-us-piyush-goyal/214661",
+    "date": "15 Oct"
    },
    {
     "id": "fed",
@@ -1876,7 +1914,8 @@
      "GOLDBEES"
     ],
     "src": "Investrade (15 Oct)",
-    "url": "https://investrade.com/market-review-october-15-2026/"
+    "url": "https://investrade.com/market-review-october-15-2026/",
+    "date": "16 Oct"
    },
    {
     "id": "rbi",
@@ -1903,7 +1942,8 @@
      "SBIN"
     ],
     "src": "5paisa (MPC schedule), Reuters via Investing.com",
-    "url": "https://www.investing.com/news/economy-news/india-inflation-jumps-to-554-in-september-strengthening-case-for-further-rate-hikes-4943948"
+    "url": "https://www.investing.com/news/economy-news/india-inflation-jumps-to-554-in-september-strengthening-case-for-further-rate-hikes-4943948",
+    "date": "7 Oct"
    },
    {
     "id": "idbi",
@@ -1928,7 +1968,8 @@
      "CSBBANK"
     ],
     "src": "Upstox, Trendlyne (14–15 Oct)",
-    "url": "https://upstox.com/news/market-news/stocks/idbi-bank-shares-in-focus-fairfax-s-60-72-stake-acquisition-explained-10-key-factors-investors-need-to-know/article-201866/"
+    "url": "https://upstox.com/news/market-news/stocks/idbi-bank-shares-in-focus-fairfax-s-60-72-stake-acquisition-explained-10-key-factors-investors-need-to-know/article-201866/",
+    "date": "14 Oct"
    },
    {
     "id": "ltcg",
@@ -1954,7 +1995,8 @@
      "HDFCAMC"
     ],
     "src": "Outlook Money (13–14 Oct)",
-    "url": "https://www.outlookmoney.com/tax/sbi-research-proposes-scrapping-ltcg-tax-on-equities-amid-rs-3-lakh-crore-fpi-outflows"
+    "url": "https://www.outlookmoney.com/tax/sbi-research-proposes-scrapping-ltcg-tax-on-equities-amid-rs-3-lakh-crore-fpi-outflows",
+    "date": "19 Oct"
    },
    {
     "id": "cas",
@@ -1979,7 +2021,8 @@
      "NUVAMA"
     ],
     "src": "Upstox (16 Oct)",
-    "url": "https://upstox.com/news/market-news/stocks/bse-nse-nuvama-wealth-capital-market-stocks-in-focus-as-sebi-revises-cas-framework/article-201955/"
+    "url": "https://upstox.com/news/market-news/stocks/bse-nse-nuvama-wealth-capital-market-stocks-in-focus-as-sebi-revises-cas-framework/article-201955/",
+    "date": "15 Oct"
    },
    {
     "id": "upi",
@@ -2002,7 +2045,8 @@
      "PAYTM"
     ],
     "src": "The Week (13 Oct)",
-    "url": "https://www.theweek.in/news/biz-tech/2026/10/13/npci-defers-upi-mdr-until-after-diwali.html"
+    "url": "https://www.theweek.in/news/biz-tech/2026/10/13/npci-defers-upi-mdr-until-after-diwali.html",
+    "date": "13 Oct"
    },
    {
     "id": "mid",
@@ -2031,7 +2075,8 @@
      "ONGC"
     ],
     "src": "Business Standard (9 and 15 Oct)",
-    "url": "https://www.business-standard.com/amp/markets/news/gold-may-draw-support-from-decline-in-oct-fed-rate-hike-bet-mirae-asset-126100900485_1.html"
+    "url": "https://www.business-standard.com/amp/markets/news/gold-may-draw-support-from-decline-in-oct-fed-rate-hike-bet-mirae-asset-126100900485_1.html",
+    "date": "16 Oct"
    },
    {
     "id": "opec",
@@ -2057,7 +2102,8 @@
      "IOC"
     ],
     "src": "Nairametrics (5 Oct)",
-    "url": "https://nairametrics.com/2026/10/05/opec-keeps-november-oil-production-unchanged-at-31-01-million-bpd/"
+    "url": "https://nairametrics.com/2026/10/05/opec-keeps-november-oil-production-unchanged-at-31-01-million-bpd/",
+    "date": "5 Oct"
    },
    {
     "id": "disinv",
@@ -2081,7 +2127,8 @@
      "IDBI"
     ],
     "src": "PSU Watch (14 Oct)",
-    "url": "https://psuwatch.com/newsupdates/fy27-psu-disinvestment-proceeds-to-exceed-budgets-target-for-first-time-in-8-years"
+    "url": "https://psuwatch.com/newsupdates/fy27-psu-disinvestment-proceeds-to-exceed-budgets-target-for-first-time-in-8-years",
+    "date": "16 Oct"
    },
    {
     "id": "gst",
@@ -2102,7 +2149,8 @@
     ],
     "symbols": [],
     "src": "Business Today (14 Oct)",
-    "url": "https://www.businesstoday.in/latest/economy/story/centres-reform-express-gathers-pace-idbi-sale-nears-finish-line-561634-2026-10-14"
+    "url": "https://www.businesstoday.in/latest/economy/story/centres-reform-express-gathers-pace-idbi-sale-nears-finish-line-561634-2026-10-14",
+    "date": "8 Oct"
    },
    {
     "id": "budget",
@@ -2122,7 +2170,8 @@
     ],
     "symbols": [],
     "src": "Outlook Money (14 Oct)",
-    "url": "https://www.outlookmoney.com/invest/stt-ltcg-tax-cut-stock-market-investors-impact-fm-nirmala-sitharaman"
+    "url": "https://www.outlookmoney.com/invest/stt-ltcg-tax-cut-stock-market-investors-impact-fm-nirmala-sitharaman",
+    "date": "16 Oct"
    }
   ]
  }

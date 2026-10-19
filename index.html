@@ -123,7 +123,8 @@ details[open]>summary::before{content:"▾ "}
 .trow .h{font-size:13.5px;line-height:1.35;min-width:0}
 .trow .m{font-family:var(--f-num);font-size:12px;white-space:nowrap}
 .trow.t2{grid-template-columns:86px minmax(0,1fr)}
-.trow.t2 .m{display:block;margin-top:2px}
+.trow.t2 .m{display:block;margin-top:2px;white-space:normal}
+.trow .s{overflow-wrap:anywhere;min-width:0}
 .sub{font-size:11.5px;letter-spacing:.07em;text-transform:uppercase;font-weight:700;margin:12px 0 4px}
 .sub:first-child{margin-top:0}
 .erow{display:grid;grid-template-columns:70px minmax(0,1fr);gap:10px}
@@ -196,6 +197,7 @@ details[open]>summary::before{content:"▾ "}
 .tc .sym{font-family:var(--f-num);font-size:14px;font-weight:600}
 .tc .nm{font-size:12px;color:var(--muted)}
 .tc p{margin:0;font-size:13px;color:var(--muted)}
+.dt{display:inline-block;font-family:var(--f-num);font-size:11px;font-weight:600;color:var(--muted);border:1px solid var(--line,rgba(128,128,128,.35));border-radius:4px;padding:1px 6px;margin-right:6px;white-space:nowrap;vertical-align:1px}
 .tc .typ{font-size:11px;color:var(--accent);background:var(--accent-soft);border-radius:4px;padding:2px 7px;font-weight:600}
 .tc .mv{font-family:var(--f-num);font-size:12.5px}
 .guide{font-size:13px;color:var(--muted);margin:0 0 12px;padding:10px 12px;background:var(--panel);border:1px solid var(--line);border-radius:8px}
@@ -544,14 +546,14 @@ footer ul{margin:6px 0 0;padding-left:18px;columns:2;column-gap:28px}
 
     const brief = D.brief && D.brief.length ? D.brief : m.drivers.slice(0,5).map(x => ({dir:x.dir, text:x.name+": "+x.note}));
     const icon = {pos:"↑", neg:"↓", neu:"•"};
-    $("brief").innerHTML = brief.map(b => `<li><span class="ic ${b.dir}" aria-hidden="true">${icon[b.dir]||"•"}</span><span>${esc(b.text)}</span></li>`).join("");
+    $("brief").innerHTML = brief.map(b => `<li><span class="ic ${b.dir}" aria-hidden="true">${icon[b.dir]||"•"}</span><span>${b.date?`<span class="dt">${esc(b.date)}</span>`:""}${esc(b.text)}</span></li>`).join("");
 
     const top = D.news.slice().sort((a,b)=>impRank[a.impact]-impRank[b.impact]).slice(0,6);
     $("o-news").innerHTML = top.map(n => `<div class="srow"><span class="dot ${tagDir(n.tag)}"></span><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.headline)}</a><small>${n.impact==="High"?'<span class="pill hi">High impact</span> ':""}${esc(n.source)} · ${esc(n.time)}</small></div>`).join("");
 
     const T = D.triggers;
     if (T){
-      const row = i => `<div class="trow t2"><span class="s">${esc(i.sym)}</span><span class="h">${esc(i.head)}${i.move?`<span class="m ${moveCls(i.move)}">${esc(i.move)}</span>`:""}${i.dir==="pos"&&i.hold?`<span class="hw">Hold ${esc(i.hold)}${i.review?" · review "+esc(i.review):""}${i.moved?" · already up":""}</span>`:""}</span></div>`;
+      const row = i => `<div class="trow t2"><span class="s">${esc(i.sym)}</span><span class="h">${i.date?`<span class="dt">${esc(i.date)}</span>`:""}${esc(i.head)}${i.move?`<span class="m ${moveCls(i.move)}">${esc(i.move)}</span>`:""}${i.dir==="pos"&&i.hold?`<span class="hw">Hold ${esc(i.hold)}${i.review?" · review "+esc(i.review):""}${i.moved?" · already up":""}</span>`:""}</span></div>`;
       const ups = T.items.filter(i=>i.dir==="pos").sort((a,b)=>(a.moved?1:0)-(b.moved?1:0)).slice(0,4), dns = T.items.filter(i=>i.dir==="neg").slice(0,3);
       $("o-trg").innerHTML = `<div class="sub up">Can rise</div><div class="list">${ups.map(row).join("")||'<p class="empty">None today</p>'}</div><div class="sub down">Can fall</div><div class="list">${dns.map(row).join("")||'<p class="empty">None today</p>'}</div>`;
     }
@@ -632,7 +634,7 @@ footer ul{margin:6px 0 0;padding-left:18px;columns:2;column-gap:28px}
     const list = T.items.filter(i => tf==="All" || (tf==="Can rise"?i.dir==="pos":tf==="Can fall"?i.dir==="neg":i.type===tf));
     $("trg").innerHTML = list.map(i => `<article class="tc ${i.dir}">
       <div class="top"><span><span class="sym">${esc(i.sym)}</span> <span class="nm">${esc(i.name)}</span></span><span class="pill ${i.dir}">${word[i.dir]}</span></div>
-      <h3><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.head)}</a></h3>
+      <h3>${i.date?`<span class="dt">${esc(i.date)}</span>`:""}<a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.head)}</a></h3>
       <p>${esc(i.detail)}</p>
       ${holdBox(i)}
       <div class="meta"><span class="typ">${esc(i.type)}</span>${i.move?`<span class="mv ${moveCls(i.move)}">${esc(i.move)}</span>`:""}<span>${esc(i.src)}</span></div>
@@ -651,7 +653,7 @@ footer ul{margin:6px 0 0;padding-left:18px;columns:2;column-gap:28px}
   /* ---------- stocks ---------- */
   function wlInfo(sym){
     const t = D.triggers && D.triggers.items.find(x => x.sym === sym);
-    if (t) return {dir:t.dir, text:t.type+": "+t.head};
+    if (t) return {dir:t.dir, text:(t.date?t.date+" · ":"")+t.type+": "+t.head};
     const w = D.watch.find(x => x.sym === sym);
     if (w) return {dir:w.dir, text:w.reason};
     const pi = D.policy && D.policy.items.find(x => (x.symbols||[]).includes(sym));
@@ -701,7 +703,7 @@ footer ul{margin:6px 0 0;padding-left:18px;columns:2;column-gap:28px}
       <div class="top"><span class="st ${/decided|approved|done/i.test(i.status)?"done":""}">${esc(i.status)}</span><span class="pill ${i.impact}">${iw[i.impact]||""}</span><span>${esc(i.region)} · ${esc(i.area)}</span></div>
       <h3><a href="${esc(i.url)}" target="_blank" rel="noopener" style="color:var(--ink);text-decoration:none">${esc(i.title)}</a></h3>
       <span class="who">${esc(i.who)}</span>
-      <p class="lt"><b>Latest:</b> ${esc(i.latest)}</p>
+      <p class="lt"><b>Latest${i.date?" ("+esc(i.date)+")":""}:</b> ${esc(i.latest)}</p>
       <div class="if"><b>Market impact:</b> ${esc(i.effect)}</div>
       <div class="facts"><span>When<b>${esc(i.when)}</b></span><span>Likelihood<b>${esc(i.likely)}</b></span></div>
       ${i.watch?`<p class="hint"><b style="color:var(--ink)">Watch:</b> ${esc(i.watch)}</p>`:""}
