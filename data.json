@@ -1,257 +1,253 @@
 {
- "updated": "Fri 23 Oct 2026, 8:15 AM IST",
+ "updated": "Mon 26 Oct 2026, 7:50 AM IST",
  "session": "Pre-market snapshot",
  "mood": {
   "label": "Bearish",
-  "score": 33,
-  "headline": "Weak open likely: Hang Seng −3%, Kospi −3.3% and $114 Brent weigh; Nifty must hold 22,600.",
-  "summary": "GIFT Nifty was at 22,832 (−34.5, −0.15% vs its own close) at 7:32 AM, a mild dip on its own, but Asia is falling hard: Hang Seng −3.0%, Kospi −3.3%, Nikkei −1.8% and Shanghai −1.5% in early trade after the Nasdaq dropped 2.6% on AI-spending worries. Brent is near $114 after attacks on Saudi targets and reports of US–Israel strike plans against Iran after the 3 Nov midterms. At home, Nifty fell for a third day to 22,687.65, FIIs sold ₹3,459 cr on Thursday (DIIs bought ₹2,891 cr) and the rupee is at 94.81. Infosys, Dr Reddy's, IndusInd Bank, JSW Steel, Tata Motors and BPCL report today, the Jio IPO closes and Zetwerk and Bonfiglioli list; a weak Infosys outlook would add to IT pressure. Supports are 22,600 and then 22,400–22,200; 22,800–22,900 is the first hurdle.",
+  "score": 39,
+  "headline": "Flat-to-weak open likely: GIFT Nifty flat at 22,595, but $115 Brent and Infosys's guidance cut weigh.",
+  "summary": "GIFT Nifty was at 22,595 (−13, −0.06%) at 7:23 AM after recovering from an early low of 22,533, pointing to a flat start near Friday's 22,600 close. The pressure is oil: Brent settled at $116.72 on Friday (+3.1%, a six-month high) and is $115.48 early Monday after Houthi missile attacks on Saudi Arabia and Trump saying a new Iran strike is possible. Asia is mildly lower (Nikkei −0.9%, Kospi −0.2% at the open) after a weak Friday on Wall Street (Dow −1.23%). Infosys cut its FY27 growth guidance to 1–2%, which can weigh on IT, while Kotak, IDFC First, AU SFB, Coforge and JSW Steel reported strong numbers. Nifty must hold 22,372 (Friday's low) and 22,180–22,220; 22,835–22,850 is the first hurdle ahead of Tuesday's expiry and the Fed decision late Wednesday IST.",
   "drivers": [
    {
-    "name": "Asia sell-off",
+    "name": "Oil at six-month high",
     "dir": "neg",
-    "note": "Fri early: Hang Seng −3.03%, Kospi −3.27%, Nikkei −1.81%, Shanghai −1.48% (DSIJ, TradingKey)"
+    "note": "Brent $116.72 Fri (+3.14%), $115.48 early Mon (−1.0%); WTI $102.08. Up 6.2% last week"
    },
    {
-    "name": "Wall Street tech rout",
+    "name": "Iran / Saudi risk",
     "dir": "neg",
-    "note": "Thu: Nasdaq −2.60% to 26,008.86, S&P −1.21%, Dow +0.02%; Meta −~7%, Tesla −~3%"
+    "note": "25 Oct: Houthi missiles at Riyadh and southern Saudi; Trump: no strike Sunday but 'a possibility I will'"
    },
    {
-    "name": "Oil near $114",
-    "dir": "neg",
-    "note": "Brent $113.78 (+0.77%), WTI $101.43 at 7 AM IST Fri (DSIJ); settled ~$112.3 Thu after Saudi-area attacks"
-   },
-   {
-    "name": "FIIs back to heavy selling",
-    "dir": "neg",
-    "note": "Thu: FIIs −₹3,458.70 cr, DIIs +₹2,891.32 cr (provisional)"
-   },
-   {
-    "name": "Rupee weaker",
-    "dir": "neg",
-    "note": "94.81/$ at 7 AM Fri (DSIJ) after −44 paise Thu, ending an eight-session rise"
-   },
-   {
-    "name": "GIFT Nifty only slightly lower",
+    "name": "GIFT Nifty flat",
     "dir": "neu",
-    "note": "22,832 (−34.5, −0.15%) at 7:32 AM IST vs its own previous close 22,866.5"
+    "note": "22,595 (−13, −0.06%) at 7:23 AM; recovered from 22,533.5 early low"
    },
    {
-    "name": "US yields steady",
-    "dir": "neu",
-    "note": "US 10-yr 4.97% (+1 bp), DXY 101.55 at 7 AM IST Fri (DSIJ)"
-   },
-   {
-    "name": "Gold down",
+    "name": "Wall Street and Asia soft",
     "dir": "neg",
-    "note": "Comex $4,015 (−0.22%) at 7 AM IST Fri; MCX Dec ₹1,44,593 (−1.0%) Thu midday"
+    "note": "Fri: Dow −1.23%, S&P −0.52%, Nasdaq −0.21%. Mon open: Nikkei −0.9%, Kospi −0.2%; Nasdaq futures +0.66%"
+   },
+   {
+    "name": "Domestic funds buying",
+    "dir": "pos",
+    "note": "Fri: FIIs +₹888 cr, DIIs +₹3,235 cr; DIIs net buyers 4 sessions in a row"
+   },
+   {
+    "name": "Rupee near 95",
+    "dir": "neg",
+    "note": "~94.93 Fri (−12 paise), Goodreturns ticker ₹95.01; record low 96.96"
+   },
+   {
+    "name": "Earnings mixed",
+    "dir": "neu",
+    "note": "Infosys guidance cut to 1–2%; Kotak profit +26%, IDFC First ~3x, Coforge +56%, JSW Steel ~3x"
+   },
+   {
+    "name": "Gold slips under $4,000",
+    "dir": "neg",
+    "note": "Spot ~$3,995 early Mon after a ~4% weekly fall; MCX Dec ₹1,42,734 (−0.4%) Fri"
    }
   ]
  },
  "brief": [
   {
-   "dir": "neg",
-   "date": "23 Oct",
-   "text": "Expect a weak start: GIFT Nifty is at 22,832 (−0.15%), but Hang Seng is down 3.0% and Kospi 3.3%; Nifty's first support is 22,600, then 22,400–22,200."
+   "dir": "neu",
+   "date": "26 Oct",
+   "text": "Expect a flat start: GIFT Nifty is at 22,595 (−0.06%) against Friday's Nifty close of 22,600; support is 22,372 and then 22,180–22,220, resistance 22,835–22,850."
   },
   {
    "dir": "neg",
-   "date": "22 Oct",
-   "text": "Overnight, the Nasdaq fell 2.6% and chip stocks slumped, so Indian IT may stay under pressure before Infosys results after market hours today."
-  },
-  {
-   "dir": "neg",
-   "date": "22 Oct",
-   "text": "FIIs sold ₹3,459 cr on Thursday while DIIs bought ₹2,891 cr; Nifty closed at 22,687.65 (−0.54%), its third straight fall."
+   "date": "26 Oct",
+   "text": "Oil is the main worry: Brent settled at $116.72 on Friday, a six-month high, and is $115.48 this morning after Houthi attacks on Saudi Arabia and Trump saying an Iran strike is possible."
   },
   {
    "dir": "neg",
    "date": "23 Oct",
-   "text": "Brent is near $114 and WTI above $101 after attacks in the Saudi–Red Sea area; the rupee sits at 94.81, and oil marketers and paints face cost pressure."
+   "text": "Infosys cut FY27 revenue growth guidance to 1–2% from 1.5–3%; its US-listed shares were down about 6% before the US open Friday, so IT may open weak."
+  },
+  {
+   "dir": "pos",
+   "date": "24 Oct",
+   "text": "Banks reported well over the weekend: Kotak profit +26% to ₹5,645 cr, IDFC First nearly tripled to ₹1,045 cr, AU SFB +53%; FIIs bought ₹888 cr and DIIs ₹3,235 cr on Friday."
   },
   {
    "dir": "neu",
-   "date": "23 Oct",
-   "text": "Today: Infosys, Dr Reddy's, IndusInd Bank, JSW Steel, Tata Motors, BPCL results; Jio IPO closes; Zetwerk and Bonfiglioli list; Tech Mahindra bonus record date."
+   "date": "27–28 Oct",
+   "text": "Coming up: October F&O expiry on Tuesday, Jio Platforms listing and September IIP on Wednesday, and the US Fed decision late Wednesday IST (hold ~90% priced)."
   }
  ],
  "live": [
   {
    "name": "GIFT Nifty",
-   "value": "22,832",
-   "chg": "−34.5",
-   "pct": -0.15,
-   "note": "7:32 AM IST Fri (NiftyTrader), vs GIFT previous close 22,866.5; DSIJ had 22,839.5 at 6:59 AM. GIFT is a futures contract, so it sits above the Nifty spot close of 22,687.65; the change, not the gap, is the signal. Points to a mildly lower open, with a 3% fall in Hong Kong and Korea a further risk"
+   "value": "22,595",
+   "chg": "−13",
+   "pct": -0.06,
+   "note": "7:23 AM IST Mon (NewsDrum). Opened near 22,535.5 and recovered 61.5 points from a low of 22,533.5. Points to a flat open around 22,550–22,650"
   },
   {
    "name": "Nifty 50",
-   "value": "22,687.65",
-   "chg": "−123.70",
-   "pct": -0.54,
-   "note": "Thu close; dipped below 22,600 intraday; third straight fall; 14 up, 36 down"
+   "value": "22,600.00",
+   "chg": "−87.65",
+   "pct": -0.39,
+   "note": "Fri close; fourth straight fall; low 22,372; down 2.4% for the week; 14 up, 36 down"
   },
   {
    "name": "Sensex",
-   "value": "73,249.39",
-   "chg": "−460.30",
-   "pct": -0.62,
-   "note": "Thu close; fell over 600 pts intraday"
+   "value": "73,123.83",
+   "chg": "−125.56",
+   "pct": -0.17,
+   "note": "Fri close; fourth straight fall; down 2.2% for the week"
   },
   {
    "name": "Bank Nifty",
-   "value": "54,925.70",
-   "chg": "−51.20",
-   "pct": -0.09,
-   "note": "Thu close (Liquide); held up better than the market"
+   "value": "54,287.35",
+   "chg": "−638.35",
+   "pct": -1.16,
+   "note": "Fri close (5paisa); only 1 of 14 stocks rose"
   },
   {
    "name": "India VIX",
-   "value": "15.81",
-   "chg": "+0.08",
-   "pct": 0.51,
-   "note": "Thu close (HDFC Sky); range 14.31–16.66"
+   "value": "16.76",
+   "chg": "",
+   "pct": 6.32,
+   "note": "Fri close (HDFC Sky)"
   },
   {
    "name": "Nifty Midcap 100",
-   "value": "n/a",
+   "value": "55,800.65",
    "chg": "",
-   "pct": -0.87,
-   "note": "Thu; six-month low per CNBC-TV18. Smallcap 100 −1.14%"
+   "pct": -2.21,
+   "note": "Fri; Smallcap 100 −2.94% to 17,739.45"
   },
   {
    "name": "Brent crude",
-   "value": "$113.78",
+   "value": "$115.48",
    "chg": "",
-   "pct": 0.77,
-   "note": "7:00 AM IST Fri (DSIJ); Trading Economics showed $114.20 earlier Fri, highest in over five months. Settled ~$112.3 Thu after attacks on Saudi targets and US–Israel Iran-strike reports",
+   "pct": -1.0,
+   "note": "Early Mon Asia (Rallies/Reuters); settled $116.72 Fri (+3.14%), highest since mid-2022 per AP",
    "invert": true
   }
  ],
  "prevClose": {
-  "date": "Thu 22 Oct 2026",
+  "date": "Fri 23 Oct 2026",
   "items": [
    {
     "name": "Sensex",
-    "value": "73,249.39",
-    "pct": -0.62
+    "value": "73,123.83",
+    "pct": -0.17
    },
    {
     "name": "Nifty 50",
-    "value": "22,687.65",
-    "pct": -0.54
+    "value": "22,600.00",
+    "pct": -0.39
    },
    {
     "name": "Bank Nifty",
-    "value": "54,925.70",
-    "pct": -0.09
+    "value": "54,287.35",
+    "pct": -1.16
    },
    {
     "name": "Nifty Midcap 100",
-    "value": "n/a",
-    "pct": -0.87
+    "value": "55,800.65",
+    "pct": -2.21
    },
    {
     "name": "Nifty Smallcap 100",
-    "value": "n/a",
-    "pct": -1.14
+    "value": "17,739.45",
+    "pct": -2.94
    },
    {
     "name": "India VIX",
-    "value": "15.81",
-    "pct": 0.51
+    "value": "16.76",
+    "pct": 6.32
    }
   ],
   "gainers": [
-   "Bajaj Finance +1.74%",
-   "Cipla +1.29%",
-   "UltraTech Cement +1.00%"
+   "Eternal +4.25% (₹317.40)",
+   "Apollo Hospitals +1.65% (₹7,730)",
+   "ONGC",
+   "Asian Paints",
+   "TCS"
   ],
   "losers": [
-   "Nestle India −2.78%",
-   "Eternal −2.53%",
-   "HDFC Life −2.09%"
+   "Shriram Finance −3.98% (₹865)",
+   "Adani Enterprises −2.86% (₹2,477)",
+   "JSW Steel −2.83% (₹1,185.50)",
+   "Jio Financial",
+   "Adani Ports"
   ]
  },
  "global": [
   {
-   "group": "US markets (Thu 22 Oct close)",
+   "group": "US markets (Fri 23 Oct close)",
    "name": "Dow Jones",
-   "value": "52,867.98",
-   "pct": 0.02,
-   "note": "Flat; old-economy stocks held up",
-   "dir": "neu"
+   "value": "52,215.16",
+   "pct": -1.23,
+   "note": "Oil-led fall; up 0.4% for the week",
+   "dir": "neg"
   },
   {
-   "group": "US markets (Thu 22 Oct close)",
+   "group": "US markets (Fri 23 Oct close)",
    "name": "S&P 500",
-   "value": "7,663.43",
-   "pct": -1.21,
-   "note": "AI-spending and cost-of-capital worries hit chipmakers and hyperscalers",
+   "value": "7,623.68",
+   "pct": -0.52,
+   "note": "Second weekly loss (−0.47%)",
    "dir": "neg"
   },
   {
-   "group": "US markets (Thu 22 Oct close)",
+   "group": "US markets (Fri 23 Oct close)",
    "name": "Nasdaq Composite",
-   "value": "26,008.86",
-   "pct": -2.6,
-   "note": "Meta −~7% after results and 2-for-1 split news; Tesla −~3%",
+   "value": "25,955.34",
+   "pct": -0.21,
+   "note": "Chip index −3.2% for the week; Nasdaq 100 futures +0.66% early Mon",
    "dir": "neg"
   },
   {
-   "group": "Asia (Fri 23 Oct, early trade)",
+   "group": "Asia (Mon 26 Oct, early)",
    "name": "Nikkei 225",
-   "value": "n/a",
-   "pct": -1.81,
-   "note": "Early Fri (DSIJ 7:40 AM); opened 62,667 and slid (TradingKey)",
+   "value": "62,129",
+   "pct": -0.9,
+   "note": "Opening level (Aju Press); chip names weak; ~62,400 later (investingLive)",
    "dir": "neg"
   },
   {
-   "group": "Asia (Fri 23 Oct, early trade)",
+   "group": "Asia (Mon 26 Oct, early)",
    "name": "Kospi",
-   "value": "5,352.61",
-   "pct": -3.27,
-   "note": "Samsung down over 5% early",
+   "value": "5,538.83",
+   "pct": -0.2,
+   "note": "Opening level; Goldman cut its Kospi target to 9,000; SK hynix results 28 Oct",
    "dir": "neg"
   },
   {
-   "group": "Asia (Fri 23 Oct, early trade)",
-   "name": "Shanghai Composite",
-   "value": "n/a",
-   "pct": -1.48,
-   "note": "Early Fri (DSIJ 7:40 AM)",
-   "dir": "neg"
-  },
-  {
-   "group": "Asia (Fri 23 Oct, early trade)",
+   "group": "Asia (Mon 26 Oct, early)",
    "name": "Hang Seng",
-   "value": "n/a",
-   "pct": -3.03,
-   "note": "Early Fri (DSIJ 7:40 AM); level not given",
-   "dir": "neg"
+   "value": "23,093.37",
+   "pct": 0.69,
+   "note": "Friday close (HDFC Sky); Monday level not found in sources checked",
+   "dir": "neu"
   },
   {
    "group": "Currency & bonds",
    "name": "USD/INR",
-   "value": "₹94.81",
+   "value": "₹94.93",
    "pct": null,
-   "note": "7 AM Fri, flat (DSIJ); closed 94.82 Thu (−44 paise), ending an 8-session rise. Record low not given in sources checked",
+   "note": "Fri, down 12 paise (provisional, Metro Vaartha); Goodreturns ticker ₹95.01 Mon. Record low 96.96",
    "dir": "neg"
   },
   {
    "group": "Currency & bonds",
    "name": "Dollar Index (DXY)",
-   "value": "101.55",
-   "pct": null,
-   "note": "7 AM IST Fri, marginally lower (DSIJ); 101.60 Thu (PTI)",
+   "value": "101.73",
+   "pct": 0.12,
+   "note": "Fri (Metro Vaartha)",
    "dir": "neu"
   },
   {
    "group": "Currency & bonds",
    "name": "US 10-yr yield",
-   "value": "4.97%",
+   "value": "4.99%",
    "pct": null,
-   "note": "7 AM IST Fri, +1.2 bp (DSIJ); was 5.13% on 21 Oct",
+   "note": "Fri close, up ~4 bp; ~5.0% early Mon, below the 5.36% early-October peak",
    "dir": "neu"
   },
   {
@@ -259,58 +255,53 @@
    "name": "India 10-yr yield",
    "value": "n/a",
    "pct": null,
-   "note": "Data unavailable in sources checked (7.38% on 21 Oct)",
+   "note": "Data unavailable in sources checked",
    "dir": "neu"
   },
   {
    "group": "Commodities",
    "name": "Brent crude",
-   "value": "$113.78",
-   "pct": 0.77,
-   "note": "7 AM IST Fri (DSIJ); $114.20 on Trading Economics earlier Fri, a five-month high",
+   "value": "$115.48",
+   "pct": -1.0,
+   "note": "Early Mon; settled $116.72 Fri (+3.14%), +6.2% for the week",
    "dir": "neg"
   },
   {
    "group": "Commodities",
    "name": "WTI crude",
-   "value": "$101.43",
-   "pct": 0.63,
-   "note": "7 AM IST Fri (DSIJ); back above $100",
+   "value": "$102.08",
+   "pct": -1.1,
+   "note": "Early Mon; settled $103.27 Fri (+3.82%)",
    "dir": "neg"
   },
   {
    "group": "Commodities",
-   "name": "Gold (spot/Comex)",
-   "value": "$4,015.34",
-   "pct": -0.22,
-   "note": "7 AM IST Fri (DSIJ); slipping on oil-led rate fears",
+   "name": "Gold (spot)",
+   "value": "~$3,995",
+   "pct": null,
+   "note": "Early Mon Asia (FXStreet); fell ~4% last week, worst in over four months",
    "dir": "neg"
   },
   {
    "group": "Commodities",
    "name": "MCX gold (Dec)",
-   "value": "₹1,44,593/10g",
-   "pct": -1.02,
-   "note": "12:51 PM Thu (Business Standard); oil-led inflation and rate fears",
+   "value": "₹1,42,734/10g",
+   "pct": -0.4,
+   "note": "3:37 PM Fri (Kotak Neo)",
    "dir": "neg"
   },
   {
    "group": "Commodities",
    "name": "MCX silver (Dec)",
-   "value": "₹2,04,804/kg",
-   "pct": -2.09,
-   "note": "12:51 PM Thu (Business Standard)",
+   "value": "₹1,95,600/kg",
+   "pct": -2.0,
+   "note": "3:37 PM Fri (Kotak Neo)",
    "dir": "neg"
   }
  ],
  "flows": {
-  "note": "Provisional NSE/BSE cash figures (₹ crore). 22 Oct from CNBC-TV18 (TradingView) and Whalesbook. 21 Oct now shown as an FII purchase: PTI and CNBC-TV18 both report net buying of ₹1,022.32 cr (Pocketful had shown a sale). 16 Oct Kotak Neo; 19 Oct NewsBytes. No session on 20 Oct (Dussehra).",
+  "note": "Provisional NSE/BSE cash figures (₹ crore). 23 Oct from Quantsapp (also NewsDrum: FIIs ~₹888 cr, DIIs ~₹3,235 cr). Earlier days as before. No session on 20 Oct (Dussehra).",
   "days": [
-   {
-    "date": "15 Oct",
-    "fii": -5285.37,
-    "dii": 3319.39
-   },
    {
     "date": "16 Oct",
     "fii": 1165.92,
@@ -330,90 +321,89 @@
     "date": "22 Oct",
     "fii": -3458.7,
     "dii": 2891.32
+   },
+   {
+    "date": "23 Oct",
+    "fii": 887.65,
+    "dii": 3235.36
    }
   ],
-  "context": "FIIs returned to heavy selling on Thursday (gross buys ₹13,627.54 cr vs sales ₹17,086.24 cr), while DIIs absorbed most of it with ₹2,891 cr of buying. Over the last five sessions FIIs are net sellers of about ₹7,700 cr and DIIs net buyers of about ₹7,365 cr. Oil above $110 and the Nasdaq sell-off make more FII selling likely in the near term."
+  "context": "FIIs turned small buyers on Friday (₹888 cr) after Thursday's ₹3,459 cr sale, and DIIs bought for a fourth straight session (₹3,235 cr). Over five sessions FIIs are net sellers of about ₹1,531 cr while DIIs bought about ₹7,281 cr. Brent above $115 and a rupee near 95 keep the risk of renewed FII selling high."
  },
  "sectors": [
   {
-   "name": "Pharma",
-   "bias": "pos",
-   "pct": 0.12,
-   "note": "Only gainer Thu; Cipla +1.29%. Dr Reddy's results today"
-  },
-  {
-   "name": "PSU Bank",
-   "bias": "pos",
-   "pct": null,
-   "note": "Gained modestly Thu (5paisa); J&K Bank Q2 profit +10.5%"
-  },
-  {
-   "name": "Financial Services",
-   "bias": "neu",
-   "pct": -0.14,
-   "note": "Bajaj Finance +1.74% top Nifty gainer; HDFC Life −2.09%"
-  },
-  {
-   "name": "Bank (Bank Nifty)",
-   "bias": "neu",
-   "pct": -0.09,
-   "note": "IndusInd today, Kotak/IDFC First/AU SFB Sat"
-  },
-  {
-   "name": "Realty",
-   "bias": "neg",
-   "pct": -0.3,
-   "note": "Rate-hike talk in RBI minutes weighs"
-  },
-  {
-   "name": "Metal",
-   "bias": "neg",
-   "pct": -0.52,
-   "note": "JSW Steel results today"
-  },
-  {
-   "name": "Auto",
-   "bias": "neg",
-   "pct": -0.73,
-   "note": "Maruti and Tata Motors PV hit 52-week lows Thu; Tata Motors results today"
-  },
-  {
-   "name": "Consumer Durables",
-   "bias": "neg",
-   "pct": -0.96,
-   "note": "Havells Q2 revenue +35%, profit +11% after the close"
-  },
-  {
    "name": "IT",
    "bias": "neg",
-   "pct": -1.05,
-   "note": "Gave back part of Wed's rally; Nasdaq −2.6% overnight; Infosys, Coforge results today"
+   "pct": null,
+   "note": "Held up Fri; Infosys cut FY27 guidance after the close, Coforge raised margin guidance"
+  },
+  {
+   "name": "FMCG / Consumption",
+   "bias": "neu",
+   "pct": null,
+   "note": "Consumption held up Fri; Tata Consumer results today"
+  },
+  {
+   "name": "Pharma",
+   "bias": "neg",
+   "pct": null,
+   "note": "Dr Reddy's Q2 profit fell 31–36% on lower US lenalidomide sales; Torrent profit −9.6%"
   },
   {
    "name": "Energy / OMCs",
    "bias": "neg",
-   "pct": -1.05,
-   "note": "Brent $112; HPCL Q2 profit −9%; BPCL results today"
+   "pct": null,
+   "note": "Brent $115+; BPCL profit −21% but refining margin $32.53/bbl; ONGC a Nifty gainer Fri"
   },
   {
-   "name": "FMCG",
+   "name": "Financial Services",
+   "bias": "neu",
+   "pct": -1.03,
+   "note": "FinNifty −1.03% Fri; Shriram Finance −3.98% despite profit +59%"
+  },
+  {
+   "name": "Bank (Bank Nifty)",
+   "bias": "pos",
+   "pct": -1.16,
+   "note": "Fell Fri, but Kotak, IDFC First, AU SFB and Bank of India posted strong Q2 numbers"
+  },
+  {
+   "name": "PSU Bank",
    "bias": "neg",
-   "pct": -1.41,
-   "note": "Weakest sector Thu; Nestle −2.78% (−6% this week)"
+   "pct": -2.26,
+   "note": "Among worst Fri; Bank of India profit +25% after close"
+  },
+  {
+   "name": "Realty",
+   "bias": "neg",
+   "pct": -2.38,
+   "note": "Godrej Properties profit −62% despite revenue +161%"
+  },
+  {
+   "name": "Consumer Durables",
+   "bias": "neg",
+   "pct": -2.63,
+   "note": "Second-weakest sector Fri"
+  },
+  {
+   "name": "Metal",
+   "bias": "pos",
+   "pct": -2.71,
+   "note": "Worst Fri, but JSW Steel profit more than tripled and Jindal Steel profit +21% after/near close"
   }
  ],
  "news": [
   {
    "id": "gift",
-   "headline": "GIFT Nifty dips; Hang Seng and Kospi fall over 3%",
-   "source": "NiftyTrader; DSIJ; TradingKey",
-   "url": "https://www.niftytrader.in/gift-nifty-live",
-   "time": "23 Oct, 7:40 AM",
+   "headline": "GIFT Nifty flat near 22,595 after early dip",
+   "source": "NewsDrum",
+   "url": "https://www.newsdrum.in/business/will-stock-markets-fall-again-today-gift-niftys-early-recovery-offers-a-surprise-signal-12751538",
+   "time": "26 Oct, 7:23 AM",
    "cat": "Market",
    "impact": "High",
-   "tag": "Bearish",
-   "summary": "GIFT Nifty was at 22,832, down 34.5 points from its own close. Hang Seng fell 3.0%, Kospi 3.3%, Nikkei 1.8% and Shanghai 1.5% in early trade after Wall Street's tech sell-off; European indices also ended lower on Thursday.",
-   "why": "Points to a weak start; the steep Asian fall could drag Nifty toward Thursday's 22,600 area.",
+   "tag": "Neutral",
+   "summary": "GIFT Nifty was at 22,595, down 13 points, after recovering from an early low of 22,533.5. Brent was above $115 and Asian markets were mixed to weak.",
+   "why": "Points to a flat start near 22,600; Friday's 22,372 low is the line that matters.",
    "affects": [
     "Overall market"
    ],
@@ -422,325 +412,328 @@
    ]
   },
   {
-   "id": "listings23",
-   "headline": "Zetwerk and Bonfiglioli Transmissions list today; Jio IPO closes",
-   "source": "DSIJ; Univest",
-   "url": "https://insights.dsij.in/dsijarticledetail/gift-nifty-signals-positive-start-above-22800-crude-oil-us-tech-sell-off-in-focus-60127",
-   "time": "23 Oct, 7:40 AM",
-   "cat": "IPO",
-   "impact": "Medium",
-   "tag": "Neutral",
-   "summary": "Zetwerk (₹5,012 cr issue, band ₹143–151) and Bonfiglioli Transmissions (₹2,534 cr, band ₹558–586) debut on NSE and BSE today. Both had weak subscription on day 2 (about 0.3x and 1x), though final figures may differ. The ₹30,213 cr Jio Platforms IPO closes today.",
-   "why": "Weak demand points to a soft debut risk on a down day; large IPO money calls can also pull liquidity from the secondary market.",
-   "affects": [
-    "IPOs",
-    "Capital goods"
-   ],
-   "symbols": [
-    "RELIANCE"
-   ]
-  },
-  {
-   "id": "close22",
-   "headline": "Sensex falls 460 points; Nifty ends at 22,688 for a third straight loss",
-   "source": "Business Standard",
-   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-22-nse-bse-sensex-today-nifty50-gift-nifty-jio-ipo-today-126102200085_1.html",
-   "time": "22 Oct, 3:47 PM",
-   "cat": "Market",
-   "impact": "High",
-   "tag": "Bearish",
-   "summary": "Nifty fell 0.54% to 22,687.65 and Sensex 0.62% to 73,249.39. Nine of 11 sectors fell, led by FMCG, IT and energy; 2,512 NSE stocks fell versus 1,026 that rose, and 426 hit 52-week lows.",
-   "why": "Broad selling with many 52-week lows shows weak risk appetite going into the monthly expiry.",
-   "affects": [
-    "Overall market",
-    "FMCG",
-    "IT",
-    "Energy"
-   ],
-   "symbols": [
-    "RELIANCE",
-    "ETERNAL",
-    "HDFCBANK",
-    "NESTLEIND"
-   ]
-  },
-  {
-   "id": "flows",
-   "headline": "FIIs sell ₹3,459 cr; DIIs buy ₹2,891 cr",
-   "source": "CNBC-TV18 (TradingView)",
-   "url": "https://www.tradingview.com/news/cnbctv:c5e03bc5f094b:0/",
-   "time": "22 Oct, evening",
-   "cat": "Flows",
-   "impact": "High",
-   "tag": "Bearish",
-   "summary": "Foreign investors were net sellers of ₹3,458.70 cr in the cash market on Thursday after buying ₹1,022 cr on Wednesday; domestic funds bought ₹2,891.32 cr.",
-   "why": "Renewed FII selling adds pressure on large caps and the rupee.",
-   "affects": [
-    "Overall market"
-   ],
-   "symbols": []
-  },
-  {
    "id": "oil",
-   "headline": "Brent tops $112 on Saudi attacks and reports of US–Israel strike plans",
-   "source": "PTI (Telangana Today); Times of Israel",
-   "url": "https://timesofisrael.com/liveblog-october-22-2026",
-   "time": "22 Oct",
-   "cat": "Geopolitics",
+   "headline": "Brent hits six-month high of $116.72; eases to $115.48 Monday",
+   "source": "Rallies (Reuters); TechFlow; AP via Yahoo",
+   "url": "https://rallies.ai/news/asian-shares-make-cautious-start-brent-eases-from-six-month-high-56c30c06e7561257",
+   "time": "26 Oct, early Asia",
+   "cat": "Commodities",
    "impact": "High",
    "tag": "Bearish",
-   "summary": "Brent rose about 3% to $112.33 after attacks on Saudi energy sites. The New York Times reported the US and Israel have drafted plans for renewed strikes on Iran after the 3 Nov midterms; Trump said the US is 'not negotiating' with Iran.",
-   "why": "Costly oil hurts India's import bill, rupee and inflation, and squeezes oil marketers, paints, tyres and airlines.",
+   "summary": "Brent rose 3.1% on Friday and 6.2% for the week on Saudi attacks and US–Israel strike talk, then slipped 1% early Monday. WTI is at $102.08.",
+   "why": "Costly oil hurts the rupee, inflation and margins of oil marketing companies, paints, airlines and tyre makers.",
    "affects": [
     "Oil & gas",
-    "Paints",
     "Aviation",
-    "Tyres"
+    "Paints"
    ],
    "symbols": [
     "BPCL",
     "IOC",
     "HINDPETRO",
-    "ASIANPAINT",
-    "INDIGO"
+    "INDIGO",
+    "ASIANPAINT"
    ]
   },
   {
-   "id": "hormuz",
-   "headline": "Iran's IRGC says oil vessels hit and mines struck near Hormuz",
-   "source": "Times of Israel",
-   "url": "https://timesofisrael.com/liveblog-october-22-2026",
-   "time": "22 Oct",
+   "id": "iran",
+   "headline": "Trump: no Iran strike Sunday, but 'a possibility'; Houthis fire missiles at Saudi Arabia",
+   "source": "Gulf News",
+   "url": "https://gulfnews.com/world/mena/middle-east-war-drone-missile-intercepted-over-riyadh-as-king-khalid-airport-resumes-operations-1.500722685",
+   "time": "25–26 Oct",
    "cat": "Geopolitics",
-   "impact": "Medium",
+   "impact": "High",
    "tag": "Bearish",
-   "summary": "The IRGC Navy said four oil-carrying vessels were hit and caught fire in the northern Gulf and three more struck mines west of Hormuz; it warned of strikes on US bases if escorts continue. Trump claimed Iran is inventing 'fake hits'. Claims not independently confirmed.",
-   "why": "Shipping risk keeps oil and freight costs high; any confirmed disruption would lift crude further.",
+   "summary": "Saudi-led forces intercepted a ballistic missile aimed at Riyadh and 10 more at the south on 25 Oct; debris hurt two people. Trump said there would be no strike that day but later said he might act, while also mentioning a possible deal.",
+   "why": "Keeps the oil risk premium high; any actual strike would hit Indian stocks and the rupee and lift gold.",
    "affects": [
     "Oil & gas",
-    "Shipping",
-    "Gold"
+    "Gold",
+    "Overall market"
    ],
    "symbols": [
     "ONGC",
-    "OIL",
     "GOLDBEES"
    ]
   },
   {
-   "id": "nasdaq",
-   "headline": "Nasdaq drops 2.6% as AI-spending worries hit tech; Meta falls about 7%",
-   "source": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/markets/article/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html",
-   "time": "22 Oct (US close)",
-   "cat": "Global",
+   "id": "infy",
+   "headline": "Infosys cuts FY27 growth guidance to 1–2% despite $5.2 bn deals",
+   "source": "Business Standard; Upstox",
+   "url": "https://www.business-standard.com/companies/quarterly-results/infosys-q2-results-net-profit-rises-6-2-to-7-823-cr-revenue-up-10-2-126102300941_1.html",
+   "time": "23 Oct, 4:26 PM",
+   "cat": "Results",
    "impact": "High",
    "tag": "Bearish",
-   "summary": "The S&P 500 fell 1.21% and the Nasdaq 2.6% as chipmakers and big tech slid; the Dow was flat. Meta fell despite strong results and Tesla slipped about 3%. Treasury yields fell as money moved to bonds.",
-   "why": "A US tech sell-off usually weighs on Indian IT and on FII appetite for emerging markets.",
+   "summary": "Q2 profit rose 6.2% to about ₹7,823–7,828 cr, a little below estimates; revenue +10.7% to ₹49,244 cr. Guidance was cut from 1.5–3%; margin band kept at 20–22%. The CEO called it a soft quarter. ₹26 dividend, record date 3 Nov.",
+   "why": "A guidance cut usually weighs on Infosys and IT peers; the US-listed shares were about 6% lower before the US open Friday.",
    "affects": [
-    "IT",
-    "Overall market"
+    "IT"
    ],
    "symbols": [
     "INFY",
     "TCS",
-    "HCLTECH",
-    "WIPRO"
+    "WIPRO",
+    "HCLTECH"
    ]
   },
   {
-   "id": "rupee",
-   "headline": "Rupee falls 44 paise to 94.82, ending eight-day rise",
-   "source": "PTI (Telangana Today)",
-   "url": "https://telanganatoday.com/rupee-falls-44-paise-to-close-at-94-82-against-us-dollar",
-   "time": "22 Oct",
-   "cat": "Currency",
-   "impact": "Medium",
-   "tag": "Bearish",
-   "summary": "The rupee closed at 94.82 per dollar (provisional) after touching 94.94, hurt by weak equities and higher crude; a softer dollar (DXY 101.60) limited the fall.",
-   "why": "A weaker rupee raises import costs and can speed up FII selling, but helps IT and pharma exporters.",
+   "id": "kotak",
+   "headline": "Kotak Bank Q2 profit up 26% to ₹5,645 cr; bad loans fall",
+   "source": "Business Standard",
+   "url": "https://www.business-standard.com/companies/quarterly-results/kotak-mahindra-bank-q2-fy27-profit-nii-fcnr-deposits-asset-quality-126102400637_1.html",
+   "time": "24 Oct (Sat)",
+   "cat": "Results",
+   "impact": "High",
+   "tag": "Bullish",
+   "summary": "Standalone profit rose 29% to ₹4,212 cr, NII +16%, loans +25% and gross NPA fell to 1.04%. Margin narrowed to 4.31% from 4.53% in Q1 due to FCNR deposits.",
+   "why": "First reaction today; strong profit and asset quality can support Bank Nifty, while the margin dip is the bear point.",
    "affects": [
-    "Oil & gas",
-    "IT",
-    "Pharma"
+    "Banks"
+   ],
+   "symbols": [
+    "KOTAKBANK"
+   ]
+  },
+  {
+   "id": "close",
+   "headline": "Nifty falls a fourth day to 22,600; midcaps −2.2%, smallcaps −2.9%",
+   "source": "Kotak Neo; HDFC Sky",
+   "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-close-lower-amid-oil-price-surge/",
+   "time": "23 Oct, 3:37 PM",
+   "cat": "Market",
+   "impact": "High",
+   "tag": "Bearish",
+   "summary": "Sensex fell 125.56 points to 73,123.83 and Nifty 87.65 points; all sectors ended lower, led by metal, consumer durables and realty. India VIX rose 6.3% to 16.76.",
+   "why": "Heavy selling in mid and small caps shows risk appetite is weak; short trades need tight stop-losses.",
+   "affects": [
+    "Overall market",
+    "Midcaps",
+    "Smallcaps"
+   ],
+   "symbols": [
+    "NIFTY"
+   ]
+  },
+  {
+   "id": "flows",
+   "headline": "FIIs buy ₹888 cr, DIIs ₹3,235 cr on Friday",
+   "source": "Quantsapp; NewsDrum",
+   "url": "https://www.quantsapp.com/fii-dii",
+   "time": "23 Oct, evening",
+   "cat": "Flows",
+   "impact": "Medium",
+   "tag": "Bullish",
+   "summary": "Foreign investors were small net buyers after Thursday's ₹3,459 cr sale; domestic funds bought for a fourth day.",
+   "why": "Steady DII buying is cushioning falls, but FIIs remain net sellers over the week.",
+   "affects": [
+    "Overall market"
    ],
    "symbols": []
   },
   {
-   "id": "hpcl",
-   "headline": "HPCL Q2 profit falls 9% to ₹3,483 cr on higher costs and taxes",
-   "source": "Business Standard",
-   "url": "https://www.business-standard.com/companies/quarterly-results/hpcl-q2-profit-falls-9-to-3-483-cr-on-higher-costs-tax-expenses-126102201213_1.html",
-   "time": "22 Oct, evening",
-   "cat": "Results",
+   "id": "us",
+   "headline": "Wall Street ends lower on oil: Dow −1.2%, S&P −0.5%",
+   "source": "AP via Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html",
+   "time": "23 Oct (US close)",
+   "cat": "Global",
+   "impact": "Medium",
+   "tag": "Bearish",
+   "summary": "The Dow fell to 52,215.16, the S&P 500 to 7,623.68 and the Nasdaq to 25,955.34. The US 10-year yield rose to 4.99%.",
+   "why": "A soft global lead adds to caution; Nasdaq futures were up 0.66% early Monday, a small offset.",
+   "affects": [
+    "Overall market",
+    "IT"
+   ],
+   "symbols": []
+  },
+  {
+   "id": "asia",
+   "headline": "Nikkei opens 0.9% lower, Kospi slips; chip makers weak",
+   "source": "Aju Press; Rallies",
+   "url": "https://www.ajupress.com/view/20261026090654991",
+   "time": "26 Oct, 9:00 AM KST",
+   "cat": "Global",
+   "impact": "Medium",
+   "tag": "Bearish",
+   "summary": "Nikkei opened at 62,129 and Kospi at 5,538.83. Doubts over AI-spending returns weigh on chips before SK hynix and Samsung results on 28–29 Oct.",
+   "why": "Mildly weak Asia supports a cautious start in India.",
+   "affects": [
+    "Overall market"
+   ],
+   "symbols": []
+  },
+  {
+   "id": "fed",
+   "headline": "Fed, BoJ and ECB decide this week; Fed hold ~90% priced, December hike ~79%",
+   "source": "FXStreet (CME FedWatch); Rallies",
+   "url": "https://fxstreet.com/news/gold-declines-below-4-000-as-higher-oil-prices-reinforce-fed-rate-hike-expectations-202610252324",
+   "time": "26 Oct",
+   "cat": "Policy",
    "impact": "Medium",
    "tag": "Neutral",
-   "summary": "Standalone profit fell 9% year on year but swung from a ₹11,526 cr loss in Q1; sales rose 26%, including about ₹3,960 cr of LPG compensation. Analysts estimate fuel retail margins have turned negative with Brent near $110.",
-   "why": "Shows how high crude squeezes oil marketers; BPCL reports today and IOC later.",
+   "summary": "Markets expect all three to hold. Oil-driven inflation fears keep a December Fed hike likely. The Fed statement comes late Wednesday IST.",
+   "why": "A hold is priced in; any hawkish hint would lift the dollar and yields, hurting FII flows, IT and gold.",
    "affects": [
-    "Oil & gas"
+    "Overall market",
+    "IT",
+    "Gold"
    ],
    "symbols": [
-    "HINDPETRO",
-    "BPCL",
-    "IOC"
-   ]
-  },
-  {
-   "id": "havells",
-   "headline": "Havells Q2 revenue jumps 35%, profit up 11%",
-   "source": "Upstox",
-   "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-swiggy-jindal-stainless-cyient-colgate-hpcl-adani-energy-to-declare-earnings-on-oct-22/liveblog-202204/",
-   "time": "22 Oct, evening",
-   "cat": "Results",
-   "impact": "Medium",
-   "tag": "Bullish",
-   "summary": "Standalone revenue rose to ₹6,417 cr from ₹4,767 cr and profit to ₹353 cr from ₹317 cr. Profit grew much slower than sales, which points to thinner margins.",
-   "why": "Strong demand for cables and appliances; margin pressure may cap the share reaction.",
-   "affects": [
-    "Consumer Durables",
-    "Cables"
-   ],
-   "symbols": [
-    "HAVELLS",
-    "POLYCAB",
-    "KEI"
-   ]
-  },
-  {
-   "id": "adanien",
-   "headline": "Adani Energy Solutions Q2 profit more than doubles to ₹1,323 cr",
-   "source": "Upstox",
-   "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-swiggy-jindal-stainless-cyient-colgate-hpcl-adani-energy-to-declare-earnings-on-oct-22/liveblog-202204/",
-   "time": "22 Oct, evening",
-   "cat": "Results",
-   "impact": "Medium",
-   "tag": "Bullish",
-   "summary": "Consolidated profit rose to ₹1,322.85 cr from ₹533.97 cr and revenue 52.7% to ₹10,075.54 cr.",
-   "why": "Strong growth in power transmission; supports the Adani group and transmission names.",
-   "affects": [
-    "Power"
-   ],
-   "symbols": [
-    "ADANIENSOL"
-   ]
-  },
-  {
-   "id": "swiggy",
-   "headline": "Swiggy's loss narrows to ₹922 cr on 36% revenue growth",
-   "source": "Upstox",
-   "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-swiggy-jindal-stainless-cyient-colgate-hpcl-adani-energy-to-declare-earnings-on-oct-22/liveblog-202204/",
-   "time": "22 Oct, evening",
-   "cat": "Results",
-   "impact": "Medium",
-   "tag": "Neutral",
-   "summary": "Revenue rose 36.1% to ₹7,571 cr; the loss narrowed from ₹1,092 cr a year ago but widened from ₹791 cr in Q1.",
-   "why": "A bigger quarter-on-quarter loss may disappoint after Eternal's profit jump; quick-commerce spending remains the worry.",
-   "affects": [
-    "Internet / consumer tech"
-   ],
-   "symbols": [
-    "SWIGGY",
-    "ETERNAL"
-   ]
-  },
-  {
-   "id": "divs",
-   "headline": "Colgate declares ₹24 dividend; Cyient profit up 16.6% with ₹12 dividend",
-   "source": "Upstox",
-   "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-swiggy-jindal-stainless-cyient-colgate-hpcl-adani-energy-to-declare-earnings-on-oct-22/liveblog-202204/",
-   "time": "22 Oct, evening",
-   "cat": "Results",
-   "impact": "Low",
-   "tag": "Neutral",
-   "summary": "Colgate's profit rose 4.3% to ₹341.6 cr (record date 2 Nov). Cyient's profit rose 16.6% quarter on quarter to ₹121.4 cr on 7.7% revenue growth (record date 28 Oct). Nippon Life AMC's profit fell 5.9%; ₹9.50 dividend.",
-   "why": "Dividend record dates can support the shares in the run-up; growth is modest at Colgate.",
-   "affects": [
-    "FMCG",
-    "IT services",
-    "AMCs"
-   ],
-   "symbols": [
-    "COLPAL",
-    "CYIENT",
-    "NAM-INDIA"
+    "GOLDBEES"
    ]
   },
   {
    "id": "jio",
-   "headline": "Jio Platforms IPO subscribed 4.3x on day 2; closes today",
-   "source": "Business Standard",
-   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-22-nse-bse-sensex-today-nifty50-gift-nifty-jio-ipo-today-126102200085_1.html",
-   "time": "22 Oct, 2:12 PM",
+   "headline": "Jio Platforms IPO subscribed 22.19x; allotment today, listing 28 Oct",
+   "source": "Upstox",
+   "url": "https://upstox.com/news/market-news/ipo/jio-platforms-ipo-allotment-how-to-check-status-on-nse-bse-k-fin-technologies-check-listing-date-time-here/article-202347/",
+   "time": "23 Oct, close",
    "cat": "IPO",
    "impact": "Medium",
    "tag": "Neutral",
-   "summary": "By 2:12 PM on day 2 the issue was 4.3x subscribed: QIBs 9.78x, non-institutional 4.09x and retail 1.39x. Allotment is expected around 26 Oct.",
-   "why": "Strong demand is good for Reliance's valuation, but the money locked in bids drains liquidity from the secondary market this week. Reliance was among Thursday's top losers.",
+   "summary": "QIBs bid 70.55x, NIIs 14x and retail 2.72x. Refunds are due Tuesday and listing is expected Wednesday 28 Oct. About ₹27,500 cr of fresh money will repay Reliance Jio Infocomm debt.",
+   "why": "Strong demand supports Reliance sentiment; refunds release cash back to investors from Tuesday.",
    "affects": [
     "Telecom",
-    "Overall market"
+    "Conglomerate"
    ],
    "symbols": [
     "RELIANCE"
    ]
   },
   {
+   "id": "banks",
+   "headline": "IDFC First profit nearly triples; AU SFB up 53%",
+   "source": "Kotak Neo; Motilal Oswal",
+   "url": "https://www.kotakneo.com/news/stocks/idfc-first-bank-q2-results-net-profit-income-asset-quality/",
+   "time": "24 Oct (Sat)",
+   "cat": "Results",
+   "impact": "Medium",
+   "tag": "Bullish",
+   "summary": "IDFC First's standalone profit rose to ₹1,044.6 cr from ₹352 cr, with gross NPA down to 1.32%. AU Small Finance Bank's profit rose 53% to ₹858 cr.",
+   "why": "Weekend results get their first reaction today; mid-sized private banks could outperform.",
+   "affects": [
+    "Banks"
+   ],
+   "symbols": [
+    "IDFCFIRSTB",
+    "AUBANK"
+   ]
+  },
+  {
+   "id": "metals",
+   "headline": "JSW Steel profit more than triples; Adani Power +134%; Tata Motors back in profit",
+   "source": "Upstox; Business Standard",
+   "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-infosys-tata-motors-coforge-jsw-steel-bpcl-adani-power-others-to-declare-earnings/liveblog-202280/",
+   "time": "23 Oct, afternoon–evening",
+   "cat": "Results",
+   "impact": "Medium",
+   "tag": "Bullish",
+   "summary": "JSW Steel profit rose to ₹5,279 cr (revenue +20.7%), Adani Power to ₹6,919 cr, CG Power +43.7% to ₹412 cr. Tata Motors' consolidated revenue rose 36% and it swung to a ₹1,257 cr profit.",
+   "why": "Strong numbers after a heavy sell-off in metals can trigger a bounce, though oil and global risk may cap it.",
+   "affects": [
+    "Metals",
+    "Power",
+    "Auto"
+   ],
+   "symbols": [
+    "JSWSTEEL",
+    "ADANIPOWER",
+    "CGPOWER",
+    "TMCV"
+   ]
+  },
+  {
+   "id": "cof",
+   "headline": "Coforge profit up 56%; raises FY27 margin guidance to 16%",
+   "source": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/business/coforge-reports-61708-crore-revenue-for-q2-posts-565-pat-growth-raises-fy27-ebit-margin-outlook",
+   "time": "23 Oct, 4:47 PM",
+   "cat": "Management commentary",
+   "impact": "Medium",
+   "tag": "Bullish",
+   "summary": "Revenue rose 53.6% to ₹6,170.8 cr and PAT 56.5% to ₹588 cr. Order intake was $1.04 bn with eight large deals; the CEO expects 17% margin next year.",
+   "why": "A bright spot in IT against Infosys's guidance cut; mid-tier IT may outperform large caps.",
+   "affects": [
+    "IT"
+   ],
+   "symbols": [
+    "COFORGE"
+   ]
+  },
+  {
+   "id": "drl",
+   "headline": "Dr Reddy's Q2 profit falls 31–36% on lower US lenalidomide sales",
+   "source": "Business Standard; Upstox",
+   "url": "https://www.business-standard.com/companies/quarterly-results/dr-reddy-s-q2-profit-falls-36-on-lower-lenalidomide-sales-in-north-america-126102301421_1.html",
+   "time": "23 Oct, 6:12 PM",
+   "cat": "Results",
+   "impact": "Medium",
+   "tag": "Bearish",
+   "summary": "Net profit fell to about ₹925 cr. The company linked the weakness mainly to lower lenalidomide revenue in North America. Reports differ on the exact percentage.",
+   "why": "Likely to pressure the stock and the pharma index today.",
+   "affects": [
+    "Pharma"
+   ],
+   "symbols": [
+    "DRREDDY"
+   ]
+  },
+  {
+   "id": "bpcl",
+   "headline": "BPCL profit falls 21% to ₹4,863 cr; refining margin jumps to $32.53",
+   "source": "NewsDrum",
+   "url": "https://www.newsdrum.in/business/bpcl-q2-profit-falls-21-as-war-driven-crude-surge-squeezes-fuel-margins-12745154",
+   "time": "23 Oct, evening",
+   "cat": "Results",
+   "impact": "Medium",
+   "tag": "Neutral",
+   "summary": "Revenue rose about 30%, but marketing margins were squeezed by costly crude. Board approved a subsidiary for a 10 mn tonne Andhra Pradesh refinery. Stock closed −1.74% at ₹281.95 before the results.",
+   "why": "Strong refining offsets weak fuel retail; $115 oil remains the risk for all oil marketing companies.",
+   "affects": [
+    "Oil & gas"
+   ],
+   "symbols": [
+    "BPCL",
+    "IOC",
+    "HINDPETRO"
+   ]
+  },
+  {
    "id": "gold",
-   "headline": "MCX gold falls ₹1,486 to ₹1,44,593; silver down ₹4,364",
-   "source": "Business Standard",
-   "url": "https://www.business-standard.com/markets/commodities/gold-silver-extend-losses-as-crude-oil-prices-rise-amid-west-asia-tenions-126102200543_1.html",
-   "time": "22 Oct, 12:51 PM",
+   "headline": "Gold slips below $4,000 after worst week in over four months",
+   "source": "FXStreet; investingLive",
+   "url": "https://fxstreet.com/news/gold-declines-below-4-000-as-higher-oil-prices-reinforce-fed-rate-hike-expectations-202610252324",
+   "time": "26 Oct, early Asia",
    "cat": "Commodities",
    "impact": "Medium",
    "tag": "Bearish",
-   "summary": "December gold fell about 1% and broke Kedia Advisory's support levels as higher oil raised inflation and rate fears; open interest fell, showing long unwinding.",
-   "why": "Gold ETFs like GOLDBEES track this; a weaker rupee only partly cushions the fall.",
+   "summary": "Spot gold was near $3,995. Oil-led inflation fears revived Fed-hike bets and fund selling added pressure; MCX December gold ended near ₹1,42,734 on Friday.",
+   "why": "Gold ETFs such as GOLDBEES may stay soft; a weaker rupee only partly cushions them.",
    "affects": [
-    "Gold",
-    "Jewellery"
+    "Gold"
    ],
    "symbols": [
-    "GOLDBEES",
-    "TITAN"
+    "GOLDBEES"
    ]
   },
   {
-   "id": "bulk",
-   "headline": "Gallantt Ispat promoter sells 1.09% for ₹150 cr; L&T buys Capital Infra Trust units",
-   "source": "Whalesbook",
-   "url": "https://www.whalesbook.com/news/English/sebiexchange/Bulk-Deals-Oct-22-Finavenue-Patel-Family-Buy-Ravita-Engineering-Gallantt-Ispat-Sees-Promoter-Exit/6ada479879a16deaeafab025",
-   "time": "22 Oct",
-   "cat": "Filings",
-   "impact": "Low",
-   "tag": "Neutral",
-   "summary": "Promoter Gallantt Industry sold 26.51 lakh Gallantt Ispat shares (₹149.83 cr) to Suryalaxmi Infracon. L&T bought 1.3% of Capital Infra Trust for ₹50.22 cr; a SoftBank affiliate sold Ola Electric rights shares.",
-   "why": "Promoter selling can weigh on a share for a few days.",
-   "affects": [
-    "Steel",
-    "Infrastructure"
-   ],
-   "symbols": [
-    "GALLANTT",
-    "LT",
-    "OLAELEC"
-   ]
-  },
-  {
-   "id": "fedpricing",
-   "headline": "US futures fell; markets price a Fed hold next week but a possible December hike",
-   "source": "Goodreturns",
-   "url": "https://www.goodreturns.in/news/us-stock-futures-crash-today-nasdaq-futures-fall-dow-jones-s-p-500-trump-xi-putin-us-stock-market-1542973.html",
-   "time": "22 Oct, 11:44 AM",
-   "cat": "Global",
+   "id": "inr",
+   "headline": "Rupee weakens to about 94.93–95 per dollar",
+   "source": "Metro Vaartha (PTI); Goodreturns",
+   "url": "https://english.metrovaartha.com/economy/market/rupee-falls-12-paise-to-close-at-9493-against-us-dollar",
+   "time": "23 Oct",
+   "cat": "Currency",
    "impact": "Medium",
    "tag": "Bearish",
-   "summary": "The Fed is widely expected to hold on 28 Oct, but markets see a chance of a hike in December. Trump, Xi and Putin are expected at the APEC summit in Shenzhen; a three-way meeting is possible but not agreed.",
-   "why": "US rate-hike fears keep the dollar and yields high, which hurts FII flows into India.",
+   "summary": "The rupee fell 12 paise to 94.93 (provisional) on Friday as oil rose; Goodreturns' ticker shows ₹95.01. The record low is 96.96.",
+   "why": "A weaker rupee raises import costs and can prompt FII selling; it helps IT and pharma exporters' rupee earnings.",
    "affects": [
     "Overall market",
-    "Gold"
+    "IT",
+    "Oil & gas"
    ],
    "symbols": []
   }
@@ -748,287 +741,289 @@
  "watch": [
   {
    "sym": "INFY",
+   "dir": "neg",
+   "reason": "23 Oct: FY27 guidance cut to 1–2%; profit slightly below estimates; US shares ~−6% pre-market Fri"
+  },
+  {
+   "sym": "KOTAKBANK",
+   "dir": "pos",
+   "reason": "24 Oct: Q2 profit +26% to ₹5,645 cr; gross NPA 1.04%; margin dipped to 4.31%"
+  },
+  {
+   "sym": "IDFCFIRSTB",
+   "dir": "pos",
+   "reason": "24 Oct: Q2 profit nearly tripled to ₹1,045 cr; gross NPA 1.32%"
+  },
+  {
+   "sym": "COFORGE",
+   "dir": "pos",
+   "reason": "23 Oct: PAT +56.5%; FY27 margin guidance raised to 16%; $1.04 bn orders"
+  },
+  {
+   "sym": "JSWSTEEL",
+   "dir": "pos",
+   "reason": "23 Oct: Profit more than tripled to ₹5,279 cr, but fell 2.83% Fri with metals"
+  },
+  {
+   "sym": "DRREDDY",
+   "dir": "neg",
+   "reason": "23 Oct: Q2 profit down 31–36% on lower US lenalidomide sales"
+  },
+  {
+   "sym": "BPCL",
    "dir": "neu",
-   "reason": "23 Oct: Q2 results today after the Nasdaq's 2.6% fall; guidance decides the IT mood"
+   "reason": "23 Oct: Profit −21% but refining margin $32.53; Brent $115 is the bigger risk"
   },
   {
-   "sym": "ADANIENSOL",
-   "dir": "pos",
-   "reason": "22 Oct: Q2 profit more than doubled to ₹1,323 cr; revenue +53%"
-  },
-  {
-   "sym": "HAVELLS",
-   "dir": "pos",
-   "reason": "22 Oct: Revenue +35%, profit +11%; watch margins on the call"
-  },
-  {
-   "sym": "HINDPETRO",
-   "dir": "neg",
-   "reason": "22 Oct: Q2 profit −9%; Brent $112 squeezes fuel margins; BPCL reports today"
-  },
-  {
-   "sym": "HDFCBANK",
-   "dir": "neg",
-   "reason": "22 Oct: Among top Sensex losers amid internal leak probe; CEO handover 27 Oct"
-  },
-  {
-   "sym": "ETERNAL",
-   "dir": "neg",
-   "reason": "22 Oct: Fell 2.53% after strong results; Swiggy's wider QoQ loss is a sector worry"
-  },
-  {
-   "sym": "INDHOTEL",
-   "dir": "pos",
-   "reason": "22 Oct: +4% after raising FY27 revenue guidance to 15–17%"
+   "sym": "SHRIRAMFIN",
+   "dir": "neu",
+   "reason": "23 Oct: Profit +59% yet top Nifty loser (−3.98%); ₹6.50 dividend record date 29 Oct"
   },
   {
    "sym": "RELIANCE",
    "dir": "neu",
-   "reason": "22 Oct: Jio IPO 4.3x by day 2 (retail 1.39x); closes today; RIL among top losers"
-  },
-  {
-   "sym": "BAJFINANCE",
-   "dir": "pos",
-   "reason": "22 Oct: Top Nifty gainer (+1.74% to ₹942.10), bouncing after Wednesday's fall"
+   "reason": "23 Oct: Jio IPO 22.19x subscribed; allotment today, listing 28 Oct"
   },
   {
    "sym": "GOLDBEES",
    "dir": "neg",
-   "reason": "23 Oct: World gold −0.2% to $4,015 early Fri after MCX −1% to ₹1,44,593 Thu on oil-led rate fears; Fed decision 28 Oct is the next test"
+   "reason": "26 Oct: World gold ~$3,995 after a ~4% weekly fall; MCX ₹1,42,734 Fri; Fed late Wed IST"
   }
  ],
  "events": [
   {
-   "date": "23 Oct",
-   "label": "Fri",
-   "title": "Infosys, Dr Reddy's, IndusInd Bank, JSW Steel, Tata Motors, BPCL Q2 results; Jio IPO closes; Zetwerk and Bonfiglioli list",
-   "detail": "Jio IPO closes; Tech Mahindra bonus record date; forex reserves data"
-  },
-  {
-   "date": "24 Oct",
-   "label": "Sat",
-   "title": "Kotak Mahindra Bank, IDFC First Bank, AU SFB Q2 results",
-   "detail": "Weekend results; market reacts Monday"
-  },
-  {
    "date": "26 Oct",
    "label": "Mon",
-   "title": "Jio Platforms IPO allotment",
-   "detail": "Tentative"
+   "title": "Jio Platforms IPO allotment; Tata Consumer, ITC Hotels, Ather, Dalmia Bharat, Bank of Maharashtra, APL Apollo results",
+   "detail": "First reaction to Infosys, Kotak, IDFC First, AU SFB results"
   },
   {
    "date": "27 Oct",
    "label": "Tue",
-   "title": "NSE monthly F&O expiry (October series); Israel election",
-   "detail": "Max call OI 23,000, max put OI 22,000. HDFC Bank CEO handover (Jagdishan's term ends 26 Oct)"
-  },
-  {
-   "date": "27–28 Oct",
-   "label": "",
-   "title": "US Fed policy meeting",
-   "detail": "Hold ~88% priced (Kalshi); hike ~11%"
+   "title": "NSE monthly F&O expiry (October series)",
+   "detail": "HDFC Bank CEO change; Israel election; Jio IPO refunds"
   },
   {
    "date": "28 Oct",
    "label": "Wed",
-   "title": "Jio Platforms listing (tentative)",
-   "detail": "Subject to final schedule; Cyient and Nippon Life AMC dividend record dates"
+   "title": "Jio Platforms listing (tentative); September IIP data",
+   "detail": "SK hynix results; Cyient and Nippon Life AMC record dates"
   },
   {
-   "date": "End-Oct",
-   "label": "",
-   "title": "September IIP data",
-   "detail": "August was 8.0%"
+   "date": "28 Oct",
+   "label": "Wed night",
+   "title": "US Fed policy decision (~11:30 PM IST)",
+   "detail": "Hold ~90% priced; BoJ and ECB also decide this week"
   },
   {
-   "date": "2 Nov",
-   "label": "Mon",
-   "title": "October GST collections and auto sales",
-   "detail": "September GST was ₹2.04 lakh crore"
+   "date": "29 Oct",
+   "label": "Thu",
+   "title": "Shriram Finance dividend record date; Microsoft and Alphabet results (US)",
+   "detail": "Samsung Electronics results"
+  },
+  {
+   "date": "1 Nov",
+   "label": "Sun",
+   "title": "October GST collections",
+   "detail": "Auto sales on 2 Nov"
   },
   {
    "date": "Early Nov",
    "label": "",
    "title": "October Manufacturing and Services PMI; OPEC+ December output decision",
-   "detail": "Sept PMIs: 55.1 and 55.8"
+   "detail": "Brent $116.72 on 23 Oct"
   },
   {
    "date": "3 Nov",
    "label": "Tue",
-   "title": "US midterm elections",
-   "detail": "Trump's no-strike-on-Iran pledge runs until the vote"
+   "title": "US midterm elections; Infosys dividend record date",
+   "detail": "Iran-strike risk seen rising after the vote"
   },
   {
    "date": "8 Nov",
    "label": "Sun",
    "title": "Muhurat trading (Diwali)",
-   "detail": "One-hour evening session"
+   "detail": "Special evening session"
   },
   {
    "date": "10 Nov",
    "label": "Tue",
    "title": "NSE/BSE holiday — Diwali Balipratipada",
-   "detail": "Markets closed"
+   "detail": ""
   },
   {
    "date": "12 Nov",
    "label": "Thu",
    "title": "October CPI inflation",
-   "detail": "September was 5.54%; RBI sees ~6% this quarter"
+   "detail": "September CPI was 5.54%"
+  },
+  {
+   "date": "4 Dec",
+   "label": "Fri",
+   "title": "RBI policy decision",
+   "detail": "Repo at 5.50%; minutes hint at another hike"
   }
  ],
  "sources": [
   {
-   "name": "NiftyTrader: GIFT Nifty live, 23 Oct 7:32 AM",
-   "url": "https://www.niftytrader.in/gift-nifty-live"
+   "name": "NewsDrum: GIFT Nifty early recovery, 26 Oct 7:31 AM",
+   "url": "https://www.newsdrum.in/business/will-stock-markets-fall-again-today-gift-niftys-early-recovery-offers-a-surprise-signal-12751538"
   },
   {
-   "name": "TradingKey: Kospi, Nikkei open lower, 23 Oct",
-   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262234717-japan-korea-stocks-open-lower-kospi-nikkei-samsung-kioxia-tradingkey"
+   "name": "HDFC Sky: Friday close, VIX, Asia, crude",
+   "url": "https://hdfcsky.com/news/gift-nifty-signals-flat-open-for-sensex-nifty-on-monday"
   },
   {
-   "name": "Business Standard: Market close 22 Oct, Jio IPO day 2",
-   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-22-nse-bse-sensex-today-nifty50-gift-nifty-jio-ipo-today-126102200085_1.html"
+   "name": "Kotak Neo: Closing Bell 23 Oct",
+   "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-close-lower-amid-oil-price-surge/"
   },
   {
-   "name": "5paisa: Post-market update 22 Oct",
-   "url": "https://www.5paisa.com/blog/post-market-update-sensex-falls-460-points-nifty-below-22700-october-22-2026"
+   "name": "Business Standard: Market live 23 Oct",
+   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-q2-results-today-126102300078_1.html"
   },
   {
-   "name": "Liquide: Bank Nifty, sectors, levels 22 Oct",
-   "url": "https://blog.liquide.life/share-market-today-nifty-slips-below-22-700-sensex-falls-460-points-as-fmcg-energy-and-it-drag-markets-lower/"
+   "name": "5paisa: Nifty outlook 26 Oct (levels, breadth)",
+   "url": "https://www.5paisa.com/blog/nifty-outlook"
   },
   {
-   "name": "Angel One: Top gainers and losers 22 Oct",
-   "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-october-22-2026-bajaj-finance-and-cipla-gain-while-nestle-drops-over-2"
+   "name": "Goodreturns: Market outlook 26 Oct",
+   "url": "https://www.goodreturns.in/news/stock-market-outlook-today-october-26-sensex-nifty-likely-to-remain-under-pressure-as-crude-oil-t-1543349.html"
   },
   {
-   "name": "HDFC Sky: India VIX ends at 15.81, 22 Oct",
-   "url": "https://hdfcsky.com/news/india-vix-ends-at-15-81-as-niftys-third-straight-session-of-losses-keeps-market-volatility-in-focus"
+   "name": "IndiaIPO: Stocks to watch 26 Oct",
+   "url": "https://www.indiaipo.in/news/detail/stock-market-prediction-for-monday-oct-26-sensex-nifty-levels-top-stocks-to-watch-will-bulls-dance-again"
   },
   {
-   "name": "CNBC-TV18 via TradingView: FII/DII 22 Oct",
-   "url": "https://www.tradingview.com/news/cnbctv:c5e03bc5f094b:0/"
+   "name": "Quantsapp: FII/DII data",
+   "url": "https://www.quantsapp.com/fii-dii"
   },
   {
-   "name": "Whalesbook: FIIs sell ₹3,459 cr, 22 Oct",
-   "url": "https://www.whalesbook.com/news/English/sebiexchange/FIIs-Sell-Rs-3459-Crore-Nifty-Slides-054percent-on-Oct-22/6ada162579a16deaeafa76b8"
+   "name": "AP via Yahoo Finance: US indexes 23 Oct",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html"
   },
   {
-   "name": "Whalesbook: Bulk deals 22 Oct",
-   "url": "https://www.whalesbook.com/news/English/sebiexchange/Bulk-Deals-Oct-22-Finavenue-Patel-Family-Buy-Ravita-Engineering-Gallantt-Ispat-Sees-Promoter-Exit/6ada479879a16deaeafab025"
+   "name": "TechFlow: US market wrap, oil, Trump on Iran",
+   "url": "https://www.techflowpost.com/en-US/article/34844"
   },
   {
-   "name": "Yahoo Finance: US stocks 22 Oct",
-   "url": "https://finance.yahoo.com/markets/article/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+   "name": "Rallies (Reuters): Asian shares, Brent 26 Oct",
+   "url": "https://rallies.ai/news/asian-shares-make-cautious-start-brent-eases-from-six-month-high-56c30c06e7561257"
   },
   {
-   "name": "Goodreturns: US futures, Fed, APEC, 22 Oct",
-   "url": "https://www.goodreturns.in/news/us-stock-futures-crash-today-nasdaq-futures-fall-dow-jones-s-p-500-trump-xi-putin-us-stock-market-1542973.html"
+   "name": "Aju Press: Seoul, Tokyo open lower 26 Oct",
+   "url": "https://www.ajupress.com/view/20261026090654991"
   },
   {
-   "name": "PTI via Telangana Today: Rupee 94.82, 22 Oct",
-   "url": "https://telanganatoday.com/rupee-falls-44-paise-to-close-at-94-82-against-us-dollar"
+   "name": "investingLive: Nikkei, BoJ, gold",
+   "url": "https://investinglive.com/stock-market-update/nikkei-slips-bounces-as-iran-oil-fears-weigh-ing-sees-boj-holding-at-1-25-two-hikes-in-2027/"
   },
   {
-   "name": "Times of Israel: Iran liveblog 22 Oct",
-   "url": "https://timesofisrael.com/liveblog-october-22-2026"
+   "name": "Gulf News: Houthi attacks, Trump on Iran",
+   "url": "https://gulfnews.com/world/mena/middle-east-war-drone-missile-intercepted-over-riyadh-as-king-khalid-airport-resumes-operations-1.500722685"
   },
   {
-   "name": "India TV: Market open 22 Oct, Asia",
-   "url": "https://www.indiatvnews.com/business/markets/sensex-nifty-opening-october-22-stock-market-updates-gift-nifty-brent-crude-oil-price-geopolitical-tension-asian-markets-2026-10-22-1057584"
+   "name": "FXStreet: Gold below $4,000; FedWatch odds",
+   "url": "https://fxstreet.com/news/gold-declines-below-4-000-as-higher-oil-prices-reinforce-fed-rate-hike-expectations-202610252324"
   },
   {
-   "name": "Business Standard: MCX gold, silver 22 Oct",
-   "url": "https://www.business-standard.com/markets/commodities/gold-silver-extend-losses-as-crude-oil-prices-rise-amid-west-asia-tenions-126102200543_1.html"
+   "name": "Metro Vaartha (PTI): Rupee 23 Oct",
+   "url": "https://english.metrovaartha.com/economy/market/rupee-falls-12-paise-to-close-at-9493-against-us-dollar"
   },
   {
-   "name": "Analytics Insight: MCX gold, spot gold, 22 Oct",
-   "url": "https://www.analyticsinsight.net/business/mcx-gold-falls-127-to-rs-144226-ahead-of-fed-policy-meeting-brent-at-usd-1108"
+   "name": "Business Standard: Infosys Q2 FY27",
+   "url": "https://www.business-standard.com/companies/quarterly-results/infosys-q2-results-net-profit-rises-6-2-to-7-823-cr-revenue-up-10-2-126102300941_1.html"
   },
   {
-   "name": "Upstox: Q2 results 22 Oct live blog",
+   "name": "Upstox: Q2 results live 23 Oct",
+   "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-infosys-tata-motors-coforge-jsw-steel-bpcl-adani-power-others-to-declare-earnings/liveblog-202280/"
+  },
+  {
+   "name": "Business Standard: Kotak Bank Q2 FY27",
+   "url": "https://www.business-standard.com/companies/quarterly-results/kotak-mahindra-bank-q2-fy27-profit-nii-fcnr-deposits-asset-quality-126102400637_1.html"
+  },
+  {
+   "name": "Kotak Neo: IDFC First Bank Q2",
+   "url": "https://www.kotakneo.com/news/stocks/idfc-first-bank-q2-results-net-profit-income-asset-quality/"
+  },
+  {
+   "name": "Motilal Oswal: AU SFB Q2",
+   "url": "https://www.motilaloswal.com/news/company-result/32945"
+  },
+  {
+   "name": "Free Press Journal: Coforge Q2",
+   "url": "https://www.freepressjournal.in/business/coforge-reports-61708-crore-revenue-for-q2-posts-565-pat-growth-raises-fy27-ebit-margin-outlook"
+  },
+  {
+   "name": "Business Standard: JSW Steel Q2",
+   "url": "https://www.business-standard.com/companies/quarterly-results/jsw-steel-q2fy27-result-net-profit-rises-14-1-to-5-359-crore-126102300833_1.html"
+  },
+  {
+   "name": "NewsDrum: BPCL Q2",
+   "url": "https://www.newsdrum.in/business/bpcl-q2-profit-falls-21-as-war-driven-crude-surge-squeezes-fuel-margins-12745154"
+  },
+  {
+   "name": "Kotak Neo: IndusInd Bank Q2",
+   "url": "https://www.kotakneo.com/news/stocks/indusind-bank-q2-fy-27-results/"
+  },
+  {
+   "name": "Business Standard: Dr Reddy's Q2",
+   "url": "https://www.business-standard.com/companies/quarterly-results/dr-reddy-s-q2-profit-falls-36-on-lower-lenalidomide-sales-in-north-america-126102301421_1.html"
+  },
+  {
+   "name": "Upstox: Jio Platforms IPO allotment",
+   "url": "https://upstox.com/news/market-news/ipo/jio-platforms-ipo-allotment-how-to-check-status-on-nse-bse-k-fin-technologies-check-listing-date-time-here/article-202347/"
+  },
+  {
+   "name": "MarketPing: Contract wins from filings",
+   "url": "https://marketping.in/discover/contract-wins"
+  },
+  {
+   "name": "IANS: India–US trade deal 'last mile'",
+   "url": "https://ianslive.in/india-us-trade-deal-in-last-mile-says-jaishankar--20261022194745"
+  },
+  {
+   "name": "Upstox: Adani Energy Solutions",
    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-swiggy-jindal-stainless-cyient-colgate-hpcl-adani-energy-to-declare-earnings-on-oct-22/liveblog-202204/"
   },
   {
-   "name": "Business Standard: HPCL Q2 results",
-   "url": "https://www.business-standard.com/companies/quarterly-results/hpcl-q2-profit-falls-9-to-3-483-cr-on-higher-costs-tax-expenses-126102201213_1.html"
-  },
-  {
-   "name": "Business Standard: Kalpataru ₹2,349 cr orders",
-   "url": "https://www.business-standard.com/companies/news/kalpataru-projects-order-wins-rs-2349-crore-fy27-inflows-126102100194_1.html"
-  },
-  {
-   "name": "Organiser: Trump says India–US deal 'pretty close'",
-   "url": "https://organiser.org/2026/10/21/418841/world/india-us-trade-deal-is-pretty-close-says-trump-sec-rubio-signals-breakthrough-soon-as-three-day-india-visit-begins/"
-  },
-  {
-   "name": "Upstox: Top gainers and losers, 21 Oct",
-   "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-october-21-bajaj-finance-bse-shares-drop-3-infosys-hcl-tech-gain-3/article-202171/"
-  },
-  {
-   "name": "Pocketful: Market wrap and FII/DII, 21 Oct",
-   "url": "https://paper.pocketful.in/p/strong-q2-results-from-ltts-and-other"
-  },
-  {
-   "name": "NDTV Profit (10bmnews): All you need to know, 22 Oct",
+   "name": "NDTV Profit / Business Standard: Indian Hotels (IHCL)",
    "url": "https://10bmnews.com/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-22/"
   },
   {
-   "name": "Newsquawk: Asia-Pac opening, 22 Oct",
-   "url": "https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---22nd-october-2026"
+   "name": "Business Standard: Kalpataru Projects International",
+   "url": "https://www.business-standard.com/companies/news/kalpataru-projects-order-wins-rs-2349-crore-fy27-inflows-126102100194_1.html"
   },
   {
-   "name": "ANI: RBI MPC minutes",
-   "url": "https://www.aninews.in/news/business/rate-cuts-off-the-table-for-now-further-hikes-depend-on-inflation-outlook-rbi-governor-sanjay-malhotra20261021181856/"
-  },
-  {
-   "name": "Kotak Neo: Eternal Q2",
-   "url": "https://www.kotakneo.com/news/stocks/eternal-q2-results-profit-rises-revenue-growth-blinkit-adds-stores/"
-  },
-  {
-   "name": "Daily Excelsior (PTI): HDFC Bank probe",
+   "name": "PTI (Daily Excelsior): HDFC Bank",
    "url": "https://www.dailyexcelsior.com/hdfc-bank-initiates-internal-probe-into-alleged-data-leak-by-two-senior-executives"
   },
   {
-   "name": "Upstox / Business Standard (ICICIBANK)",
-   "url": "https://upstox.com/news/market-news/stocks/stocks-to-watch-oct-19-hdfc-bank-yes-axis-bank-hfcl-vedanta-hzl-dlf-idbi-bank-ireda-ltts/article-202040/"
+   "name": "ANI (21 Oct): RBI rate decision: another hike likely in December",
+   "url": "https://www.aninews.in/news/business/rate-cuts-off-the-table-for-now-further-hikes-depend-on-inflation-outlook-rbi-governor-sanjay-malhotra20261021181856/"
   },
   {
-   "name": "ScanX / IndiaIPO (TECHM)",
-   "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890"
+   "name": "Goodreturns: Possible Trump–Xi–Putin meeting at APEC in Shenzhen",
+   "url": "https://www.goodreturns.in/news/us-stock-futures-crash-today-nasdaq-futures-fall-dow-jones-s-p-500-trump-xi-putin-us-stock-market-1542973.html"
   },
   {
-   "name": "Business Standard (UNIONBANK)",
-   "url": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html"
+   "name": "Reuters (Investing.com), Newsquawk (21 Oct): US waives sanctions on Russian energy exports",
+   "url": "https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---22nd-october-2026"
   },
   {
-   "name": "Nairametrics (5 Oct) (opec)",
+   "name": "Nairametrics (5 Oct): OPEC+ oil output for December",
    "url": "https://nairametrics.com/2026/10/05/opec-keeps-november-oil-production-unchanged-at-31-01-million-bpd/"
   },
   {
-   "name": "Trading Economics: Brent and WTI, 23 Oct",
-   "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+   "name": "Upstox, Trendlyne (14–15 Oct): IDBI Bank sold to Fairfax (60.72% stake at ₹81/share)",
+   "url": "https://upstox.com/news/market-news/stocks/idbi-bank-shares-in-focus-fairfax-s-60-72-stake-acquisition-explained-10-key-factors-investors-need-to-know/article-201866/"
   },
   {
-   "name": "Upstox: Stocks to watch, 23 Oct (CreditAccess, Jindal Stainless)",
-   "url": "https://upstox.com/hindi/news/market-news/latest-updates/stocks-to-watch-oct-23-reliance-industries-swiggy-hpcl-jindal-stainless-emudhra-colgate-palmolive/article-202253/"
+   "name": "Outlook Money (13–14 Oct): Scrap LTCG tax on shares (and possibly cut STT)",
+   "url": "https://www.outlookmoney.com/tax/sbi-research-proposes-scrapping-ltcg-tax-on-equities-amid-rs-3-lakh-crore-fpi-outflows"
   },
   {
-   "name": "HDFC Sky: BEL radar order, 22 Oct",
-   "url": "https://hdfcsky.com/news/bharat-electronics-shares-fall-2-4-percent-after-radar-deal"
-  },
-  {
-   "name": "DSIJ – Pre-market update 23 Oct",
-   "url": "https://insights.dsij.in/dsijarticledetail/gift-nifty-signals-positive-start-above-22800-crude-oil-us-tech-sell-off-in-focus-60127"
-  },
-  {
-   "name": "Upstox – Q2 results 23 Oct",
-   "url": "https://upstox.com/news/market-news/earnings/q2-results-oct-23-infosys-adani-power-jsw-steel-tata-motors-bpcl-cg-power-torrent-pharma-shriram-finance-others-to-post-earnings/article-202254/"
-  },
-  {
-   "name": "Univest – IPO listings 23 Oct",
-   "url": "https://univest.in/blogs/zetwerk-vs-sahajanand-medical-bonfiglioli-tonbo-imaging-listing-price-subscription-status-before-23-oct-debut"
+   "name": "Upstox (16 Oct): SEBI closing auction for the final price",
+   "url": "https://upstox.com/news/market-news/stocks/bse-nse-nuvama-wealth-capital-market-stocks-in-focus-as-sebi-revises-cas-framework/article-201955/"
   }
  ],
  "macro": [
@@ -1086,7 +1081,7 @@
    "period": "August 2026",
    "dir": "pos",
    "note": "Manufacturing up about 9%",
-   "next": "Sep data end-Oct"
+   "next": "Sep data 28 Oct"
   },
   {
    "name": "GST collections",
@@ -1102,7 +1097,7 @@
    "period": "Week to 9 Oct",
    "dir": "neg",
    "note": "Down $8.58 bn, fifth weekly fall as RBI defends the rupee",
-   "next": "Week to 16 Oct, out today (Fri 23 Oct)"
+   "next": "Week to 16 Oct figure not found in sources checked; next weekly data Fri 30 Oct"
   },
   {
    "name": "Current account",
@@ -1114,84 +1109,91 @@
   }
  ],
  "levels": {
-  "note": "Nifty and Bank Nifty: Liquide (22 Oct) and Religare via Business Standard; Sensex from recent closes. MCX gold: Business Standard/Kedia (22 Oct). Breadth: NSE all stocks from 5paisa; Nifty 50 count from Angel One (22 Oct).",
+  "note": "Nifty, Bank Nifty and Sensex pivots from 5paisa (23 Oct); Nifty swing levels from Bajaj Broking via Goodreturns/IndiaIPO. Breadth from 5paisa (23 Oct). MCX gold levels are round numbers and recent prices, not a broker call.",
   "indices": [
    {
     "name": "Nifty 50",
-    "close": "22,687.65 (−123.70, −0.54%)",
+    "close": "22,600.00 (−87.65, −0.39%)",
     "support": [
-     "22,600 (Thu intraday low area)",
-     "22,400",
-     "22,200"
+     "22,372 (Fri low)",
+     "22,220",
+     "22,180 (October low)"
     ],
     "resistance": [
-     "22,800",
-     "22,900",
-     "23,000 (biggest call open interest earlier this week)"
+     "22,835–22,850 (20-day EMA)",
+     "22,980",
+     "23,175 (last week's high)"
     ],
-    "comment": "Third straight fall and a close below the 20-day average. Religare sees 22,200–22,400 as key support and 22,900 as the first hurdle. A weak open toward 22,600 is likely; holding it matters before the 27 Oct expiry."
+    "comment": "Fourth straight fall and RSI near 40. Bajaj Broking expects 22,370–22,850 if Friday's low holds; a break below 22,180 could open 22,000. Tuesday's expiry can swing heavyweights."
    },
    {
     "name": "Bank Nifty",
-    "close": "54,925.70 (−51.20, −0.09%)",
+    "close": "54,287.35 (−638.35, −1.16%)",
     "support": [
-     "54,700",
-     "54,000"
+     "53,786",
+     "53,500",
+     "53,100"
     ],
     "resistance": [
-     "55,200",
+     "54,788",
+     "55,150",
      "56,000"
     ],
-    "comment": "Held up better than Nifty on Thursday with PSU banks and Bajaj Finance firm. IndusInd Bank results today and Kotak Bank on Saturday are the next tests; HDFC Bank's internal probe is a weight."
+    "comment": "RSI below 40 and only one stock up on Friday. Kotak, IDFC First and AU SFB's strong weekend results could help; IndusInd's NIM fall and HDFC Bank's CEO change (27 Oct) are watch points."
    },
    {
     "name": "Sensex",
-    "close": "73,249.39 (−460.30, −0.62%)",
+    "close": "73,123.83 (−125.56, −0.17%)",
     "support": [
-     "73,000",
-     "72,500"
+     "72,293",
+     "71,778"
     ],
     "resistance": [
-     "73,700 (Wed close)",
-     "74,338"
+     "73,955",
+     "74,469"
     ],
-    "comment": "Reliance, Eternal and HDFC Bank led the fall. Infosys results today will set the tone for IT heavyweights."
+    "comment": "Infosys (guidance cut) and Kotak Bank (profit +26%) set the tone for the Sensex today."
    },
    {
     "name": "MCX Gold (Dec)",
-    "close": "₹1,44,593 (−1.0%) at 12:51 PM Thu",
+    "close": "₹1,42,734 (−0.40%) at 3:37 PM Fri",
     "support": [
-     "1,44,000",
-     "1,43,000 (round number)"
+     "1,42,000 (round number)",
+     "1,40,000 (round number)"
     ],
     "resistance": [
-     "1,45,560 (old support)",
-     "1,46,570",
-     "1,47,050"
+     "1,43,000",
+     "1,44,593 (Thu level)",
+     "1,46,570"
     ],
-    "comment": "Per 10g. Kedia's support levels (1,45,560 and 1,45,040) broke on Thursday, with falling open interest showing long unwinding. Oil-led inflation fears and Fed-hike talk weigh; war risk is the main support."
+    "comment": "Per 10g. World gold fell ~4% last week and is just under $4,000; oil-led Fed-hike bets weigh, war risk and a weak rupee support. The Fed decision late Wednesday IST is the next test."
    }
   ],
   "breadth": [
    {
-    "name": "NSE (all stocks)",
-    "adv": 1026,
-    "dec": 2512
-   },
-   {
     "name": "Nifty 50",
     "adv": 14,
     "dec": 36
+   },
+   {
+    "name": "Bank Nifty",
+    "adv": 1,
+    "dec": 13
+   },
+   {
+    "name": "Sensex",
+    "adv": 10,
+    "dec": 20
    }
   ],
-  "breadthDate": "22 Oct"
+  "breadthDate": "23 Oct"
  },
  "gold": {
-  "asof": "23 Oct, 8:15 AM IST",
-  "label": "Soft, −0.2% early Fri",
+  "asof": "26 Oct, 7:50 AM IST",
+  "label": "Weak, just under $4,000",
   "dir": "neg",
-  "base": 144593,
-  "summary": "World gold was at $4,015 (−0.22%) at 7 AM IST Friday after MCX December gold fell about 1% to ₹1,44,593 per 10g on Thursday, as $114 oil kept inflation and Fed-hike fears alive. Gold ETFs like GOLDBEES may open soft; a flat rupee near 94.81 gives little cushion. Expect ₹1,43,000–1,46,570 until the 28 Oct Fed decision; war news is the main upside risk.",
+  "base": 142734,
+  "summary": "World gold was near $3,995 early Monday after a ~4% weekly fall, its worst in over four months, as $115 oil revived Fed-hike bets; MCX December gold ended Friday near ₹1,42,734 per 10g (−0.4%). Gold ETFs like GOLDBEES may stay soft; a rupee near 95 gives only a small cushion. Expect roughly ₹1,40,000–1,44,600 until the Fed decision late Wednesday IST; an actual Iran strike is the main upside risk.",
   "how": "Indian gold ETFs track the domestic gold rate: world gold in dollars × USD/INR, plus import duty. So both world events and the rupee move them.",
   "scenarios": [
    {
@@ -1207,11 +1209,11 @@
     "netWord": "Positive",
     "odds": "Possible",
     "why": "The dollar index rose to 102 and the US 10-year yield to 5.14% on Monday, which pushed gold below $4,150. A renewed slide would lift world gold; a firmer rupee would trim part of the gain for Indian ETFs.",
-    "when": "DXY 101.60 (−0.17%) and US 10-yr ~4.95% on 22 Oct",
-    "line": "Dollar and yields eased Thursday, but oil-led rate fears still beat that for gold."
+    "when": "DXY 101.73 (+0.12%) and US 10-yr 4.99% on 23 Oct",
+    "line": "Dollar firm and yields near 5%; a slide would help gold."
    },
    {
-    "title": "Fed holds on 28 Oct (~88% odds)",
+    "title": "Fed holds on 28 Oct (~91% odds)",
     "short": "Fed holds",
     "g": 3,
     "r": -0.5,
@@ -1221,13 +1223,13 @@
     "inrFx": "Slightly stronger",
     "net": "pos",
     "netWord": "Positive",
-    "odds": "Hold ~88% (Kalshi)",
-    "why": "Prediction markets price about 88% odds of no change. A clear pause keeps yields and the dollar steady, helping gold toward $4,185–4,239; a firmer rupee would trim part of the gain in India.",
-    "when": "FOMC 28 Oct",
-    "line": "A hold is expected; markets now eye a possible December hike, which caps gold."
+    "odds": "Hold ~90.6% (CME FedWatch)",
+    "why": "Markets price about 90.6% odds of no change this week. A calm statement keeps yields and the dollar steady and could let gold steady above $4,000; a firmer rupee would trim part of any gain in India.",
+    "when": "FOMC 28 Oct (late night IST)",
+    "line": "A hold is priced in; a December hike (~79% odds) is what caps gold."
    },
    {
-    "title": "Fed hikes on 28 Oct (~11% odds)",
+    "title": "Fed hikes on 28 Oct (small odds)",
     "short": "Fed hikes",
     "g": -4,
     "r": 0.75,
@@ -1237,10 +1239,10 @@
     "inrFx": "Weaker (cushions)",
     "net": "neg",
     "netWord": "Negative",
-    "odds": "About 11% (Kalshi)",
-    "why": "Hike odds have fallen since the hot September CPI and PPI, but a surprise move would lift the dollar and yields and could push gold back toward $4,000–4,066. FII selling in India would likely rise, weakening the rupee and cushioning part of the fall.",
-    "when": "FOMC 28 Oct",
-    "line": "Hike odds have fallen; gold toward $4,050–4,100 if it happens."
+    "odds": "About 9% (CME FedWatch)",
+    "why": "A surprise hike would lift the dollar and yields and push gold lower; FII selling in India would likely weaken the rupee and cushion part of the fall.",
+    "when": "FOMC 28 Oct (late night IST)",
+    "line": "Unlikely now; gold could drop toward $3,900 if it happens."
    },
    {
     "title": "Gulf conflict widens, oil spikes",
@@ -1255,8 +1257,8 @@
     "netWord": "Positive (short term)",
     "odds": "Rising",
     "why": "Gold usually jumps on war fears, and higher oil weakens the rupee, so Indian gold ETFs gain on both counts. The catch: costly oil also feeds inflation and Fed-hike fears, which has capped gold's rallies recently, so gains can fade.",
-    "when": "22 Oct: Brent $112.33; NYT reports US–Israel strike plans for after 3 Nov; IRGC says ships hit",
-    "line": "Strike plans and ship attacks keep war risk high; gold usually jumps on actual strikes."
+    "when": "25–26 Oct: Houthi missiles at Riyadh; Trump says a strike is 'a possibility'; Brent $116.72 Fri",
+    "line": "Oil at a six-month high; gold rises on an actual strike, but hike fears have capped rallies."
    },
    {
     "title": "US–Iran de-escalation",
@@ -1269,9 +1271,9 @@
     "inrFx": "Stronger",
     "net": "neg",
     "netWord": "Mildly negative",
-    "odds": "Low before 3 Nov",
+    "odds": "Low",
     "why": "Less war risk removes some safe-haven buying, though cheaper oil also lowers inflation and hike fears, which helps gold. The clearer effect for India is a stronger rupee, which pulls the rupee price of gold down.",
-    "when": "FT: Israeli strike shelved by Trump; Iran's president says talks impossible under blockade",
+    "when": "26 Oct: Trump floats a deal; Iran says contacts continue through intermediaries",
     "line": "Less haven demand and a stronger rupee pull Indian gold down."
    },
    {
@@ -1285,10 +1287,10 @@
     "inrFx": "Weaker",
     "net": "pos",
     "netWord": "Positive",
-    "odds": "Low now",
-    "why": "Every 1% fall in the rupee adds roughly 1% to Indian gold ETF prices even if world gold is flat. FII selling and Brent above $110 are the pressures, but Jio IPO inflows and RBI action have strengthened the rupee.",
-    "when": "USD/INR 94.38 (21 Oct) vs record low 96.96",
-    "line": "Each 1% rupee fall adds ~1% to gold ETFs, even with gold flat."
+    "odds": "Possible",
+    "why": "Every 1% fall in the rupee adds roughly 1% to Indian gold ETF prices even if world gold is flat. Brent above $115 and FII selling are pushing the rupee toward 95.",
+    "when": "USD/INR ~94.93–95.01 on 23–26 Oct vs record low 96.96",
+    "line": "Rupee near 95; each 1% fall adds ~1% to gold ETFs, even with gold flat."
    },
    {
     "title": "Rupee recovers",
@@ -1301,10 +1303,10 @@
     "inrFx": "Stronger",
     "net": "neg",
     "netWord": "Negative",
-    "odds": "Under way",
-    "why": "Jio IPO inflows and RBI action lifted the rupee to a six-week high on Wednesday, which is why MCX gold fell while world gold was flat. Further gains would keep pressure on Indian gold ETFs.",
-    "when": "Rupee at six-week high 94.38 on 21 Oct; range seen 94.20–94.80",
-    "line": "Rupee rose 53 paise Wed; each 1% gain cuts ~1% off gold ETFs."
+    "odds": "Stalled",
+    "why": "The mid-October rupee rally has faded as oil rose. A renewed recovery, for example on Jio IPO inflows or a trade deal, would keep pressure on Indian gold ETFs.",
+    "when": "Rupee fell two days in a row to ~94.93 on 23 Oct",
+    "line": "Rally has faded; each 1% rupee gain cuts ~1% off gold ETFs."
    },
    {
     "title": "Stock market sell-off",
@@ -1319,8 +1321,8 @@
     "netWord": "Positive",
     "odds": "Building",
     "why": "Investors move money into gold when stocks fall. The WGC says weak Indian equities drove gold ETF buying in September. In a severe crash gold can dip briefly as people sell everything to raise cash, then recover.",
-    "when": "Smallcap 100 −2.37% and VIX at 4-month high on 21 Oct",
-    "line": "Broad sell-off Wed (608 up vs 2,988 down); deeper falls push money to gold."
+    "when": "Smallcap 100 −2.94% and VIX +6.3% on 23 Oct",
+    "line": "Mid and small caps fell ~2–3% Fri; deeper falls can push money to gold."
    },
    {
     "title": "Central banks keep buying",
@@ -1357,8 +1359,296 @@
   ]
  },
  "triggers": {
-  "asof": "23 Oct 2026, 8:15 AM IST (covers news to early Friday)",
+  "asof": "26 Oct 2026, 7:50 AM IST (covers news to early Monday)",
   "items": [
+   {
+    "sym": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank",
+    "type": "Results",
+    "dir": "pos",
+    "date": "24 Oct",
+    "head": "Q2 consolidated profit +26% to ₹5,645 cr; gross NPA down to 1.04%",
+    "detail": "Loans +25%, NII +16% and credit cost just 0.35%. Margin dipped to 4.31% on FCNR deposits. Results came on Saturday, so today is the first reaction.",
+    "move": "Fri −1.70% to ₹430.10 (before results)",
+    "src": "Business Standard",
+    "url": "https://www.business-standard.com/companies/quarterly-results/kotak-mahindra-bank-q2-fy27-profit-nii-fcnr-deposits-asset-quality-126102400637_1.html",
+    "hold": "2–4 weeks",
+    "review": "16 Nov",
+    "moved": "",
+    "holdNote": "Not priced in yet; the margin dip is what bears will focus on, so watch the first hour."
+   },
+   {
+    "sym": "IDFCFIRSTB",
+    "name": "IDFC First Bank",
+    "type": "Results",
+    "dir": "pos",
+    "date": "24 Oct",
+    "head": "Q2 profit nearly triples to ₹1,044.6 cr; gross NPA 1.32%",
+    "detail": "Profit rose from ₹352 cr a year ago as provisions fell; asset quality improved. First reaction today.",
+    "move": "",
+    "src": "Kotak Neo",
+    "url": "https://www.kotakneo.com/news/stocks/idfc-first-bank-q2-results-net-profit-income-asset-quality/",
+    "hold": "2–4 weeks",
+    "review": "16 Nov",
+    "moved": "",
+    "holdNote": "Big jump partly from low base; banks are moving with oil and FII mood, so use a stop-loss."
+   },
+   {
+    "sym": "AUBANK",
+    "name": "AU Small Finance Bank",
+    "type": "Results",
+    "dir": "pos",
+    "date": "24 Oct",
+    "head": "Q2 profit +53% to ₹858 cr",
+    "detail": "Strong profit growth reported after the Friday close; full details not checked in sources.",
+    "move": "",
+    "src": "Motilal Oswal",
+    "url": "https://www.motilaloswal.com/news/company-result/32945",
+    "hold": "2–4 weeks",
+    "review": "16 Nov",
+    "moved": "",
+    "holdNote": "Only the headline figure was confirmed; check margins and asset quality before buying."
+   },
+   {
+    "sym": "COFORGE",
+    "name": "Coforge",
+    "type": "Results",
+    "dir": "pos",
+    "date": "23 Oct",
+    "head": "Q2 PAT +56.5% to ₹588 cr; FY27 EBIT margin guidance raised to 16%",
+    "detail": "Revenue +53.6% to ₹6,170.8 cr, order intake $1.04 bn with eight large deals; CEO sees 17% margin next year.",
+    "move": "",
+    "src": "Free Press Journal",
+    "url": "https://www.freepressjournal.in/business/coforge-reports-61708-crore-revenue-for-q2-posts-565-pat-growth-raises-fy27-ebit-margin-outlook",
+    "hold": "2–4 weeks",
+    "review": "16 Nov",
+    "moved": "",
+    "holdNote": "Infosys's guidance cut may drag IT at the open; strength against that is the signal."
+   },
+   {
+    "sym": "JSWSTEEL",
+    "name": "JSW Steel",
+    "type": "Results",
+    "dir": "pos",
+    "date": "23 Oct",
+    "head": "Q2 profit more than triples to ₹5,279 cr; EBITDA +42%",
+    "detail": "Revenue +20.7% to ₹54,489 cr. Results came near Friday's close while metals were the worst sector.",
+    "move": "Fri −2.83% to ₹1,185.50",
+    "src": "Upstox; Business Standard",
+    "url": "https://www.business-standard.com/companies/quarterly-results/jsw-steel-q2fy27-result-net-profit-rises-14-1-to-5-359-crore-126102300833_1.html",
+    "hold": "2–4 weeks",
+    "review": "16 Nov",
+    "moved": "",
+    "holdNote": "Fell with metals on Friday, so not priced in; global metal prices and oil risk can cap a bounce."
+   },
+   {
+    "sym": "TMCV",
+    "name": "Tata Motors (commercial vehicles)",
+    "type": "Results",
+    "dir": "pos",
+    "date": "23 Oct",
+    "head": "Q2 consolidated revenue +36% to ₹25,338 cr; swings to ₹1,257 cr profit",
+    "detail": "Standalone profit ₹2,878 cr vs a loss a year ago. Results after the close; reports differ slightly on the consolidated profit figure.",
+    "move": "",
+    "src": "Upstox",
+    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-infosys-tata-motors-coforge-jsw-steel-bpcl-adani-power-others-to-declare-earnings/liveblog-202280/",
+    "hold": "2–4 weeks",
+    "review": "16 Nov",
+    "moved": "",
+    "holdNote": "Check the exact symbol in your broker app; auto stocks were near 52-week lows last week."
+   },
+   {
+    "sym": "ADANIPOWER",
+    "name": "Adani Power",
+    "type": "Results",
+    "dir": "pos",
+    "date": "23 Oct",
+    "head": "Q2 profit +134% to ₹6,919 cr; revenue +44%",
+    "detail": "Results came at 2:47 PM Friday during a weak market, so part of the reaction may already be in.",
+    "move": "",
+    "src": "Upstox",
+    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-infosys-tata-motors-coforge-jsw-steel-bpcl-adani-power-others-to-declare-earnings/liveblog-202280/",
+    "hold": "2–4 weeks",
+    "review": "16 Nov",
+    "moved": "",
+    "holdNote": "Adani group shares swing on group news (Adani Enterprises −2.9% Fri); use a stop-loss."
+   },
+   {
+    "sym": "CGPOWER",
+    "name": "CG Power and Industrial Solutions",
+    "type": "Results",
+    "dir": "pos",
+    "date": "23 Oct",
+    "head": "Q2 profit +43.7% to ₹412 cr; revenue +30%",
+    "detail": "Results came at 2:35 PM Friday; strong demand for electrical equipment.",
+    "move": "",
+    "src": "Upstox",
+    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-infosys-tata-motors-coforge-jsw-steel-bpcl-adani-power-others-to-declare-earnings/liveblog-202280/",
+    "hold": "2–4 weeks",
+    "review": "16 Nov",
+    "moved": "",
+    "holdNote": "Partly reacted Friday; high valuation makes it sensitive to market falls."
+   },
+   {
+    "sym": "BANKINDIA",
+    "name": "Bank of India",
+    "type": "Results",
+    "dir": "pos",
+    "date": "23 Oct",
+    "head": "Q2 profit up about 25% to ₹3,202 cr",
+    "detail": "Results came after Friday's close, when PSU banks were among the weakest sectors (−2.26%).",
+    "move": "",
+    "src": "Upstox",
+    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-infosys-tata-motors-coforge-jsw-steel-bpcl-adani-power-others-to-declare-earnings/liveblog-202280/",
+    "hold": "2–4 weeks",
+    "review": "16 Nov",
+    "moved": "",
+    "holdNote": "PSU banks are falling with the market; wait for the open to confirm buying."
+   },
+   {
+    "sym": "RAMKY",
+    "name": "Ramky Infrastructure",
+    "type": "Order won",
+    "dir": "pos",
+    "date": "24 Oct",
+    "head": "₹588.57 cr EPC contract from RVNL",
+    "detail": "New railway EPC order; execution period and size versus revenue not confirmed in sources checked.",
+    "move": "",
+    "src": "MarketPing (filings)",
+    "url": "https://marketping.in/discover/contract-wins",
+    "hold": "2–3 trading days",
+    "review": "29 Oct",
+    "moved": "",
+    "holdNote": "Small company: prices can jump and fall fast and selling can be harder."
+   },
+   {
+    "sym": "SHRIRAMFIN",
+    "name": "Shriram Finance",
+    "type": "Results",
+    "dir": "neu",
+    "date": "23 Oct",
+    "head": "Q2 profit +59% to ₹3,677 cr; ₹6.50 dividend (record date 29 Oct)",
+    "detail": "Interest income +15.8%. Yet the stock was the top Nifty loser on Friday after the results came out at about 3 PM.",
+    "move": "Fri −3.98% to ₹865",
+    "src": "Upstox; HDFC Sky",
+    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-infosys-tata-motors-coforge-jsw-steel-bpcl-adani-power-others-to-declare-earnings/liveblog-202280/",
+    "hold": "Wait",
+    "review": "29 Oct",
+    "moved": "",
+    "holdNote": "Sold off on good numbers; the reason is not confirmed in sources checked."
+   },
+   {
+    "sym": "INDUSINDBK",
+    "name": "IndusInd Bank",
+    "type": "Results",
+    "dir": "neu",
+    "date": "23 Oct",
+    "head": "Q2 profit ₹1,242 cr vs loss a year ago; NIM falls to 3.23%",
+    "detail": "Gross NPA improved to 2.73%, but margin fell from 3.57% in Q1 and NII dropped 2% QoQ.",
+    "move": "Fri −1.82% to ₹835",
+    "src": "Kotak Neo",
+    "url": "https://www.kotakneo.com/news/stocks/indusind-bank-q2-fy-27-results/",
+    "hold": "Wait",
+    "review": "29 Oct",
+    "moved": "",
+    "holdNote": "Recovery is on track, but the margin squeeze kept buyers away Friday."
+   },
+   {
+    "sym": "BPCL",
+    "name": "Bharat Petroleum",
+    "type": "Results",
+    "dir": "neu",
+    "date": "23 Oct",
+    "head": "Q2 profit −21% to ₹4,863 cr; refining margin $32.53/bbl",
+    "detail": "Fuel marketing margins were hit by costly crude; refining was strong. Board approved a subsidiary for an Andhra Pradesh refinery.",
+    "move": "Fri −1.74% to ₹281.95 (before results)",
+    "src": "NewsDrum",
+    "url": "https://www.newsdrum.in/business/bpcl-q2-profit-falls-21-as-war-driven-crude-surge-squeezes-fuel-margins-12745154",
+    "hold": "Wait",
+    "review": "29 Oct",
+    "moved": "",
+    "holdNote": "Brent above $115 is the bigger driver than the results."
+   },
+   {
+    "sym": "RELIANCE",
+    "name": "Reliance Industries",
+    "type": "Corporate action",
+    "dir": "neu",
+    "date": "23 Oct",
+    "head": "Jio Platforms IPO subscribed 22.19x; allotment today, listing 28 Oct",
+    "detail": "QIBs 70.55x, NIIs 14x, retail 2.72x. Strong demand supports the value of Reliance's stake.",
+    "move": "",
+    "src": "Upstox",
+    "url": "https://upstox.com/news/market-news/ipo/jio-platforms-ipo-allotment-how-to-check-status-on-nse-bse-k-fin-technologies-check-listing-date-time-here/article-202347/",
+    "hold": "Wait",
+    "review": "28 Oct",
+    "moved": "",
+    "holdNote": "The listing price on 28 Oct is the real test for Reliance."
+   },
+   {
+    "sym": "INFY",
+    "name": "Infosys",
+    "type": "Results",
+    "dir": "neg",
+    "date": "23 Oct",
+    "head": "FY27 growth guidance cut to 1–2% from 1.5–3%; profit slightly below estimates",
+    "detail": "Q2 profit +6.2% to about ₹7,823 cr; $5.2 bn large deals including one above $2 bn, but benefits start from April. CEO called it a soft quarter. ₹26 dividend, record date 3 Nov.",
+    "move": "Fri close ₹1,154.50, marginally up (results after close); US shares ~−6% pre-market Fri",
+    "src": "Business Standard; IndiaIPO",
+    "url": "https://www.business-standard.com/companies/quarterly-results/infosys-q2-results-net-profit-rises-6-2-to-7-823-cr-revenue-up-10-2-126102300941_1.html",
+    "hold": "Avoid new buying",
+    "review": "29 Oct",
+    "moved": "",
+    "holdNote": ""
+   },
+   {
+    "sym": "DRREDDY",
+    "name": "Dr Reddy's Laboratories",
+    "type": "Results",
+    "dir": "neg",
+    "date": "23 Oct",
+    "head": "Q2 profit falls 31–36% to about ₹925 cr",
+    "detail": "Lower lenalidomide (Revlimid generic) sales in North America hit earnings; reports differ on the exact percentage.",
+    "move": "",
+    "src": "Business Standard; Upstox",
+    "url": "https://www.business-standard.com/companies/quarterly-results/dr-reddy-s-q2-profit-falls-36-on-lower-lenalidomide-sales-in-north-america-126102301421_1.html",
+    "hold": "Avoid new buying",
+    "review": "29 Oct",
+    "moved": "",
+    "holdNote": ""
+   },
+   {
+    "sym": "GODREJPROP",
+    "name": "Godrej Properties",
+    "type": "Results",
+    "dir": "neg",
+    "date": "23 Oct",
+    "head": "Q2 profit −62% to ₹154 cr despite revenue +161%",
+    "detail": "Revenue jumped to ₹1,935 cr but profit fell from ₹405 cr; realty was among the worst sectors Friday (−2.38%).",
+    "move": "",
+    "src": "Upstox",
+    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-infosys-tata-motors-coforge-jsw-steel-bpcl-adani-power-others-to-declare-earnings/liveblog-202280/",
+    "hold": "Avoid new buying",
+    "review": "29 Oct",
+    "moved": "",
+    "holdNote": ""
+   },
+   {
+    "sym": "SHREECEM",
+    "name": "Shree Cement",
+    "type": "Results",
+    "dir": "neg",
+    "date": "23 Oct",
+    "head": "Q2 profit −15% to ₹262 cr; revenue +24%",
+    "detail": "Higher costs offset strong sales growth.",
+    "move": "",
+    "src": "Upstox",
+    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-infosys-tata-motors-coforge-jsw-steel-bpcl-adani-power-others-to-declare-earnings/liveblog-202280/",
+    "hold": "Avoid new buying",
+    "review": "29 Oct",
+    "moved": "",
+    "holdNote": ""
+   },
    {
     "sym": "ADANIENSOL",
     "name": "Adani Energy Solutions",
@@ -1373,7 +1663,7 @@
     "hold": "2–4 weeks",
     "review": "13 Nov",
     "moved": "",
-    "holdNote": "Not yet priced in; Adani group shares can swing on group news, so use a stop-loss."
+    "holdNote": "Not yet priced in; Adani group shares fell Friday, so use a stop-loss."
    },
    {
     "sym": "HAVELLS",
@@ -1392,70 +1682,6 @@
     "holdNote": "First reaction today; margin squeeze is the risk that can turn the move negative."
    },
    {
-    "sym": "CHENNPETRO",
-    "name": "Chennai Petroleum",
-    "type": "Results",
-    "dir": "pos",
-    "date": "22 Oct",
-    "head": "Q2 profit up 212% to ₹2,247 cr",
-    "detail": "A standalone refiner benefits from high refining margins without the fuel-retail losses that hit HPCL and BPCL.",
-    "move": "",
-    "src": "Upstox",
-    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-swiggy-jindal-stainless-cyient-colgate-hpcl-adani-energy-to-declare-earnings-on-oct-22/liveblog-202204/",
-    "hold": "2–4 weeks",
-    "review": "13 Nov",
-    "moved": "",
-    "holdNote": "Smaller, volatile stock; refining margins can fall quickly if oil swings."
-   },
-   {
-    "sym": "CYIENT",
-    "name": "Cyient",
-    "type": "Results",
-    "dir": "pos",
-    "date": "22 Oct",
-    "head": "Q2 profit +16.6% QoQ to ₹121.4 cr; revenue +7.7% QoQ; ₹12 dividend",
-    "detail": "A good sequential recovery for a mid-size IT services firm. Dividend record date is 28 Oct.",
-    "move": "",
-    "src": "Upstox",
-    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-swiggy-jindal-stainless-cyient-colgate-hpcl-adani-energy-to-declare-earnings-on-oct-22/liveblog-202204/",
-    "hold": "2–4 weeks",
-    "review": "13 Nov",
-    "moved": "",
-    "holdNote": "Weak IT mood after the Nasdaq fall can delay any rise."
-   },
-   {
-    "sym": "J&KBANK",
-    "name": "Jammu & Kashmir Bank",
-    "type": "Results",
-    "dir": "pos",
-    "date": "22 Oct",
-    "head": "Q2 profit +10.5% to ₹546 cr; NII +4.7% to ₹1,502 cr",
-    "detail": "Steady profit growth, but slow interest-income growth limits the upside. PSU banks were firm on Thursday.",
-    "move": "",
-    "src": "Upstox",
-    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-swiggy-jindal-stainless-cyient-colgate-hpcl-adani-energy-to-declare-earnings-on-oct-22/liveblog-202204/",
-    "hold": "2–4 weeks",
-    "review": "13 Nov",
-    "moved": "",
-    "holdNote": "Modest beat; a small-bank stock that can move sharply both ways."
-   },
-   {
-    "sym": "KPIL",
-    "name": "Kalpataru Projects International",
-    "type": "Order won",
-    "dir": "pos",
-    "date": "21 Oct",
-    "head": "New orders worth ₹2,349 cr in power transmission and buildings",
-    "detail": "Takes FY27 order inflows past ₹22,000 cr. The new orders are about 9% of FY26 revenue of ₹27,143 cr: useful, not transformational. Clients not named.",
-    "move": "",
-    "src": "Business Standard",
-    "url": "https://www.business-standard.com/companies/news/kalpataru-projects-order-wins-rs-2349-crore-fy27-inflows-126102100194_1.html",
-    "hold": "2–3 trading days",
-    "review": "26 Oct",
-    "moved": "",
-    "holdNote": "Regular order wins for this company; the price effect is usually short."
-   },
-   {
     "sym": "INDHOTEL",
     "name": "Indian Hotels (IHCL)",
     "type": "Results",
@@ -1468,56 +1694,24 @@
     "url": "https://10bmnews.com/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-22/",
     "hold": "2–4 weeks",
     "review": "12 Nov",
-    "moved": "4% on Thu",
+    "moved": "4% on 22 Oct",
     "holdNote": "Already rose about 4% on Thursday; wait for a dip rather than chase. Guidance raise supports the 2–4 week view."
    },
    {
-    "sym": "PCJEWELLER",
-    "name": "PC Jeweller",
-    "type": "Results",
-    "dir": "pos",
-    "date": "21 Oct",
-    "head": "Q2 profit +57.6% to ₹331 cr; revenue +27.8%; company says it is debt-free",
-    "detail": "A bulk buyer (Aditya Kumar Halwasiya) bought 5.51 cr shares at ₹18.39.",
-    "move": "",
-    "src": "NDTV Profit",
-    "url": "https://10bmnews.com/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-22/",
-    "hold": "2–4 weeks",
-    "review": "12 Nov",
-    "moved": "",
-    "holdNote": "Penny-priced, very volatile stock; small position only."
-   },
-   {
-    "sym": "M&MFIN",
-    "name": "Mahindra & Mahindra Financial",
-    "type": "Results",
-    "dir": "pos",
-    "date": "21 Oct",
-    "head": "Q2 profit +55% to ₹882 cr on loan growth and lower credit costs",
-    "detail": "Business Standard reports standalone ₹882 cr; NDTV Profit reports ₹909 cr (+61%) with NII +12.5%. Rural lending looks healthier.",
-    "move": "",
-    "src": "Business Standard / NDTV Profit",
-    "url": "https://10bmnews.com/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-22/",
-    "hold": "2–4 weeks",
-    "review": "12 Nov",
-    "moved": "",
-    "holdNote": "RBI's hawkish minutes are a headwind for NBFCs; use a stop-loss."
-   },
-   {
-    "sym": "BEL",
-    "name": "Bharat Electronics",
+    "sym": "KPIL",
+    "name": "Kalpataru Projects International",
     "type": "Order won",
     "dir": "pos",
-    "date": "22 Oct",
-    "head": "₹770 cr Army radar order, on top of ₹1,011 cr orders since 13 Oct",
-    "detail": "Defence Ministry contract for improved low-level lightweight radars. Small versus BEL's yearly revenue, so it adds to the order book rather than changing the story.",
-    "move": "Thu −1.14% (11:08 AM), fell as much as 2.4%",
-    "src": "HDFC Sky",
-    "url": "https://hdfcsky.com/news/bharat-electronics-shares-fall-2-4-percent-after-radar-deal",
-    "hold": "2–3 trading days",
-    "review": "28 Oct",
+    "date": "21 Oct",
+    "head": "New orders worth ₹2,349 cr in power transmission and buildings",
+    "detail": "Takes FY27 order inflows past ₹22,000 cr. The new orders are about 9% of FY26 revenue of ₹27,143 cr: useful, not transformational. Clients not named.",
+    "move": "",
+    "src": "Business Standard",
+    "url": "https://www.business-standard.com/companies/news/kalpataru-projects-order-wins-rs-2349-crore-fy27-inflows-126102100194_1.html",
+    "hold": "Review now",
+    "review": "26 Oct",
     "moved": "",
-    "holdNote": "Market ignored the order on Thursday; results later this quarter are the bigger test."
+    "holdNote": "Review date is today; no clear price reaction found in sources checked — sell if neither target nor stop-loss has been hit."
    },
    {
     "sym": "SEAMEC",
@@ -1530,170 +1724,10 @@
     "move": "",
     "src": "NDTV Profit",
     "url": "https://10bmnews.com/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-22/",
-    "hold": "2–3 trading days",
+    "hold": "Review now",
     "review": "26 Oct",
     "moved": "",
-    "holdNote": "Small company, thin trading; use limit orders."
-   },
-   {
-    "sym": "TATACOMM",
-    "name": "Tata Communications",
-    "type": "Regulatory",
-    "dir": "pos",
-    "date": "21 Oct",
-    "head": "Spanish court annuls €33.6 mn demand and penalty against its Spain unit",
-    "detail": "Removes a contingent liability of roughly €33.6 mn; the authority may still appeal.",
-    "move": "",
-    "src": "NDTV Profit",
-    "url": "https://10bmnews.com/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-22/",
-    "hold": "3–5 trading days",
-    "review": "28 Oct",
-    "moved": "",
-    "holdNote": "Small versus the company's size; a sentiment positive rather than a big earnings change."
-   },
-   {
-    "sym": "CREDITACC",
-    "name": "CreditAccess Grameen",
-    "type": "Results",
-    "dir": "pos",
-    "date": "22 Oct",
-    "head": "Q2 profit nearly triples to ₹502 cr; NII +31%; AUM +19.5% to ₹30,946 cr",
-    "detail": "Points to easing bad-loan stress in microfinance, which hit profits last year. Results came after the close.",
-    "move": "",
-    "src": "Upstox",
-    "url": "https://upstox.com/hindi/news/market-news/latest-updates/stocks-to-watch-oct-23-reliance-industries-swiggy-hpcl-jindal-stainless-emudhra-colgate-palmolive/article-202253/",
-    "hold": "2–4 weeks",
-    "review": "13 Nov",
-    "moved": "",
-    "holdNote": "Mid-sized lender; check asset quality (gross NPA) on the call before relying on the rally."
-   },
-   {
-    "sym": "JSL",
-    "name": "Jindal Stainless",
-    "type": "Results",
-    "dir": "pos",
-    "date": "22 Oct",
-    "head": "Q2 profit +11% to ₹898 cr; revenue +18% to ₹12,874 cr; exports +36%",
-    "detail": "Steady volume growth (shipments 6.64 lakh tonnes) and strong exports.",
-    "move": "",
-    "src": "Upstox",
-    "url": "https://upstox.com/hindi/news/market-news/latest-updates/stocks-to-watch-oct-23-reliance-industries-swiggy-hpcl-jindal-stainless-emudhra-colgate-palmolive/article-202253/",
-    "hold": "2–4 weeks",
-    "review": "13 Nov",
-    "moved": "",
-    "holdNote": "Solid but not a big surprise; metals are weak this week."
-   },
-   {
-    "sym": "ETERNAL",
-    "name": "Eternal (Zomato, Blinkit)",
-    "type": "Results",
-    "dir": "neu",
-    "date": "21 Oct",
-    "head": "Q2 profit +92% to ₹125 cr; revenue +78% to ₹24,138 cr; Blinkit adj. EBITDA ₹184 cr",
-    "detail": "Blinkit order value rose 79% and its profit improved from ₹102 cr in June, easing worries about quick-commerce losses. Results came after the close.",
-    "move": "Thu −2.53% to ₹304.45 (among top Nifty losers)",
-    "src": "Kotak Neo",
-    "url": "https://www.kotakneo.com/news/stocks/eternal-q2-results-profit-rises-revenue-growth-blinkit-adds-stores/",
-    "hold": "Wait",
-    "review": "28 Oct",
-    "moved": "",
-    "holdNote": "Strong results failed to lift the share on day one; wait for it to stop falling before acting. Swiggy's wider QoQ loss may weigh on the sector."
-   },
-   {
-    "sym": "KEI",
-    "name": "KEI Industries",
-    "type": "Results",
-    "dir": "neu",
-    "date": "21 Oct",
-    "head": "Q2 profit +28.4% to ₹262 cr; revenue +38.5%",
-    "detail": "Strong cable and wire demand; results came after a 4.6% fall during Wednesday's midcap sell-off.",
-    "move": "Thu −8% (CNBC-TV18)",
-    "src": "NDTV Profit / Multibagg",
-    "url": "https://10bmnews.com/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-22/",
-    "hold": "Wait",
-    "review": "28 Oct",
-    "moved": "",
-    "holdNote": "Fell 8% despite 28% profit growth; the reason for the fall was not confirmed in sources checked. Wait for it to settle."
-   },
-   {
-    "sym": "HINDPETRO",
-    "name": "Hindustan Petroleum (HPCL)",
-    "type": "Results",
-    "dir": "neu",
-    "date": "22 Oct",
-    "head": "Q2 profit −9% YoY to ₹3,483 cr; swing from ₹11,526 cr loss in Q1",
-    "detail": "Sales rose 26% with about ₹3,960 cr of LPG compensation. Analysts estimate fuel retail margins are negative at current crude prices, so Q3 depends on oil.",
-    "move": "",
-    "src": "Business Standard",
-    "url": "https://www.business-standard.com/companies/quarterly-results/hpcl-q2-profit-falls-9-to-3-483-cr-on-higher-costs-tax-expenses-126102201213_1.html",
-    "hold": "Wait",
-    "review": "28 Oct",
-    "moved": "",
-    "holdNote": "Brent at $112 is the bigger driver than this quarter; a fall in oil would help most."
-   },
-   {
-    "sym": "RELIANCE",
-    "name": "Reliance Industries",
-    "type": "Corporate action",
-    "dir": "neu",
-    "date": "21 Oct",
-    "head": "Jio Platforms IPO 4.3x subscribed by day 2 (QIB 9.78x, retail 1.39x); closes today",
-    "detail": "Strong institutional demand supports the value of Reliance's Jio stake; retail demand was soft. Rubio toured Jamnagar on Wednesday.",
-    "move": "Thu among top Sensex losers",
-    "src": "NDTV Profit",
-    "url": "https://10bmnews.com/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-22/",
-    "hold": "Wait",
-    "review": "28 Oct",
-    "moved": "",
-    "holdNote": "Listing tentatively 28 Oct; the IPO is already well bid, so the parent's upside may be limited near term."
-   },
-   {
-    "sym": "TECHM",
-    "name": "Tech Mahindra",
-    "type": "Results",
-    "dir": "pos",
-    "head": "Q2 profit +32.7% to ₹1,586 cr; EBIT margin 14.8%; 1:1 bonus and ₹15 dividend",
-    "detail": "Profit +32.7%, revenue +15.6%, deal wins $1.02 bn. 1:1 bonus and ₹15 dividend, record date 23 Oct.",
-    "move": "Wed +3.13% in IT rally",
-    "src": "ScanX / IndiaIPO",
-    "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-16-2026-iifl-finance-hdfc-life-insurance/53659890",
-    "hold": "Review now",
-    "review": "23 Oct",
-    "moved": "3.1% on Wed",
-    "holdNote": "Record date for the 1:1 bonus and ₹15 dividend is today, so the share price adjusts for the bonus. The trigger has played out; decide on fresh merit.",
-    "date": "15 Oct"
-   },
-   {
-    "sym": "NAM-INDIA",
-    "name": "Nippon Life India AMC",
-    "type": "Results",
-    "dir": "neg",
-    "date": "22 Oct",
-    "head": "Q2 profit −5.9% YoY to ₹324.37 cr; ₹9.50 interim dividend",
-    "detail": "Profit fell year on year as weak markets hurt other income. Dividend record date is 28 Oct.",
-    "move": "",
-    "src": "Upstox",
-    "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-swiggy-jindal-stainless-cyient-colgate-hpcl-adani-energy-to-declare-earnings-on-oct-22/liveblog-202204/",
-    "hold": "Avoid new buying",
-    "review": "30 Oct",
-    "moved": "",
-    "holdNote": "Falling markets can keep pressure on asset managers' earnings."
-   },
-   {
-    "sym": "GALLANTT",
-    "name": "Gallantt Ispat",
-    "type": "Stake sale",
-    "dir": "neg",
-    "date": "22 Oct",
-    "head": "Promoter sells 1.09% (26.51 lakh shares) for ₹149.83 cr",
-    "detail": "Promoter Gallantt Industry sold to Suryalaxmi Infracon in a bulk deal. Promoter selling often weighs on a share for a few days.",
-    "move": "",
-    "src": "Whalesbook",
-    "url": "https://www.whalesbook.com/news/English/sebiexchange/Bulk-Deals-Oct-22-Finavenue-Patel-Family-Buy-Ravita-Engineering-Gallantt-Ispat-Sees-Promoter-Exit/6ada479879a16deaeafab025",
-    "hold": "Avoid new buying",
-    "review": "29 Oct",
-    "moved": "",
-    "holdNote": "Small company; the buyer's identity and reason for the sale matter. Hard to exit quickly."
+    "holdNote": "Review date is today; no price reaction found in sources checked — consider moving the money if flat."
    },
    {
     "sym": "HDFCBANK",
@@ -1709,59 +1743,11 @@
     "hold": "Avoid new buying",
     "review": "27 Oct",
     "moved": "",
-    "holdNote": "Probe outcome and the 27 Oct CEO handover are the next tests."
-   },
-   {
-    "sym": "ALKEM",
-    "name": "Alkem Laboratories",
-    "type": "Regulatory",
-    "dir": "neg",
-    "date": "21 Oct",
-    "head": "Board approves forensic audit over alleged misappropriation of funds",
-    "detail": "Amount and unit involved not given in the source; a forensic audit signals a possible control lapse.",
-    "move": "",
-    "src": "NDTV Profit",
-    "url": "https://10bmnews.com/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-22/",
-    "hold": "Avoid new buying",
-    "review": "29 Oct",
-    "moved": "",
-    "holdNote": "Uncertainty until the audit scope and amount are disclosed."
-   },
-   {
-    "sym": "VMM",
-    "name": "Vishal Mega Mart",
-    "type": "Results",
-    "dir": "neg",
-    "date": "21 Oct",
-    "head": "Q2 revenue +14% to ₹3,399 cr, below estimates; EBITDA +4.4% to ₹412 cr; stock −4.7%",
-    "detail": "Slower growth than expected for a retailer valued for growth.",
-    "move": "Wed −4.70%",
-    "src": "Pocketful",
-    "url": "https://paper.pocketful.in/p/strong-q2-results-from-ltts-and-other",
-    "hold": "Avoid new buying",
-    "review": "29 Oct",
-    "moved": "",
-    "holdNote": "Results miss after a run-up; wait for a base."
-   },
-   {
-    "sym": "SRF",
-    "name": "SRF",
-    "type": "Results",
-    "dir": "neg",
-    "date": "21 Oct",
-    "head": "Lower EBITDA margin in Q2; stock −5.2% to 52-week low of ₹2,260",
-    "detail": "Chemicals index fell for a fourth day; margin pressure is the concern.",
-    "move": "Thu hit fresh 52-week low intraday, closed +1%",
-    "src": "Upstox",
-    "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-october-21-bajaj-finance-bse-shares-drop-3-infosys-hcl-tech-gain-3/article-202171/",
-    "hold": "Avoid new buying",
-    "review": "29 Oct",
-    "moved": "",
-    "holdNote": "Small bounce Thursday after the results fall; still near 52-week lows."
+    "holdNote": "CEO handover on 27 Oct and the leak probe keep it under a cloud until clarity."
    }
   ],
   "guide": {
-   "_all": "Each card is a company-specific event from the latest filings and news. Green = likely to support the share, red = likely to pressure it, amber = watch. Thursday-evening results (Adani Energy Solutions, Havells, Chennai Petroleum, Cyient, J&K Bank, HPCL, Nippon Life AMC) get their first reaction today. Eternal and KEI fell after good results, so they are now amber. No client-loss or order-cancellation news found since the last update. Review-by dates are counted in trading days (10 Nov is a market holiday).",
+   "_all": "Each card is a company-specific event from the latest filings and news. Green = likely to support the share, red = likely to pressure it, amber = watch. Friday-evening and Saturday results (Infosys, Kotak, IDFC First, AU SFB, Coforge, JSW Steel, Tata Motors, BPCL, Dr Reddy's) get their first reaction today. Shriram Finance and IndusInd fell on Friday despite better profits, so they are amber. No client-loss or order-cancellation news found since the last update. Review-by dates are counted in trading days (10 Nov is a market holiday).",
    "Can rise": "Positive triggers. A share does not always rise on good news, especially if it ran up before the announcement or the overall market is weak.",
    "Can fall": "Negative triggers. Results misses, big investor exits and weak business updates usually hit the share on the day and can weigh for weeks.",
    "Order won": "An order matters most when it is big compared with the company's yearly revenue (5–10% or more is significant for smaller companies). Repeat orders and orders in a new area are good signs of future growth. Check the execution period: a 24-month order adds revenue slowly. Being named the only qualified bidder (Goodluck) is a step before an order, not an order itself.",
@@ -1777,39 +1763,39 @@
   },
   "meetings": [
    {
-    "date": "Fri 23 Oct",
-    "names": "Results: Infosys, Dr Reddy's, IndusInd Bank, JSW Steel, Tata Motors, Shriram Finance, BPCL, Adani Power, CG Power, Torrent Pharma, Coforge, Shree Cement",
-    "note": "Tech Mahindra bonus/₹15 dividend, IRFC, HDB Financial, ICICI Lombard record dates; Jio IPO closes; Zetwerk and Bonfiglioli list"
-   },
-   {
-    "date": "Sat 24 Oct",
-    "names": "Results: Kotak Mahindra Bank, IDFC First Bank, AU Small Finance Bank, JK Cement",
-    "note": "Weekend results; reaction Mon 26 Oct"
-   },
-   {
     "date": "Mon 26 Oct",
-    "names": "Jio Platforms IPO allotment (tentative)",
-    "note": "Listing tentatively 28 Oct"
+    "names": "Results: Tata Consumer Products, ITC Hotels, Ather Energy, Dalmia Bharat, Bank of Maharashtra, APL Apollo Tubes",
+    "note": "Jio Platforms IPO allotment; first reaction to Infosys, Kotak, IDFC First, AU SFB"
    },
    {
     "date": "Tue 27 Oct",
     "names": "October F&O monthly expiry; HDFC Bank CEO change",
-    "note": "Expect volatile moves in heavyweights"
+    "note": "Jio IPO refunds; Israel election"
    },
    {
     "date": "Wed 28 Oct",
-    "names": "JSW Energy results; Cyient ₹12 and Nippon Life AMC ₹9.50 dividend record dates",
-    "note": "Jio Platforms listing (tentative); US Fed decision (night IST)"
+    "names": "Jio Platforms listing (tentative); JSW Energy results; Cyient ₹12 and Nippon Life AMC ₹9.50 record dates",
+    "note": "September IIP data; US Fed decision late night IST"
+   },
+   {
+    "date": "Thu 29 Oct",
+    "names": "Shriram Finance ₹6.50 dividend record date",
+    "note": "Reaction to Fed decision and to Microsoft/Alphabet results"
    },
    {
     "date": "Mon 2 Nov",
     "names": "Colgate-Palmolive ₹24 dividend record date",
-    "note": "October auto sales and GST data"
+    "note": "October auto sales"
+   },
+   {
+    "date": "Tue 3 Nov",
+    "names": "Infosys ₹26 interim dividend record date",
+    "note": "US midterm elections"
    }
   ]
  },
  "policy": {
-  "asof": "23 Oct 2026, 8:05 AM IST",
+  "asof": "26 Oct 2026, 7:50 AM IST",
   "items": [
    {
     "id": "mid",
@@ -1819,11 +1805,11 @@
     "area": "Geopolitics",
     "status": "Scheduled",
     "impact": "neu",
-    "latest": "22 Oct: The New York Times reported the US and Israel have drafted plans for renewed strikes on Iran after the 3 Nov midterms (energy, nuclear and missile sites), with a small chance of action this month. Trump said the US is 'not negotiating' and 'something… will happen, fairly soon'. The IRGC said several oil vessels were hit in the Gulf. Brent rose to $112.33.",
+    "latest": "25–26 Oct: Trump said there would be no strike on Iran on Sunday, then said 'there's a possibility I will' while also floating a deal; Iran says contacts continue through intermediaries. Houthis fired missiles at Riyadh and southern Saudi Arabia on 25 Oct. Brent settled at $116.72 Friday. Earlier (22 Oct) NYT reported US–Israel strike plans for after the 3 Nov midterms.",
     "effect": "After 3 Nov the Iran pledge expires, so oil and safe-haven risk could rise. Higher oil hurts India (rupee, inflation, oil marketing companies, paints, airlines) and helps gold and upstream oil.",
     "when": "3 Nov 2026 and after",
     "likely": "Event is certain; outcome uncertain",
-    "watch": "Post-3 Nov Iran decisions, Israel's 27 Oct election, Gulf shipping attacks, Brent above $110",
+    "watch": "Any US/Israeli action before or after 3 Nov, Hormuz shipping, Israel's 27 Oct election, Brent above $116",
     "affects": [
      "Oil & gas",
      "Paints",
@@ -1837,9 +1823,9 @@
      "INDIGO",
      "ONGC"
     ],
-    "src": "Times of Israel liveblog",
-    "url": "https://timesofisrael.com/liveblog-october-22-2026",
-    "date": "22 Oct"
+    "src": "Gulf News; TechFlow",
+    "url": "https://gulfnews.com/world/mena/middle-east-war-drone-missile-intercepted-over-riyadh-as-king-khalid-airport-resumes-operations-1.500722685",
+    "date": "26 Oct"
    },
    {
     "id": "trade",
@@ -1849,7 +1835,7 @@
     "area": "Trade",
     "status": "Under negotiation",
     "impact": "pos",
-    "latest": "21–22 Oct: Trump said the India–US deal is 'pretty close' as Rubio began a three-day India visit, saying it should come in 'weeks, not months'. Goyal says the pact is done but India wants a tariff edge over Vietnam, Bangladesh and Thailand. The US rate on most Indian goods is 18% under the February framework.",
+    "latest": "22 Oct: EAM Jaishankar said the India–US trade deal is in the 'last mile', after Trump called it 'pretty close' and Rubio said it should come in 'weeks, not months'. The US rate on most Indian goods is 18% under the February framework. No signing announced as of 26 Oct.",
     "effect": "A deal that lowers US tariffs would help exporters that depend on the US: textiles and apparel, gems and jewellery, auto parts, chemicals, seafood. Failure or new tariffs would hit the same group.",
     "when": "Announcement 'within weeks' per Rubio; leaders' signing could follow",
     "likely": "Medium to high: both sides say it is close, but nothing signed",
@@ -1861,8 +1847,8 @@
      "Chemicals"
     ],
     "symbols": [],
-    "src": "Organiser; Upstox",
-    "url": "https://organiser.org/2026/10/21/418841/world/india-us-trade-deal-is-pretty-close-says-trump-sec-rubio-signals-breakthrough-soon-as-three-day-india-visit-begins/",
+    "src": "IANS; Organiser",
+    "url": "https://ianslive.in/india-us-trade-deal-in-last-mile-says-jaishankar--20261022194745",
     "date": "22 Oct"
    },
    {
@@ -1873,11 +1859,11 @@
     "area": "Interest rates",
     "status": "Scheduled",
     "impact": "neu",
-    "latest": "22 Oct: Markets widely expect a hold on 28 Oct but price a possible December hike. US 10-year yield fell to about 4.95% on Thursday as tech stocks slid.",
+    "latest": "26 Oct: CME FedWatch prices about 90.6% odds of a hold this week and about 79.4% odds of a hike in December, as $115 oil revives inflation fears. The US 10-year yield is about 5.0%. The BoJ and ECB also meet this week and are expected to hold.",
     "effect": "A hold is mildly positive for Indian stocks, the rupee and gold. A surprise hike would lift the dollar and US yields, push FIIs to sell more, and hurt IT and gold.",
-    "when": "28 Oct 2026; then December",
-    "likely": "Hold likely (~88% priced)",
-    "watch": "No major US data this week; the 28 Oct statement and any December hike hints",
+    "when": "28 Oct (statement ~11:30 PM IST); then December",
+    "likely": "Hold very likely (~90% priced)",
+    "watch": "Statement tone on oil-led inflation; December hike hints; US core PCE later this week",
     "affects": [
      "Whole market",
      "IT",
@@ -1886,9 +1872,9 @@
     "symbols": [
      "GOLDBEES"
     ],
-    "src": "Goodreturns; Yahoo Finance",
-    "url": "https://www.goodreturns.in/news/us-stock-futures-crash-today-nasdaq-futures-fall-dow-jones-s-p-500-trump-xi-putin-us-stock-market-1542973.html",
-    "date": "22 Oct"
+    "src": "FXStreet (CME FedWatch); Rallies (Reuters)",
+    "url": "https://fxstreet.com/news/gold-declines-below-4-000-as-higher-oil-prices-reinforce-fed-rate-hike-expectations-202610252324",
+    "date": "26 Oct"
    },
    {
     "id": "rbi",
@@ -1981,7 +1967,7 @@
     "effect": "Higher output would ease crude and help India's rupee, inflation and oil marketing companies. A cut would do the opposite.",
     "when": "Early November 2026",
     "likely": "Event certain",
-    "watch": "Brent ~$108 (19 Oct) after the US Russia-sanctions waiver",
+    "watch": "Brent at $116.72 (23 Oct settle), a six-month high; any extra supply would ease it",
     "affects": [
      "Oil & gas",
      "Aviation",
