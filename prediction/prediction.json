@@ -1,7 +1,7 @@
 {
- "asof": "2026-11-02T05:30:00+05:30",
- "asofText": "2 Nov 2026, 5:30 AM IST",
- "refDate": "2026-10-30",
+ "asof": "2026-11-03T05:21:54+05:30",
+ "asofText": "3 Nov 2026, 5:21 AM IST",
+ "refDate": "2026-11-02",
  "model": {
   "version": "v0.1-qualitative",
   "calibrated": false,
@@ -16,10 +16,10 @@
  },
  "overview": {
   "market": {
-   "dir": "neu",
-   "label": "Neutral",
-   "headline": "Range-bound: FII buying returns, but oil and weak breadth cap it",
-   "text": "Nifty closed at 23,053.10 on 30 Oct (+0.51%), Sensex 74,459.53; Bank Nifty fell 0.41% to 54,686.95. FIIs bought ₹3,598.5 cr (DIIs sold ₹817.5 cr), but October still saw FII net selling of ₹45,162 cr. Brent near $113–118, India VIX about 15.3 and weak mid/small caps keep the view neutral. Reliance Q2 (profit +41%) came after the close; SBI reports on 3 Nov."
+   "dir": "pos",
+   "label": "Mildly positive",
+   "headline": "One-month high on Reliance's Q2 jump and FII buying; US midterms next",
+   "text": "Nifty closed at 23,440.80 on 2 Nov (+1.68%), Sensex 75,692.78 (+1.66%), Bank Nifty 55,002.20 (+0.58%). Reliance (+11.6%) added about 198 Nifty points; energy and metals led, IT fell 0.5%. FIIs bought ₹3,115 cr and DIIs sold ₹392 cr (provisional). Brent eased on Iran–Qatar diplomacy. US midterm results (3 Nov) and SBI's Q2 are today's swing factors."
   },
   "analyst": {
    "dir": "pos",
@@ -29,7 +29,7 @@
   "institutional": {
    "dir": "neu",
    "label": "Mixed",
-   "text": "Stock-level evidence is still September-quarter shareholding (delayed filings). Aggregate FII cash flow turned positive in the last week of October. No new bulk/block deals in the covered stocks were found for 26–30 Oct."
+   "text": "Stock-level evidence is still September-quarter shareholding (delayed filings). Aggregate FII cash flow was positive on 30 Oct (₹3,599 cr) and 2 Nov (₹3,115 cr, provisional). No new bulk/block deals in covered stocks were checked this run."
   },
   "retail": {
    "dir": "neu",
@@ -39,7 +39,7 @@
   "reliability": {
    "dir": "neg",
    "label": "Weak to moderate",
-   "text": "30 Oct closes were found for 14 of 20 stocks and both indices (mostly one aggregator; Bank Nifty from one publisher). Axis Bank, Adani Enterprises, Adani Ports, Bandhan Bank, Info Edge and Tata Consumer were not logged because their closes could not be confirmed. Five core stocks (Bharti, SBI, ITC, L&T, Kotak) still have little scored evidence."
+   "text": "2 Nov closes were confirmed for both indices and 5 stocks (Reliance, ICICI Bank, Infosys, Kotak Bank, Axis Bank). The other 15 stocks still show 30 Oct prices; their 30 Oct 1-day calls stay pending and they were not logged today. Stock-level institutional evidence is still September-quarter shareholding."
   }
  },
  "indices": [
@@ -47,15 +47,15 @@
    "sym": "NIFTY",
    "name": "Nifty 50",
    "sector": "Index",
-   "price": "23,053.10 (+0.51%)",
-   "priceDate": "2026-10-30",
+   "price": "23,440.80 (+1.68%)",
+   "priceDate": "2026-11-02",
    "pred": {
     "h1": {
      "dir": "neu",
      "conf": "Low"
     },
     "h5": {
-     "dir": "neu",
+     "dir": "pos",
      "conf": "Low"
     },
     "h20": {
@@ -67,33 +67,33 @@
      "conf": "Low"
     }
    },
-   "evidence": "Weak",
-   "summary": "Available evidence suggests a range-bound market with a mild positive tilt from flows: FIIs bought ₹3,599 cr on 30 Oct and about ₹7,767 cr over the week, and Nifty reclaimed 23,000, but Brent around $113–118, weak broader markets (1,311 advances vs 2,862 declines) and October FII selling of ₹45,162 cr reduce confidence.",
+   "evidence": "Moderate",
+   "summary": "Available evidence suggests a firmer short-term tone: Nifty rose 1.68% to a one-month high of 23,440.80 on 2 Nov, led by Reliance, with FIIs buying ₹3,115 cr for a second day and breadth about 2:1, but the US midterm results on 3 Nov, Gulf oil risk and October's heavy FII selling reduce confidence.",
    "bull": [
-    "FII net buyers ₹3,598.5 cr on 30 Oct; about +₹7,767 cr for the week",
-    "Nifty up about 2% for the week, back above 23,000",
-    "IT rally (Nifty IT about +2.3% on 30 Oct)"
+    "FII net buy ₹3,115 cr on 2 Nov after ₹3,599 cr on 30 Oct (provisional)",
+    "Gap-up breakout above 23,200 held all day; analysts cite 23,500–23,600 as next resistance",
+    "Brent fell about 4–5% on Iran–Qatar diplomacy; NSE advance-decline about 2:1"
    ],
    "bear": [
-    "FII net selling ₹45,162 cr in October overall",
-    "Midcap 100 −0.93%, Smallcap 100 about −1.9% on 30 Oct; breadth weak",
-    "Brent crude around $113–118 on Gulf tensions"
+    "Rally was narrow at the top: Reliance alone added about 198 Nifty points",
+    "October FII net selling of ₹45,162 cr",
+    "IT (−0.5%) and private banks lagged"
    ],
    "risks": [
-    "Oil spike on US–Iran / Hormuz tensions",
-    "Global tech sell-off (Nasdaq futures fell sharply on 30 Oct)"
+    "US midterm election results (3 Nov) and tariff/spending uncertainty",
+    "Renewed US–Iran / Hormuz tension lifting crude again"
    ],
    "invalid": [
-    "Break below 22,800 support on renewed FII selling",
-    "Breakout above 23,300 with broad participation"
+    "Close back below 23,200 (gap support) on FII selling",
+    "Sustained move above 23,600 would argue for a stronger bullish view"
    ]
   },
   {
    "sym": "BANKNIFTY",
    "name": "Bank Nifty",
    "sector": "Index",
-   "price": "54,686.95 (−0.41%)",
-   "priceDate": "2026-10-30",
+   "price": "55,002.20 (+0.58%)",
+   "priceDate": "2026-11-02",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -113,23 +113,22 @@
     }
    },
    "evidence": "Weak",
-   "summary": "Available evidence suggests a neutral view: Bank Nifty slipped 0.41% on 30 Oct while Nifty rose, though it gained 0.74% for the week; SBI's Q2 results on 3 Nov are the next big trigger. The close comes from one publisher only, which reduces confidence.",
+   "summary": "Available evidence suggests a neutral bank index: Bank Nifty gained 0.58% to 55,002.20 but lagged Nifty as ICICI Bank, Kotak and Axis fell, and analysts flag 55,100 as the level to clear; SBI's Q2 results on 3 Nov are the near-term swing factor, which reduces confidence.",
    "bull": [
-    "Weekly gain of 0.74%",
-    "Strong Buy coverage on large private banks",
-    "FII buying returned in the last week of October"
+    "Closed above 55,000; PSU Bank index +1.38% on 2 Nov",
+    "FII cash buying for a second session"
    ],
    "bear": [
-    "Underperformed Nifty on 30 Oct",
-    "Support at 54,000; structure weakens below 53,500 (Master Capital)"
+    "ICICI Bank −0.76%, Kotak −0.70%, Axis −0.66% on 2 Nov",
+    "Underperformed Nifty on a strong day"
    ],
    "risks": [
     "SBI Q2 results (3 Nov)",
-    "Oil and rupee pressure (rupee near 95/$)"
+    "Global risk-off around the US midterms"
    ],
    "invalid": [
-    "Sustained move above 55,000–55,700",
-    "Break below 53,500"
+    "Sustained move above 55,100 toward 56,000",
+    "Break below 54,500 support"
    ]
   }
  ],
@@ -138,9 +137,9 @@
    "sym": "RELIANCE",
    "name": "Reliance Industries Ltd",
    "sector": "Energy / Conglomerate",
-   "price": 1164.9,
-   "priceSrc": "https://www.oquilia.com/stocks/reliance-industries-share-price",
-   "priceDate": "2026-10-30",
+   "price": 1300.0,
+   "priceSrc": "https://www.5paisa.com/blog/post-market-update-nifty-1-month-high-reliance-jumps-nse-5-trillion-november-2-2026",
+   "priceDate": "2026-11-02",
    "analyst": {
     "items": [
      {
@@ -305,6 +304,13 @@
       "date": "2026-10-27",
       "src": "LatestLY",
       "url": "https://www.latestly.com/business/reliance-industries-stock-update-share-price-dips-amid-cautious-trade-7657905.html"
+     },
+     {
+      "kind": "Fact",
+      "text": "Shares jumped 11.6% to ₹1,300 on 2 Nov, reported as the biggest one-day gain in six years, after Q2 results; wide media coverage of the rally",
+      "date": "2026-11-02",
+      "src": "Liquide; CNBC-TV18 via TradingView",
+      "url": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-400-sensex-surges-1-233-points-as-reliance-energy-and-metal-stocks-rally/"
      }
     ],
     "asof": "2026-10-27",
@@ -312,13 +318,14 @@
    },
    "early": 1,
    "earlyWhy": "Q2 FY27 (30 Oct, after market): net profit ₹25,548 cr, +41% YoY; O2C EBITDA +68%; retail profit fell",
-   "fresh": "2026-11-01",
-   "divNote": "Analyst targets from July point well above the current price, yet the stock kept falling to 52-week lows in October.",
+   "fresh": "2026-11-02",
+   "divNote": "Stock re-rated 11.6% in one day; most published targets are from July and have not yet been refreshed after Q2.",
    "evidence": "Moderate",
-   "summary": "Available evidence suggests a neutral-to-positive setup: Q2 FY27 profit rose 41% with strong O2C earnings, and Nuvama keeps Buy, but a cut in Nuvama's target, weaker retail profit and no fresh institutional disclosure reduce confidence. The 30 Oct close was before the results.",
+   "summary": "Available evidence suggests a neutral-to-positive setup: Q2 FY27 profit rose about 41% with strong refining and petrochemical margins, and the stock jumped 11.6% to ₹1,300 on 2 Nov, but most broker targets predate the results, Nuvama cut its target, and after such a large one-day move a pause is common, which reduces confidence.",
    "bull": [
-    "Jio Platforms listed at a 21% premium and closed 4.5% above its listing price, putting a visible value on the telecom arm",
-    "Post-Q1 broker targets of ₹1,510-1,870 are well above recent prices of about ₹1,196",
+    "Q2 profit up about 41% YoY; O2C EBITDA up sharply",
+    "Broke above the ₹1,234–1,255 resistance zone on heavy volume (technical commentary)",
+    "Jio Platforms listing puts a visible value on the telecom arm",
     "Promoters raised their stake in the June quarter"
    ],
    "bear": [
@@ -335,7 +342,7 @@
     "Q2 results that clearly miss on O2C and retail, followed by broker target cuts",
     "Jio shares falling below the issue price"
    ],
-   "basis": "analyst 1, inst 0, retail 0, early 1; composite +0.41",
+   "basis": "analyst 1, inst 0, retail 0, early 1; composite +0.41; stock +11.6% on 2 Nov after Q2 profit +41%",
    "attention": {
     "kind": "Coverage jump",
     "head": "Jio Platforms listing lifts focus on Reliance ahead of Q2",
@@ -559,9 +566,9 @@
    "sym": "ICICIBANK",
    "name": "ICICI Bank Ltd",
    "sector": "Banking",
-   "price": 1398.0,
-   "priceSrc": "https://www.oquilia.com/stocks/icici-bank-share-price",
-   "priceDate": "2026-10-30",
+   "price": 1387.4,
+   "priceSrc": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-400-sensex-surges-1-233-points-as-reliance-energy-and-metal-stocks-rally/",
+   "priceDate": "2026-11-02",
    "analyst": {
     "items": [
      {
@@ -687,7 +694,7 @@
     "Asset-quality slippage or credit-cost spike next quarter",
     "Broker downgrades"
    ],
-   "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06",
+   "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06; fell 0.76% on 2 Nov",
    "attention": null,
    "pred": {
     "h1": {
@@ -712,9 +719,9 @@
    "sym": "INFY",
    "name": "Infosys Ltd",
    "sector": "IT Services",
-   "price": 1185.0,
-   "priceSrc": "https://www.oquilia.com/stocks/infosys-share-price",
-   "priceDate": "2026-10-30",
+   "price": 1161.0,
+   "priceSrc": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-400-sensex-surges-1-233-points-as-reliance-energy-and-metal-stocks-rally/",
+   "priceDate": "2026-11-02",
    "analyst": {
     "items": [
      {
@@ -900,7 +907,7 @@
     "Large deal wins that lift guidance next quarter",
     "Margins expanding despite wage hikes"
    ],
-   "basis": "analyst 0, inst 0, retail 0, early -1; composite -0.12",
+   "basis": "analyst 0, inst 0, retail 0, early -1; composite -0.12; fell 2.0% on 2 Nov",
    "attention": {
     "kind": "Analyst change",
     "head": "Wave of target revisions after Infosys guidance cut",
@@ -1341,8 +1348,8 @@
    "sym": "KOTAKBANK",
    "name": "Kotak Mahindra Bank",
    "sector": "Banks",
-   "price": 461.6,
-   "priceDate": "2026-10-30",
+   "price": 458.35,
+   "priceDate": "2026-11-02",
    "analyst": {
     "items": [],
     "consensus": "No data",
@@ -1370,7 +1377,7 @@
    "invalid": [],
    "early": 0,
    "earlyWhy": "",
-   "priceSrc": "https://www.oquilia.com/stocks/kotak-mahindra-bank-share-price",
+   "priceSrc": "https://hdfcsky.com/news/daily-market-quote-02-november-2026",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -1389,15 +1396,15 @@
      "conf": "Low"
     }
    },
-   "basis": "analyst None, inst None, retail None, early 0; composite +0.00"
+   "basis": "No scored evidence found; neutral by default; fell 0.7% on 2 Nov"
   },
   {
    "sym": "AXISBANK",
    "name": "Axis Bank Ltd",
    "sector": "Banking - Private",
-   "price": null,
-   "priceSrc": "",
-   "priceDate": null,
+   "price": 1209.0,
+   "priceSrc": "https://hdfcsky.com/news/daily-market-quote-02-november-2026",
+   "priceDate": "2026-11-02",
    "analyst": {
     "items": [
      {
@@ -1502,7 +1509,7 @@
     "Rise in slippages reversing the Q2 improvement",
     "Brokerages cutting ratings or targets"
    ],
-   "basis": "analyst 2, inst None, retail None, early 0; composite +1.43",
+   "basis": "analyst 2 only (no inst/retail evidence); composite +1.43 on one component; fell 0.66% on 2 Nov",
    "attention": null,
    "pred": {
     "h1": {
@@ -2486,6 +2493,11 @@
     "d": "2026-10-30",
     "i": 0,
     "r": 0
+   },
+   {
+    "d": "2026-11-02",
+    "i": 0,
+    "r": 0
    }
   ],
   "ICICIBANK": [
@@ -2496,6 +2508,11 @@
    },
    {
     "d": "2026-10-30",
+    "i": 1,
+    "r": 0
+   },
+   {
+    "d": "2026-11-02",
     "i": 1,
     "r": 0
    }
@@ -2510,6 +2527,11 @@
     "d": "2026-10-30",
     "i": 0,
     "r": 0
+   },
+   {
+    "d": "2026-11-02",
+    "i": 0,
+    "r": 0
    }
   ],
   "TCS": [
@@ -2522,6 +2544,11 @@
     "d": "2026-10-30",
     "i": -1,
     "r": 0
+   },
+   {
+    "d": "2026-11-02",
+    "i": -1,
+    "r": 0
    }
   ]
  },
@@ -2529,11 +2556,11 @@
   {
    "sym": "RELIANCE",
    "kind": "Coverage jump",
-   "head": "Jio Platforms listing lifts focus on Reliance ahead of Q2",
-   "why": "Jio debuted at a 21% premium on 28 Oct, two days before RIL's Q2 results",
-   "date": "2026-10-28",
-   "src": "Kotak Neo",
-   "url": "https://www.kotakneo.com/news/ipos/jio-platforms-lists-on-28-october/"
+   "head": "Biggest one-day gain in six years after Q2",
+   "why": "Stock rose 11.6% to ₹1,300 on 2 Nov after Q2 profit rose about 41%; covered by CNBC-TV18, 5paisa, Liquide and Kotak Neo",
+   "date": "2026-11-02",
+   "src": "CNBC-TV18 via TradingView; 5paisa",
+   "url": "https://www.tradingview.com/news/cnbctv:2b7e2da25094b:0/"
   },
   {
    "sym": "INFY",
@@ -2641,6 +2668,46 @@
   }
  ],
  "sources": [
+  {
+   "name": "Liquide: Share market today, 2 Nov 2026",
+   "url": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-400-sensex-surges-1-233-points-as-reliance-energy-and-metal-stocks-rally/"
+  },
+  {
+   "name": "5paisa: Post-market update, 2 Nov 2026",
+   "url": "https://www.5paisa.com/blog/post-market-update-nifty-1-month-high-reliance-jumps-nse-5-trillion-november-2-2026"
+  },
+  {
+   "name": "CNBC-TV18 via TradingView, 2 Nov 2026",
+   "url": "https://www.tradingview.com/news/cnbctv:2b7e2da25094b:0/"
+  },
+  {
+   "name": "Kotak Neo: Closing Bell 2 Nov 2026",
+   "url": "https://www.kotakneo.com/news/market-news/markets-extend-rally-and-end-higher/"
+  },
+  {
+   "name": "HDFC Sky: Daily market quote 2 Nov 2026",
+   "url": "https://hdfcsky.com/news/daily-market-quote-02-november-2026"
+  },
+  {
+   "name": "HDFC Sky: Most active stocks 2 Nov 2026, 3:30 PM",
+   "url": "https://hdfcsky.com/news/most-active-stocks-today-2-november-2026-at-3-30-pm"
+  },
+  {
+   "name": "Tapetide: FII/DII data",
+   "url": "https://tapetide.com/fii-dii-data"
+  },
+  {
+   "name": "Anand Rathi: Market prediction for 3 Nov",
+   "url": "https://anandrathi.com/blog/share-market-prediction-tomorrow"
+  },
+  {
+   "name": "Moneycontrol via TradingView: Reliance breaks resistance",
+   "url": "https://www.tradingview.com/news/moneycontrol:a0b7a7f79094b:0-reliance-stock-jumps-past-key-resistance-level-analysts-see-33-upside/"
+  },
+  {
+   "name": "Free Press Journal: Auto stocks after October sales, 2 Nov",
+   "url": "https://www.freepressjournal.in/business/auto-stocks-rally-after-strong-october-sales-data-maruti-leads-with-over-3-gain"
+  },
   {
    "name": "Business Standard: market live 30 Oct 2026",
    "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html"
