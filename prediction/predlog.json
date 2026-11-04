@@ -1509,7 +1509,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "Index: FII buying and 4-day rally vs stretched run and US midterm risk",
-   "outcome": null
+   "outcome": {
+    "price": 23960.6,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-950-sensex-gains-383-points-as-metal-realty-and-energy-stocks-lead-rally/"
+   }
   },
   {
    "id": "NIFTY-2026-11-03-h5",
@@ -1539,7 +1544,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "Index: FII buying and 4-day rally vs stretched run and US midterm risk",
-   "outcome": null
+   "outcome": {
+    "price": 55913.6,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-950-sensex-gains-383-points-as-metal-realty-and-energy-stocks-lead-rally/"
+   }
   },
   {
    "id": "BANKNIFTY-2026-11-03-h5",
@@ -1569,7 +1579,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail 0, early 1; composite +0.41",
-   "outcome": null
+   "outcome": {
+    "price": 1311.0,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://upstox.com/stocks/reliance-industries-ltd-share-price/INE002A01018/"
+   }
   },
   {
    "id": "RELIANCE-2026-11-03-h5",
@@ -1599,7 +1614,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst -1, retail None, early 0; composite +0.31",
-   "outcome": null
+   "outcome": {
+    "price": 736.7,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://upstox.com/stocks/hdfc-bank-ltd-share-price/INE040A01034/"
+   }
   },
   {
    "id": "HDFCBANK-2026-11-03-h5",
@@ -1629,7 +1649,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06",
-   "outcome": null
+   "outcome": {
+    "price": 1424.1,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://upstox.com/stocks/icici-bank-ltd/INE090A01021"
+   }
   },
   {
    "id": "ICICIBANK-2026-11-03-h5",
@@ -1659,7 +1684,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst 0, retail 0, early -1; composite -0.12",
-   "outcome": null
+   "outcome": {
+    "price": 1128.2,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump"
+   }
   },
   {
    "id": "INFY-2026-11-03-h5",
@@ -1689,7 +1719,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst -1, retail 0, early 0; composite -0.35",
-   "outcome": null
+   "outcome": {
+    "price": 2436.0,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-4-2026-bharat-electronics-and-adani-enterprises-gain-while-tcs-drops-over-2"
+   }
   },
   {
    "id": "TCS-2026-11-03-h5",
@@ -1719,7 +1754,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
-   "outcome": null
+   "outcome": {
+    "price": 2067.6,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://upstox.com/stocks/bharti-airtel-ltd-share-price/INE397D01024/"
+   }
   },
   {
    "id": "BHARTIARTL-2026-11-03-h5",
@@ -1749,7 +1789,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
-   "outcome": null
+   "outcome": {
+    "price": 979.0,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://www.indmoney.com/stocks/state-bank-of-india-share-price"
+   }
   },
   {
    "id": "SBIN-2026-11-03-h5",
@@ -1779,7 +1824,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail 0, early 0; composite +0.29",
-   "outcome": null
+   "outcome": {
+    "price": 280.0,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://www.5paisa.com/blog/stocks-seeing-unusual-price-and-volume-activity-4-nov-2026"
+   }
   },
   {
    "id": "ITC-2026-11-03-h5",
@@ -1809,7 +1859,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
-   "outcome": null
+   "outcome": {
+    "price": 3944.4,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://www.bajajbroking.in/stock/larsen-toubro-ltd-share-price"
+   }
   },
   {
    "id": "LT-2026-11-03-h5",
@@ -1839,7 +1894,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
-   "outcome": null
+   "outcome": {
+    "price": 459.4,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump"
+   }
   },
   {
    "id": "KOTAKBANK-2026-11-03-h5",
@@ -1869,7 +1929,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst None, retail None, early 0; composite +1.43",
-   "outcome": null
+   "outcome": {
+    "price": 1232.0,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://www.kotakneo.com/stocks/axis-bank-share-price/"
+   }
   },
   {
    "id": "AXISBANK-2026-11-03-h5",
@@ -1899,7 +1964,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst -1, retail 1, early 0; composite +0.18",
-   "outcome": null
+   "outcome": {
+    "price": 1977.1,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://www.5paisa.com/stocks/hindunilvr-share-price"
+   }
   },
   {
    "id": "HINDUNILVR-2026-11-03-h5",
@@ -1929,7 +1999,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst None, inst None, retail -1, early -1; composite -1.00",
-   "outcome": null
+   "outcome": {
+    "price": 2709.2,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-4-2026-bharat-electronics-and-adani-enterprises-gain-while-tcs-drops-over-2"
+   }
   },
   {
    "id": "ADANIENT-2026-11-03-h5",
@@ -1959,7 +2034,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst None, retail None, early 1; composite +1.71",
-   "outcome": null
+   "outcome": {
+    "price": 1910.0,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://indiainfoline.com/company/adani-ports-share-price/21281"
+   }
   },
   {
    "id": "ADANIPORTS-2026-11-03-h5",
@@ -1989,7 +2069,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
-   "outcome": null
+   "outcome": {
+    "price": 157.86,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://www.indmoney.com/stocks/bandhan-bank-ltd-share-price"
+   }
   },
   {
    "id": "BANDHANBNK-2026-11-03-h5",
@@ -2019,7 +2104,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early -1; composite +0.43",
-   "outcome": null
+   "outcome": {
+    "price": 5399.5,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://trendlyne.com/equity/540/HEROMOTOCO/hero-motocorp-ltd/"
+   }
   },
   {
    "id": "HEROMOTOCO-2026-11-03-h5",
@@ -2049,7 +2139,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst None, retail -1, early -1; composite -0.55",
-   "outcome": null
+   "outcome": {
+    "price": 11995.0,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://www.indmoney.com/stocks/maruti-suzuki-india-ltd-share-price"
+   }
   },
   {
    "id": "MARUTI-2026-11-03-h5",
@@ -2079,7 +2174,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail 0, early 0; composite +0.45",
-   "outcome": null
+   "outcome": {
+    "price": 1170.5,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://trendlyne.com/equity/913/NAUKRI/info-edge-india-ltd/"
+   }
   },
   {
    "id": "NAUKRI-2026-11-03-h5",
@@ -2109,7 +2209,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst 0, retail 1, early 1; composite +0.35",
-   "outcome": null
+   "outcome": {
+    "price": 1068.0,
+    "date": "2026-11-04",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump"
+   }
   },
   {
    "id": "TATACONSUM-2026-11-03-h5",
@@ -2154,6 +2259,636 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 1; composite +1.00",
+   "outcome": null
+  },
+  {
+   "id": "NIFTY-2026-11-04-h1",
+   "sym": "NIFTY",
+   "sector": "Index",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 23960.6,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Index: Available evidence suggests a firm short-term tone: Nifty rose for a fifth session to 23,9",
+   "outcome": null
+  },
+  {
+   "id": "NIFTY-2026-11-04-h5",
+   "sym": "NIFTY",
+   "sector": "Index",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 23960.6,
+   "due": "2026-11-12",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Index: Available evidence suggests a firm short-term tone: Nifty rose for a fifth session to 23,9",
+   "outcome": null
+  },
+  {
+   "id": "BANKNIFTY-2026-11-04-h1",
+   "sym": "BANKNIFTY",
+   "sector": "Index",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 55913.6,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Index: Available evidence suggests a steady tone: Bank Nifty rose 0.67% to 55,913.60 with HDFC Ba",
+   "outcome": null
+  },
+  {
+   "id": "BANKNIFTY-2026-11-04-h5",
+   "sym": "BANKNIFTY",
+   "sector": "Index",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 55913.6,
+   "due": "2026-11-12",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Index: Available evidence suggests a steady tone: Bank Nifty rose 0.67% to 55,913.60 with HDFC Ba",
+   "outcome": null
+  },
+  {
+   "id": "RELIANCE-2026-11-04-h1",
+   "sym": "RELIANCE",
+   "sector": "Energy / Conglomerate",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1311.0,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail 0, early 1; composite +0.41",
+   "outcome": null
+  },
+  {
+   "id": "RELIANCE-2026-11-04-h5",
+   "sym": "RELIANCE",
+   "sector": "Energy / Conglomerate",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1311.0,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail 0, early 1; composite +0.41",
+   "outcome": null
+  },
+  {
+   "id": "HDFCBANK-2026-11-04-h1",
+   "sym": "HDFCBANK",
+   "sector": "Banking",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 736.7,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst -1, retail None, early 0; composite +0.31",
+   "outcome": null
+  },
+  {
+   "id": "HDFCBANK-2026-11-04-h5",
+   "sym": "HDFCBANK",
+   "sector": "Banking",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 736.7,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst -1, retail None, early 0; composite +0.31",
+   "outcome": null
+  },
+  {
+   "id": "ICICIBANK-2026-11-04-h1",
+   "sym": "ICICIBANK",
+   "sector": "Banking",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1424.1,
+   "due": "2026-11-05",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06",
+   "outcome": null
+  },
+  {
+   "id": "ICICIBANK-2026-11-04-h5",
+   "sym": "ICICIBANK",
+   "sector": "Banking",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1424.1,
+   "due": "2026-11-12",
+   "dir": "pos",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06",
+   "outcome": null
+  },
+  {
+   "id": "INFY-2026-11-04-h1",
+   "sym": "INFY",
+   "sector": "IT Services",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1128.2,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst 0, retail 0, early -1; composite -0.12",
+   "outcome": null
+  },
+  {
+   "id": "INFY-2026-11-04-h5",
+   "sym": "INFY",
+   "sector": "IT Services",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1128.2,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst 0, retail 0, early -1; composite -0.12",
+   "outcome": null
+  },
+  {
+   "id": "TCS-2026-11-04-h1",
+   "sym": "TCS",
+   "sector": "IT Services",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 2436.0,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst -1, retail 0, early 0; composite -0.35",
+   "outcome": null
+  },
+  {
+   "id": "TCS-2026-11-04-h5",
+   "sym": "TCS",
+   "sector": "IT Services",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 2436.0,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst -1, retail 0, early 0; composite -0.35",
+   "outcome": null
+  },
+  {
+   "id": "BHARTIARTL-2026-11-04-h1",
+   "sym": "BHARTIARTL",
+   "sector": "Telecom",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 2067.6,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
+   "outcome": null
+  },
+  {
+   "id": "BHARTIARTL-2026-11-04-h5",
+   "sym": "BHARTIARTL",
+   "sector": "Telecom",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 2067.6,
+   "due": "2026-11-12",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
+   "outcome": null
+  },
+  {
+   "id": "SBIN-2026-11-04-h1",
+   "sym": "SBIN",
+   "sector": "Banking - PSU",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 979.0,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Post-Q2 broker notes mostly Buy (4 Nov), two target cuts; no stake data",
+   "outcome": null
+  },
+  {
+   "id": "SBIN-2026-11-04-h5",
+   "sym": "SBIN",
+   "sector": "Banking - PSU",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 979.0,
+   "due": "2026-11-12",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Post-Q2 broker notes mostly Buy (4 Nov), two target cuts; no stake data",
+   "outcome": null
+  },
+  {
+   "id": "ITC-2026-11-04-h1",
+   "sym": "ITC",
+   "sector": "FMCG / Tobacco",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 280.0,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Q2 mixed (profit −20%, FMCG strong); targets mostly cut earlier",
+   "outcome": null
+  },
+  {
+   "id": "ITC-2026-11-04-h5",
+   "sym": "ITC",
+   "sector": "FMCG / Tobacco",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 280.0,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "Q2 mixed (profit −20%, FMCG strong); targets mostly cut earlier",
+   "outcome": null
+  },
+  {
+   "id": "LT-2026-11-04-h1",
+   "sym": "LT",
+   "sector": "Infrastructure / Capital goods",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 3944.4,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
+   "outcome": null
+  },
+  {
+   "id": "LT-2026-11-04-h5",
+   "sym": "LT",
+   "sector": "Infrastructure / Capital goods",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 3944.4,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
+   "outcome": null
+  },
+  {
+   "id": "KOTAKBANK-2026-11-04-h1",
+   "sym": "KOTAKBANK",
+   "sector": "Banking - Private",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 459.4,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
+   "outcome": null
+  },
+  {
+   "id": "KOTAKBANK-2026-11-04-h5",
+   "sym": "KOTAKBANK",
+   "sector": "Banking - Private",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 459.4,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
+   "outcome": null
+  },
+  {
+   "id": "AXISBANK-2026-11-04-h1",
+   "sym": "AXISBANK",
+   "sector": "Banking - Private",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1232.0,
+   "due": "2026-11-05",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst None, retail None, early 0; composite +1.43",
+   "outcome": null
+  },
+  {
+   "id": "AXISBANK-2026-11-04-h5",
+   "sym": "AXISBANK",
+   "sector": "Banking - Private",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1232.0,
+   "due": "2026-11-12",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst None, retail None, early 0; composite +1.43",
+   "outcome": null
+  },
+  {
+   "id": "HINDUNILVR-2026-11-04-h1",
+   "sym": "HINDUNILVR",
+   "sector": "FMCG",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1977.1,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst -1, retail 1, early 0; composite +0.18",
+   "outcome": null
+  },
+  {
+   "id": "HINDUNILVR-2026-11-04-h5",
+   "sym": "HINDUNILVR",
+   "sector": "FMCG",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1977.1,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst -1, retail 1, early 0; composite +0.18",
+   "outcome": null
+  },
+  {
+   "id": "ADANIENT-2026-11-04-h1",
+   "sym": "ADANIENT",
+   "sector": "Diversified - Infrastructure incubator",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 2709.2,
+   "due": "2026-11-05",
+   "dir": "neg",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Retail mood leaning negative vs strong Q2 revenue and +4.5% move; conflicting",
+   "outcome": null
+  },
+  {
+   "id": "ADANIENT-2026-11-04-h5",
+   "sym": "ADANIENT",
+   "sector": "Diversified - Infrastructure incubator",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 2709.2,
+   "due": "2026-11-12",
+   "dir": "neg",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Retail mood leaning negative vs strong Q2 revenue and +4.5% move; conflicting",
+   "outcome": null
+  },
+  {
+   "id": "ADANIPORTS-2026-11-04-h1",
+   "sym": "ADANIPORTS",
+   "sector": "Infrastructure - Ports & Logistics",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1910.0,
+   "due": "2026-11-05",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst None, retail None, early 1; composite +1.71",
+   "outcome": null
+  },
+  {
+   "id": "ADANIPORTS-2026-11-04-h5",
+   "sym": "ADANIPORTS",
+   "sector": "Infrastructure - Ports & Logistics",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1910.0,
+   "due": "2026-11-12",
+   "dir": "pos",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst None, retail None, early 1; composite +1.71",
+   "outcome": null
+  },
+  {
+   "id": "BANDHANBNK-2026-11-04-h1",
+   "sym": "BANDHANBNK",
+   "sector": "Banking - Private",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 157.86,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
+   "outcome": null
+  },
+  {
+   "id": "BANDHANBNK-2026-11-04-h5",
+   "sym": "BANDHANBNK",
+   "sector": "Banking - Private",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 157.86,
+   "due": "2026-11-12",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
+   "outcome": null
+  },
+  {
+   "id": "HEROMOTOCO-2026-11-04-h1",
+   "sym": "HEROMOTOCO",
+   "sector": "Automobiles - Two-wheelers",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 5399.5,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail None, early -1; composite +0.43",
+   "outcome": null
+  },
+  {
+   "id": "HEROMOTOCO-2026-11-04-h5",
+   "sym": "HEROMOTOCO",
+   "sector": "Automobiles - Two-wheelers",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 5399.5,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail None, early -1; composite +0.43",
+   "outcome": null
+  },
+  {
+   "id": "MARUTI-2026-11-04-h1",
+   "sym": "MARUTI",
+   "sector": "Automobiles - Passenger vehicles",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 11995.0,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst None, retail -1, early -1; composite -0.55",
+   "outcome": null
+  },
+  {
+   "id": "MARUTI-2026-11-04-h5",
+   "sym": "MARUTI",
+   "sector": "Automobiles - Passenger vehicles",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 11995.0,
+   "due": "2026-11-12",
+   "dir": "neg",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst None, retail -1, early -1; composite -0.55",
+   "outcome": null
+  },
+  {
+   "id": "NAUKRI-2026-11-04-h1",
+   "sym": "NAUKRI",
+   "sector": "Internet - Online classifieds",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1170.5,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail 0, early 0; composite +0.45",
+   "outcome": null
+  },
+  {
+   "id": "NAUKRI-2026-11-04-h5",
+   "sym": "NAUKRI",
+   "sector": "Internet - Online classifieds",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1170.5,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail 0, early 0; composite +0.45",
+   "outcome": null
+  },
+  {
+   "id": "TATACONSUM-2026-11-04-h1",
+   "sym": "TATACONSUM",
+   "sector": "FMCG - Food & Beverages",
+   "h": "h1",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1068.0,
+   "due": "2026-11-05",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst 0, retail 1, early 1; composite +0.35",
+   "outcome": null
+  },
+  {
+   "id": "TATACONSUM-2026-11-04-h5",
+   "sym": "TATACONSUM",
+   "sector": "FMCG - Food & Beverages",
+   "h": "h5",
+   "created": "2026-11-05T05:23:24+05:30",
+   "refDate": "2026-11-04",
+   "refPrice": 1068.0,
+   "due": "2026-11-12",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst 0, retail 1, early 1; composite +0.35",
    "outcome": null
   }
  ]

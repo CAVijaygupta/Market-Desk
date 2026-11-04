@@ -1,7 +1,7 @@
 {
- "asof": "2026-11-04T05:45:00+05:30",
- "asofText": "4 Nov 2026, 5:45 AM IST",
- "refDate": "2026-11-03",
+ "asof": "2026-11-05T05:23:24+05:30",
+ "asofText": "5 Nov 2026, 5:23 AM IST",
+ "refDate": "2026-11-04",
  "model": {
   "version": "v0.1-qualitative",
   "calibrated": false,
@@ -18,18 +18,18 @@
   "market": {
    "dir": "pos",
    "label": "Mildly positive",
-   "headline": "Fourth straight gain to a near two-month high; FIIs buy heavily",
-   "text": "Nifty closed at 23,810.85 on 3 Nov (+1.58%), Sensex 76,917.85 (+1.62%), Bank Nifty 55,540.05 (+0.98%). FMCG led (+3.65%) with Tata Consumer, Nestlé, HUL and Bharti Airtel among the top gainers; PSU banks fell 1.27% and SBI dropped 1.7% after Q2. Business Standard reported FII net buying of ₹6,837 cr and DII selling of ₹3,679 cr. In the US, the S&P 500 rose 0.36% and Nasdaq 0.83% on 3 Nov; midterm results were still being counted. GIFT Nifty for 4 Nov was not found at the time of this update."
+   "headline": "Fifth straight gain to a two-month high; IT the only drag",
+   "text": "Nifty closed at 23,960.60 on 4 Nov (+0.63%), Sensex 77,301.40 (+0.50%), Bank Nifty 55,913.60 (+0.67%). Media (+5%), metal and realty (+2% each) led; IT fell about 1.5% with TCS −2.5%. Breadth was strong (2,948 advances vs 1,260 declines) and smallcaps rose 2%. FIIs bought about ₹6,837 cr on 3 Nov (provisional, reported); 4 Nov flow figures were not found at the time of this update. Reports said US midterm results gave Democrats control of Congress; Brent hovered around $103. GIFT Nifty for 5 Nov was not found."
   },
   "analyst": {
    "dir": "pos",
    "label": "Mildly positive",
-   "text": "Post-results notes since late October lean positive: Kotak (nine Buy/OW), L&T (three of four positive), HUL (mostly Buy, margin caveats), Jefferies banks note (3 Nov; SBI ₹1,320, Axis ₹1,700). ITC drew 13 revisions, mostly target cuts. No post-results notes yet for SBI."
+   "text": "Post-results notes still lean positive. New on 4 Nov: SBI drew five notes (HSBC Buy ₹1,220, UBS Neutral ₹1,100, Jefferies Buy ₹1,320, Citi Buy ₹1,300, Macquarie Outperform ₹1,220), with HSBC and UBS cutting targets. ITC (Q2 on 4 Nov) had mostly target cuts earlier; Kotak, L&T and HUL notes remain mostly Buy."
   },
   "institutional": {
    "dir": "neu",
    "label": "Mixed",
-   "text": "Aggregate FII cash buying for three sessions (₹3,599 cr 30 Oct, ₹3,115 cr 2 Nov, about ₹6,837 cr 3 Nov as reported). Stock-level evidence is September-quarter shareholding (delayed, mostly from aggregator pages) plus ITC's 8 Oct block deal. No new large-cap bulk/block deals were found for 2–3 Nov."
+   "text": "Aggregate FII cash buying in five of the last six sessions (about ₹6,837 cr on 3 Nov, reported); 4 Nov provisional data not yet found. Stock-level evidence is still September-quarter shareholding (delayed filings) plus ITC's 8 Oct block deal. No new large-cap bulk/block deals were found for 4 Nov."
   },
   "retail": {
    "dir": "neu",
@@ -39,7 +39,7 @@
   "reliability": {
    "dir": "neu",
    "label": "Moderate",
-   "text": "3 Nov closes found for both indices and all 20 stocks; 17 pending calls were checked against real closes. Six previously unresearched stocks now have analyst and holding data, but several holding figures come from aggregator pages and should be checked against exchange filings."
+   "text": "4 Nov closes found for both indices and 19 of 20 stocks (mostly broker quote pages, not the NSE bhavcopy); 21 pending one-day calls were checked. TVS Motor's 4 Nov close could not be confirmed, so its call stays open and no new TVS Motor entries were logged."
   }
  },
  "indices": [
@@ -47,8 +47,8 @@
    "sym": "NIFTY",
    "name": "Nifty 50",
    "sector": "Index",
-   "price": "23,810.85 (+1.58%)",
-   "priceDate": "2026-11-03",
+   "price": "23,960.60 (+0.63%)",
+   "priceDate": "2026-11-04",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -68,22 +68,22 @@
     }
    },
    "evidence": "Moderate",
-   "summary": "Available evidence suggests a firm short-term tone: Nifty rose for a fourth session to 23,810.85 (+1.58%), about 5% in four days, with FIIs buying about ₹6,837 cr (largest in a year, per Business Standard) and positive breadth, but the stretched run, pending US midterm results and Brent near $104 reduce confidence.",
+   "summary": "Available evidence suggests a firm short-term tone: Nifty rose for a fifth session to 23,960.60 (+0.63%), a two-month closing high, with strong breadth (2,948 advances vs 1,260 declines) and FIIs buying about ₹6,837 cr on 3 Nov, but a roughly 5% run in five sessions, US election uncertainty and Brent near $103 reduce confidence.",
    "bull": [
-    "FII net buying about ₹6,837 cr on 3 Nov (reported); third straight day of FII buying",
-    "Broad gains: FMCG +3.65%, private banks +1.98%, BSE advances 2,362 vs 1,862 declines"
+    "Fifth straight gain; midcap +1.3%, smallcap +2% on 4 Nov",
+    "FII cash buying in five of the last six sessions (reported)"
    ],
    "bear": [
-    "About 5% rise in four sessions leaves the index stretched",
-    "DIIs sold about ₹3,679 cr; PSU banks −1.27%"
+    "About 5% rise in five sessions leaves the index stretched",
+    "IT fell 1.5% (TCS −2.5%, Infosys −1.7%)"
    ],
    "risks": [
-    "US midterm results still being counted",
-    "Brent swings on US–Iran news",
+    "US midterm outcome and tariff/visa implications for India",
+    "Brent around $103",
     "Diwali week: Muhurat session 8 Nov, holiday 10 Nov"
    ],
    "invalid": [
-    "Close back below 23,440 (2 Nov close)",
+    "Close back below 23,810 (3 Nov close)",
     "Renewed heavy FII selling"
    ]
   },
@@ -91,8 +91,8 @@
    "sym": "BANKNIFTY",
    "name": "Bank Nifty",
    "sector": "Index",
-   "price": "55,540.05 (+0.98%)",
-   "priceDate": "2026-11-03",
+   "price": "55,913.60 (+0.67%)",
+   "priceDate": "2026-11-04",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -112,14 +112,14 @@
     }
    },
    "evidence": "Moderate",
-   "summary": "Available evidence suggests a mildly positive bank index: Bank Nifty rose 0.98% to 55,540.05 as private banks gained 1.98% and Jefferies called bank valuations attractive, but SBI fell 1.7% after Q2 and PSU banks lagged, which reduces confidence.",
+   "summary": "Available evidence suggests a steady tone: Bank Nifty rose 0.67% to 55,913.60 with HDFC Bank +1.5% and SBI +0.9% after Q2, but Kotak (−1.1%) lagged, post-results SBI targets were trimmed by HSBC and UBS, and the wider market is stretched after a five-day run, which reduces confidence.",
    "bull": [
-    "Private banks +1.98% on 3 Nov; HDFC Bank +3.6%, ICICI Bank +2.7%",
-    "Jefferies (3 Nov) sees banks' valuation premium narrowed; top picks SBI, Axis"
+    "HDFC Bank +1.5%, SBI +0.9% on 4 Nov",
+    "Four of five post-results SBI notes positive"
    ],
    "bear": [
-    "SBI −1.7% after Q2; PSU Bank index −1.27%",
-    "Lagged Nifty again"
+    "Kotak −1.1%; ICICI and Axis flat",
+    "HSBC/UBS cut SBI targets"
    ],
    "risks": [
     "Global risk-off around US midterm results"
@@ -135,9 +135,9 @@
    "sym": "RELIANCE",
    "name": "Reliance Industries Ltd",
    "sector": "Energy / Conglomerate",
-   "price": 1307.9,
-   "priceSrc": "https://www.indiainfoline.com/company/reliance-industries-ltd-share-price/476",
-   "priceDate": "2026-11-03",
+   "price": 1311.0,
+   "priceSrc": "https://upstox.com/stocks/reliance-industries-ltd-share-price/INE002A01018/",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -234,7 +234,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 1700.6,
-    "upside": 30.0
+    "upside": 29.7
    },
    "inst": {
     "items": [
@@ -383,9 +383,9 @@
    "sym": "HDFCBANK",
    "name": "HDFC Bank Ltd",
    "sector": "Banking",
-   "price": 725.5,
-   "priceSrc": "https://www.indiainfoline.com/company/hdfc-bank-ltd-share-price/share-price-historical-data/4987",
-   "priceDate": "2026-11-03",
+   "price": 736.7,
+   "priceSrc": "https://upstox.com/stocks/hdfc-bank-ltd-share-price/INE040A01034/",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -482,7 +482,7 @@
     "consensus": "Positive",
     "score": 2,
     "avgTarget": 956.4,
-    "upside": 31.8
+    "upside": 29.8
    },
    "inst": {
     "items": [
@@ -584,9 +584,9 @@
    "sym": "ICICIBANK",
    "name": "ICICI Bank Ltd",
    "sector": "Banking",
-   "price": 1424.5,
-   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-3-2026-diwali-party-continues-as-benchmarks-extend-mega-rally",
-   "priceDate": "2026-11-03",
+   "price": 1424.1,
+   "priceSrc": "https://upstox.com/stocks/icici-bank-ltd/INE090A01021",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -633,7 +633,7 @@
     "consensus": "Positive",
     "score": 2,
     "avgTarget": 1835.0,
-    "upside": 28.8
+    "upside": 28.9
    },
    "inst": {
     "items": [
@@ -747,9 +747,9 @@
    "sym": "INFY",
    "name": "Infosys Ltd",
    "sector": "IT Services",
-   "price": 1148.1,
-   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-3-2026-diwali-party-continues-as-benchmarks-extend-mega-rally",
-   "priceDate": "2026-11-03",
+   "price": 1128.2,
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -846,7 +846,7 @@
     "consensus": "Mixed",
     "score": 0,
     "avgTarget": 1122.2,
-    "upside": -2.3
+    "upside": -0.5
    },
    "inst": {
     "items": [
@@ -968,9 +968,9 @@
    "sym": "TCS",
    "name": "Tata Consultancy Services Ltd",
    "sector": "IT Services",
-   "price": 2499.1,
-   "priceSrc": "https://www.indiainfoline.com/company/tata-consultancy-services-ltd-share-price",
-   "priceDate": "2026-11-03",
+   "price": 2436.0,
+   "priceSrc": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-4-2026-bharat-electronics-and-adani-enterprises-gain-while-tcs-drops-over-2",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -1027,7 +1027,7 @@
     "consensus": "Mixed",
     "score": 0,
     "avgTarget": 2239.0,
-    "upside": -10.4
+    "upside": -8.1
    },
    "inst": {
     "items": [
@@ -1160,8 +1160,8 @@
    "sym": "BHARTIARTL",
    "name": "Bharti Airtel",
    "sector": "Telecom",
-   "price": 2065.0,
-   "priceDate": "2026-11-03",
+   "price": 2067.6,
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -1198,7 +1198,7 @@
     "consensus": "Mixed",
     "score": 1,
     "avgTarget": 2259.7,
-    "upside": 9.4
+    "upside": 9.3
    },
    "inst": {
     "items": [
@@ -1251,7 +1251,7 @@
    ],
    "early": 0,
    "earlyWhy": "Q2 FY27 results due 5 Nov; shares rose 4% over two sessions ahead of them",
-   "priceSrc": "https://www.indiainfoline.com/company/bharti-airtel-ltd-share-price/15542",
+   "priceSrc": "https://upstox.com/stocks/bharti-airtel-ltd-share-price/INE397D01024/",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -1276,19 +1276,59 @@
    "sym": "SBIN",
    "name": "State Bank of India",
    "sector": "Banking - PSU",
-   "price": 970.25,
-   "priceDate": "2026-11-03",
+   "price": 979.0,
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
+      "firm": "HSBC",
+      "analyst": "",
+      "rating": "Buy",
+      "target": 1220,
+      "date": "2026-11-04",
+      "change": "Target cut from ₹1,310",
+      "reason": "Post-Q2 FY27 note: profit +14% to ₹23,038 cr, NII +15%",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sbi-shares-rise-2-after-q2-results-hsbc-ubs-jefferies-share-target-prices-565615-2026-11-04"
+     },
+     {
+      "firm": "UBS",
+      "analyst": "",
+      "rating": "Neutral",
+      "target": 1100,
+      "date": "2026-11-04",
+      "change": "Target cut from ₹1,190",
+      "reason": "Post-Q2 FY27 note: profit +14% to ₹23,038 cr, NII +15%",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sbi-shares-rise-2-after-q2-results-hsbc-ubs-jefferies-share-target-prices-565615-2026-11-04"
+     },
+     {
       "firm": "Jefferies",
       "analyst": "",
-      "rating": "Top large-cap pick",
+      "rating": "Buy",
       "target": 1320,
-      "date": "2026-11-03",
-      "change": "Sector note published before Q2 reaction; previous target not stated",
-      "reason": "Valuation premium over global peers has narrowed; about 37% upside cited",
-      "url": "https://www.businesstoday.in/markets/stocks/story/sbi-icici-hdfc-bank-iib-kmb-shares-valuation-premium-over-global-peers-narrowed-targets-565320-2026-11-03"
+      "date": "2026-11-04",
+      "change": "Reiterated after Q2",
+      "reason": "Post-Q2 FY27 note: profit +14% to ₹23,038 cr, NII +15%",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sbi-shares-rise-2-after-q2-results-hsbc-ubs-jefferies-share-target-prices-565615-2026-11-04"
+     },
+     {
+      "firm": "Citi",
+      "analyst": "",
+      "rating": "Buy",
+      "target": 1300,
+      "date": "2026-11-04",
+      "change": "Post-Q2 note",
+      "reason": "Post-Q2 FY27 note: profit +14% to ₹23,038 cr, NII +15%",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sbi-shares-rise-2-after-q2-results-hsbc-ubs-jefferies-share-target-prices-565615-2026-11-04"
+     },
+     {
+      "firm": "Macquarie",
+      "analyst": "",
+      "rating": "Outperform",
+      "target": 1220,
+      "date": "2026-11-04",
+      "change": "Target unchanged",
+      "reason": "Post-Q2 FY27 note: profit +14% to ₹23,038 cr, NII +15%",
+      "url": "https://www.businesstoday.in/markets/stocks/story/sbi-shares-rise-2-after-q2-results-hsbc-ubs-jefferies-share-target-prices-565615-2026-11-04"
      },
      {
       "firm": "Prabhudas Lilladher",
@@ -1303,8 +1343,8 @@
     ],
     "consensus": "Positive",
     "score": 1,
-    "avgTarget": 1260.0,
-    "upside": 29.9
+    "avgTarget": 1232.0,
+    "upside": 25.8
    },
    "inst": {
     "items": [],
@@ -1316,15 +1356,17 @@
     "asof": null,
     "score": null
    },
-   "fresh": "2026-11-03",
+   "fresh": "2026-11-04",
    "divNote": "",
    "evidence": "Weak",
-   "summary": "Available evidence suggests a mildly positive medium-term view: Jefferies named SBI a top pick with a ₹1,320 target and Q2 profit rose 14.3% with better asset quality, but operating profit fell 1.4%, the stock dropped 1.7% on results and no post-results broker notes or stake data were found, which reduces confidence.",
+   "summary": "Available evidence suggests a mildly positive medium-term view: four of five post-results broker notes reported on 4 Nov are Buy/Outperform (targets ₹1,220–1,320) and the stock recovered 0.9%, but HSBC and UBS cut targets, UBS is Neutral and no fresh stake data was found, which reduces confidence.",
    "bull": [
     "Q2 profit ₹23,038 cr (+14.3%); GNPA 1.39%, domestic NIM 3.11%",
     "Jefferies target ₹1,320 (3 Nov sector note)"
    ],
    "bear": [
+    "HSBC and UBS cut targets after Q2 (4 Nov)",
+    "Operating profit fell 1.4% in Q2; profit helped by exceptional gains",
     "Operating profit −1.4%; profit lifted by ₹7,289 cr exceptional gains",
     "Fell 1.7% on 3 Nov while Nifty rose 1.6%"
    ],
@@ -1337,8 +1379,8 @@
     "Close below ₹950"
    ],
    "early": 0,
-   "earlyWhy": "Q2 (3 Nov): profit +14.3% helped by ₹7,289 cr exceptional gains, operating profit −1.4%; stock fell 1.7%",
-   "priceSrc": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-3-2026-bse-and-nestle-gain-while-power-grid-drops-over-3",
+   "earlyWhy": "Q2 (3 Nov) profit +14%; on 4 Nov HSBC and UBS cut targets while Jefferies, Citi, Macquarie stayed positive; stock +0.9%",
+   "priceSrc": "https://www.indmoney.com/stocks/state-bank-of-india-share-price",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -1357,14 +1399,14 @@
      "conf": "Low"
     }
    },
-   "basis": "analyst 1, inst None, retail None, early 0; composite +0.71"
+   "basis": "Post-Q2 broker notes mostly Buy (4 Nov), two target cuts; no stake data"
   },
   {
    "sym": "ITC",
    "name": "ITC Ltd",
    "sector": "FMCG / Tobacco",
-   "price": 273.9,
-   "priceDate": "2026-11-03",
+   "price": 280.0,
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -1501,7 +1543,7 @@
     "consensus": "Mixed",
     "score": 1,
     "avgTarget": 327.4,
-    "upside": 19.5
+    "upside": 16.9
    },
    "inst": {
     "items": [
@@ -1570,15 +1612,19 @@
     "asof": "2026-09-30",
     "score": 0
    },
-   "fresh": "2026-11-03",
+   "fresh": "2026-11-04",
    "divNote": "",
    "evidence": "Strong",
    "summary": "Available evidence suggests a neutral outlook: 13 brokerages updated targets after Q2 (average about ₹327, mostly Buy/Accumulate) and mutual funds absorbed GQG's October block sale, but repeated target cuts on weak cigarette volumes and foreign trimming reduce confidence.",
    "bull": [
+    "Non-cigarette FMCG revenue +16%, PBIT +28% in Q2 (reported 4 Nov)",
+    "Stock rose 2.2% on results day",
     "Average post-Q2 target about ₹327 vs ₹273.90 close",
     "Nuvama upgraded to Buy; mutual funds added 0.52 pp in the September quarter"
    ],
    "bear": [
+    "Standalone Q2 profit fell 20% to ₹4,137 cr; cigarette PBIT −27%",
+    "JPMorgan estimated cigarette volumes fell 7–8%",
     "Several targets cut (Morgan Stanley, UBS, Investec, Emkay) on tax-hit cigarette volumes",
     "Foreign holding fell about 1 pp; GQG sold 2.91% on 8 Oct"
    ],
@@ -1590,8 +1636,8 @@
     "A fresh round of target cuts or a close back below ₹257 (October block price)"
    ],
    "early": 0,
-   "earlyWhy": "Q2 broker reactions mixed: one upgrade, several target cuts",
-   "priceSrc": "https://www.indiainfoline.com/company/itc-ltd-share-price/301",
+   "earlyWhy": "Q2 FY27 (4 Nov): standalone profit −20% and cigarette PBIT −27%, but non-cigarette FMCG revenue +16%; stock +2.2% on about 2x volume",
+   "priceSrc": "https://www.5paisa.com/blog/stocks-seeing-unusual-price-and-volume-activity-4-nov-2026",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -1610,14 +1656,14 @@
      "conf": "Medium"
     }
    },
-   "basis": "analyst 1, inst 0, retail 0, early 0; composite +0.29"
+   "basis": "Q2 mixed (profit −20%, FMCG strong); targets mostly cut earlier"
   },
   {
    "sym": "LT",
    "name": "Larsen & Toubro",
    "sector": "Infrastructure / Capital goods",
-   "price": 3948.2,
-   "priceDate": "2026-11-03",
+   "price": 3944.4,
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -1664,7 +1710,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 4473.0,
-    "upside": 13.3
+    "upside": 13.4
    },
    "inst": {
     "items": [
@@ -1722,7 +1768,7 @@
    ],
    "early": 0,
    "earlyWhy": "Q2 profit +33% and record order inflow, but EBITDA margin fell to 8.7% from 10%",
-   "priceSrc": "https://www.indiainfoline.com/company/larsen-toubro-ltd-share-price/348",
+   "priceSrc": "https://www.bajajbroking.in/stock/larsen-toubro-ltd-share-price",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -1747,8 +1793,8 @@
    "sym": "KOTAKBANK",
    "name": "Kotak Mahindra Bank",
    "sector": "Banking - Private",
-   "price": 464.65,
-   "priceDate": "2026-11-03",
+   "price": 459.4,
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -1845,7 +1891,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 511.5,
-    "upside": 10.1
+    "upside": 11.3
    },
    "inst": {
     "items": [
@@ -1890,11 +1936,12 @@
     "asof": "2026-09-30",
     "score": null
    },
-   "fresh": "2026-11-03",
+   "fresh": "2026-11-04",
    "divNote": "",
    "evidence": "Moderate",
    "summary": "Available evidence suggests a neutral-to-positive view: all nine post-Q2 notes found are Buy/Overweight with targets ₹480–550, but upside to the average target is only about 10% and foreign holders trimmed while funds added, which keeps the outlook neutral.",
    "bull": [
+    "CCI approved purchase of Deutsche Bank India retail/wealth units (disclosed 3 Nov)",
     "Nine Buy/Overweight notes after Q2; several targets raised",
     "Mutual funds +0.70 pp in the September quarter"
    ],
@@ -1910,7 +1957,7 @@
    ],
    "early": 0,
    "earlyWhy": "Q2 (late Oct) drew target upgrades; stock hit a 52-week high on 29 Oct",
-   "priceSrc": "https://www.indiainfoline.com//company/undefined-share-price/2330",
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -1935,9 +1982,9 @@
    "sym": "AXISBANK",
    "name": "Axis Bank Ltd",
    "sector": "Banking - Private",
-   "price": 1232.7,
-   "priceSrc": "https://www.indiainfoline.com/company/axis-bank-ltd-share-price/5554",
-   "priceDate": "2026-11-03",
+   "price": 1232.0,
+   "priceSrc": "https://www.kotakneo.com/stocks/axis-bank-share-price/",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -2014,7 +2061,7 @@
     "consensus": "Positive",
     "score": 2,
     "avgTarget": 1641.0,
-    "upside": 33.1
+    "upside": 33.2
    },
    "inst": {
     "items": [],
@@ -2077,9 +2124,9 @@
    "sym": "HINDUNILVR",
    "name": "Hindustan Unilever",
    "sector": "FMCG",
-   "price": 1962.8,
-   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-3-2026-diwali-party-continues-as-benchmarks-extend-mega-rally",
-   "priceDate": "2026-11-03",
+   "price": 1977.1,
+   "priceSrc": "https://www.5paisa.com/stocks/hindunilvr-share-price",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -2126,7 +2173,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 2437.5,
-    "upside": 24.2
+    "upside": 23.3
    },
    "inst": {
     "items": [
@@ -2237,9 +2284,9 @@
    "sym": "ADANIENT",
    "name": "Adani Enterprises Ltd",
    "sector": "Diversified - Infrastructure incubator",
-   "price": 2593.3,
-   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-3-2026-diwali-party-continues-as-benchmarks-extend-mega-rally",
-   "priceDate": "2026-11-03",
+   "price": 2709.2,
+   "priceSrc": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-4-2026-bharat-electronics-and-adani-enterprises-gain-while-tcs-drops-over-2",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [],
     "consensus": "No data",
@@ -2265,20 +2312,22 @@
     "asof": "2026-10-22",
     "score": -1
    },
-   "early": -1,
-   "earlyWhy": "A steady October price decline into results, plus a reported 55% Q2 profit fall (partly from a high base: Q2 FY26 included a one-time gain).",
-   "fresh": "2026-10-22",
-   "divNote": "",
+   "early": 0,
+   "earlyWhy": "Q2 FY27 (4 Nov): total income +74%, EBITDA +62%, but owners' PAT −55%; stock +4.47%",
+   "fresh": "2026-11-04",
+   "divNote": "Price jumped 4.5% on Q2 while reported mood stays cautious; signals conflict.",
    "evidence": "Moderate",
    "summary": "Available evidence suggests weak momentum, with the stock down about 11% from 1 Oct to 22 Oct ahead of a reported 55% Q2 profit decline. But the year-ago quarter was inflated by a one-time gain, and no post-results coverage, broker views or holding data could be verified, which reduces confidence.",
    "bull": [
-    "The year-ago Q2 FY26 profit (₹3,199 cr) included a one-time gain, so part of the YoY fall reflects the base effect",
-    "Core infrastructure businesses (airports, roads, new energy) are long-duration growth drivers"
+    "Q2 income +74%, EBITDA +62% (reported 4 Nov)",
+    "AdaniConneX 240 MW hyperscale order reported",
+    "Stock +4.47%, second-best Nifty gainer",
+    "The year-ago Q2 FY26 profit (₹3,199 cr) included a one-time gain, so part of the YoY fall reflects the base effect"
    ],
    "bear": [
+    "Q2 PAT attributable to owners fell 55% to ₹1,492 cr",
     "Reported Q2 FY27 profit down about 55% YoY",
-    "Stock fell from ₹2,865 to ₹2,550 between 1 and 22 Oct",
-    "No verified analyst support found after the results"
+    "Stock fell from ₹2,865 to ₹2,550 between 1 and 22 Oct"
    ],
    "risks": [
     "Weak coal trading volumes and prices",
@@ -2289,7 +2338,7 @@
     "Core EBITDA growth (excluding one-offs) shown to be strong in results commentary",
     "Brokerage upgrades or large institutional buying after Q2"
    ],
-   "basis": "analyst None, inst None, retail -1, early -1; composite -1.00",
+   "basis": "Retail mood leaning negative vs strong Q2 revenue and +4.5% move; conflicting",
    "attention": null,
    "pred": {
     "h1": {
@@ -2298,15 +2347,15 @@
     },
     "h5": {
      "dir": "neg",
-     "conf": "Medium"
+     "conf": "Low"
     },
     "h20": {
      "dir": "neg",
-     "conf": "Medium"
+     "conf": "Low"
     },
     "h60": {
      "dir": "neg",
-     "conf": "Medium"
+     "conf": "Low"
     }
    }
   },
@@ -2314,9 +2363,9 @@
    "sym": "ADANIPORTS",
    "name": "Adani Ports and Special Economic Zone Ltd",
    "sector": "Infrastructure - Ports & Logistics",
-   "price": 1866.9,
-   "priceSrc": "https://www.indiainfoline.com/company/adani-ports-special-economic-zone-ltd-share-price/21281",
-   "priceDate": "2026-11-03",
+   "price": 1910.0,
+   "priceSrc": "https://indiainfoline.com/company/adani-ports-share-price/21281",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -2403,7 +2452,7 @@
     "consensus": "Positive",
     "score": 2,
     "avgTarget": 2107.6,
-    "upside": 12.9
+    "upside": 10.3
    },
    "inst": {
     "items": [],
@@ -2464,9 +2513,9 @@
    "sym": "BANDHANBNK",
    "name": "Bandhan Bank Ltd",
    "sector": "Banking - Private",
-   "price": 156.8,
-   "priceSrc": "https://www.indiainfoline.com/company/stock-view/bandhan-bank-ltd/68090",
-   "priceDate": "2026-11-03",
+   "price": 157.86,
+   "priceSrc": "https://www.indmoney.com/stocks/bandhan-bank-ltd-share-price",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -2533,7 +2582,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 211.7,
-    "upside": 35.0
+    "upside": 34.1
    },
    "inst": {
     "items": [],
@@ -2595,9 +2644,9 @@
    "sym": "HEROMOTOCO",
    "name": "Hero MotoCorp Ltd",
    "sector": "Automobiles - Two-wheelers",
-   "price": 5300.0,
-   "priceSrc": "https://www.indiainfoline.com/company/stock-view/hero-motocorp-ltd-share-price/237",
-   "priceDate": "2026-11-03",
+   "price": 5399.5,
+   "priceSrc": "https://trendlyne.com/equity/540/HEROMOTOCO/hero-motocorp-ltd/",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -2624,7 +2673,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 5925.0,
-    "upside": 11.8
+    "upside": 9.7
    },
    "inst": {
     "items": [],
@@ -2696,9 +2745,9 @@
    "sym": "MARUTI",
    "name": "Maruti Suzuki India Ltd",
    "sector": "Automobiles - Passenger vehicles",
-   "price": 11869.0,
-   "priceSrc": "https://www.indiainfoline.com/company/maruti-suzuki-share-price/5496",
-   "priceDate": "2026-11-03",
+   "price": 11995.0,
+   "priceSrc": "https://www.indmoney.com/stocks/maruti-suzuki-india-ltd-share-price",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -2792,9 +2841,9 @@
    "sym": "NAUKRI",
    "name": "Info Edge (India) Ltd",
    "sector": "Internet - Online classifieds",
-   "price": 1180.0,
-   "priceSrc": "https://www.indiainfoline.com/company/info-edge-india-ltd-share-price/18844",
-   "priceDate": "2026-11-03",
+   "price": 1170.5,
+   "priceSrc": "https://trendlyne.com/equity/913/NAUKRI/info-edge-india-ltd/",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -2821,7 +2870,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 1335.0,
-    "upside": 13.1
+    "upside": 14.1
    },
    "inst": {
     "items": [],
@@ -2891,9 +2940,9 @@
    "sym": "TATACONSUM",
    "name": "Tata Consumer Products Ltd",
    "sector": "FMCG - Food & Beverages",
-   "price": 1073.0,
-   "priceSrc": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-3-2026-bse-and-nestle-gain-while-power-grid-drops-over-3",
-   "priceDate": "2026-11-03",
+   "price": 1068.0,
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump",
+   "priceDate": "2026-11-04",
    "analyst": {
     "items": [
      {
@@ -2920,7 +2969,7 @@
     "consensus": "Mixed",
     "score": 0,
     "avgTarget": 1080.0,
-    "upside": 0.7
+    "upside": 1.1
    },
    "inst": {
     "items": [
@@ -3119,7 +3168,7 @@
    "fresh": "2026-10-29",
    "divNote": "",
    "evidence": "Moderate",
-   "summary": "Available evidence suggests a positive tilt: Q2 profit rose about 52% and most brokerages raised targets, but Citi stays at Sell and the stock fell about 2% on 30 Oct, which reduces confidence.",
+   "summary": "Available evidence suggests a positive tilt: Q2 profit rose about 52% and most brokerages raised targets, but Citi stays at Sell and the stock fell about 2% on 30 Oct, which reduces confidence. The 4 Nov close could not be confirmed (sources disagree), so the price shown is the 3 Nov close.",
    "bull": [
     "Q1 FY27 revenue +38% and adj. PAT +51% YoY, ahead of estimates",
     "Management guided double-digit two-wheeler industry growth for FY27",
@@ -3181,6 +3230,11 @@
     "d": "2026-11-03",
     "i": 0,
     "r": 0
+   },
+   {
+    "d": "2026-11-04",
+    "i": 0,
+    "r": 0
    }
   ],
   "ICICIBANK": [
@@ -3201,6 +3255,11 @@
    },
    {
     "d": "2026-11-03",
+    "i": 1,
+    "r": 0
+   },
+   {
+    "d": "2026-11-04",
     "i": 1,
     "r": 0
    }
@@ -3225,6 +3284,11 @@
     "d": "2026-11-03",
     "i": 0,
     "r": 0
+   },
+   {
+    "d": "2026-11-04",
+    "i": 0,
+    "r": 0
    }
   ],
   "TCS": [
@@ -3247,11 +3311,21 @@
     "d": "2026-11-03",
     "i": -1,
     "r": 0
+   },
+   {
+    "d": "2026-11-04",
+    "i": -1,
+    "r": 0
    }
   ],
   "ITC": [
    {
     "d": "2026-11-03",
+    "i": 0,
+    "r": 0
+   },
+   {
+    "d": "2026-11-04",
     "i": 0,
     "r": 0
    }
@@ -3261,11 +3335,21 @@
     "d": "2026-11-03",
     "i": -1,
     "r": 1
+   },
+   {
+    "d": "2026-11-04",
+    "i": -1,
+    "r": 1
    }
   ],
   "TATACONSUM": [
    {
     "d": "2026-11-03",
+    "i": 0,
+    "r": 1
+   },
+   {
+    "d": "2026-11-04",
     "i": 0,
     "r": 1
    }
@@ -3274,12 +3358,30 @@
  "attention": [
   {
    "sym": "SBIN",
+   "kind": "Analyst change",
+   "head": "Five broker notes after Q2; HSBC and UBS cut targets",
+   "why": "Jefferies, Citi, Macquarie stay positive; UBS Neutral. Stock +0.9% on 4 Nov",
+   "date": "2026-11-04",
+   "src": "Business Today; HDFC Sky",
+   "url": "https://www.businesstoday.in/markets/stocks/story/sbi-shares-rise-2-after-q2-results-hsbc-ubs-jefferies-share-target-prices-565615-2026-11-04"
+  },
+  {
+   "sym": "ITC",
    "kind": "Coverage jump",
-   "head": "Q2 results during market hours; stock fell 1.7%",
-   "why": "Profit +14.3% to ₹23,038 cr with exceptional gains; operating profit −1.4%. Widely covered results and among Nifty losers",
-   "date": "2026-11-03",
-   "src": "IIFL; Newsdrum; Free Press Journal",
-   "url": "https://www.indiainfoline.com/news/companies/sbi-q2-fy27-results-net-profit-up-14-3-to-rs-23038-crore-asset-quality-improves"
+   "head": "Q2 results: profit −20%, FMCG strong; stock +2.2%",
+   "why": "Results widely covered; volume about 2x the 3-day average",
+   "date": "2026-11-04",
+   "src": "IIFL; 5paisa",
+   "url": "https://www.indiainfoline.com/news/companies/itc-share-price-adds-2-lists-on-top-nifty-performers-today"
+  },
+  {
+   "sym": "ADANIENT",
+   "kind": "Coverage jump",
+   "head": "Q2: income +74%, owners' PAT −55%; stock +4.5%",
+   "why": "Second-best Nifty gainer and widely covered results",
+   "date": "2026-11-04",
+   "src": "IIFL; Angel One; HDFC Sky",
+   "url": "https://www.indiainfoline.com/news/markets/nifty-sensex-today-nifty-extends-rally-to-5-th-day-media-metal-and-realty-surge-it-drags"
   },
   {
    "sym": "BHARTIARTL",
@@ -3360,6 +3462,94 @@
   }
  ],
  "sources": [
+  {
+   "name": "HDFC Sky market close 4 Nov 2026",
+   "url": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump"
+  },
+  {
+   "name": "Liquide market close 4 Nov 2026",
+   "url": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-950-sensex-gains-383-points-as-metal-realty-and-energy-stocks-lead-rally/"
+  },
+  {
+   "name": "IIFL markets 4 Nov 2026",
+   "url": "https://www.indiainfoline.com/news/markets/nifty-sensex-today-nifty-extends-rally-to-5-th-day-media-metal-and-realty-surge-it-drags"
+  },
+  {
+   "name": "Angel One top gainers/losers 4 Nov 2026",
+   "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-4-2026-bharat-electronics-and-adani-enterprises-gain-while-tcs-drops-over-2"
+  },
+  {
+   "name": "Business Today: SBI broker targets 4 Nov",
+   "url": "https://www.businesstoday.in/markets/stocks/story/sbi-shares-rise-2-after-q2-results-hsbc-ubs-jefferies-share-target-prices-565615-2026-11-04"
+  },
+  {
+   "name": "IIFL: ITC Q2 reaction",
+   "url": "https://www.indiainfoline.com/news/companies/itc-share-price-adds-2-lists-on-top-nifty-performers-today"
+  },
+  {
+   "name": "Angel One: Kotak CCI approval",
+   "url": "https://www.angelone.in/news/stocks/kotak-mahindra-bank-share-price-in-focus-receives-cci-approval-for-deutsche-bank-india-acquisition"
+  },
+  {
+   "name": "5paisa post-market 4 Nov",
+   "url": "https://www.5paisa.com/blog/post-market-update-nifty-gains-5th-day-two-month-high-smallcap-jumps-november-4-2026"
+  },
+  {
+   "name": "RELIANCE quote 4 Nov",
+   "url": "https://upstox.com/stocks/reliance-industries-ltd-share-price/INE002A01018/"
+  },
+  {
+   "name": "HDFCBANK quote 4 Nov",
+   "url": "https://upstox.com/stocks/hdfc-bank-ltd-share-price/INE040A01034/"
+  },
+  {
+   "name": "ICICIBANK quote 4 Nov",
+   "url": "https://upstox.com/stocks/icici-bank-ltd/INE090A01021"
+  },
+  {
+   "name": "BHARTIARTL quote 4 Nov",
+   "url": "https://upstox.com/stocks/bharti-airtel-ltd-share-price/INE397D01024/"
+  },
+  {
+   "name": "SBIN quote 4 Nov",
+   "url": "https://www.indmoney.com/stocks/state-bank-of-india-share-price"
+  },
+  {
+   "name": "ITC quote 4 Nov",
+   "url": "https://www.5paisa.com/blog/stocks-seeing-unusual-price-and-volume-activity-4-nov-2026"
+  },
+  {
+   "name": "LT quote 4 Nov",
+   "url": "https://www.bajajbroking.in/stock/larsen-toubro-ltd-share-price"
+  },
+  {
+   "name": "AXISBANK quote 4 Nov",
+   "url": "https://www.kotakneo.com/stocks/axis-bank-share-price/"
+  },
+  {
+   "name": "HINDUNILVR quote 4 Nov",
+   "url": "https://www.5paisa.com/stocks/hindunilvr-share-price"
+  },
+  {
+   "name": "ADANIPORTS quote 4 Nov",
+   "url": "https://indiainfoline.com/company/adani-ports-share-price/21281"
+  },
+  {
+   "name": "BANDHANBNK quote 4 Nov",
+   "url": "https://www.indmoney.com/stocks/bandhan-bank-ltd-share-price"
+  },
+  {
+   "name": "HEROMOTOCO quote 4 Nov",
+   "url": "https://trendlyne.com/equity/540/HEROMOTOCO/hero-motocorp-ltd/"
+  },
+  {
+   "name": "MARUTI quote 4 Nov",
+   "url": "https://www.indmoney.com/stocks/maruti-suzuki-india-ltd-share-price"
+  },
+  {
+   "name": "NAUKRI quote 4 Nov",
+   "url": "https://trendlyne.com/equity/913/NAUKRI/info-edge-india-ltd/"
+  },
   {
    "name": "Upstox market wrap, 3 Nov",
    "url": "https://upstox.com/news/market-news/stocks/market-wrap-nov-3-sensex-jumps-1-225-pts-nifty-50-ends-at-23-810-nse-listed-firms-add-5-lakh-crore-mcap/article-202904/"
@@ -3591,94 +3781,6 @@
   {
    "name": "Moneycontrol via TradingView: Reliance breaks resistance",
    "url": "https://www.tradingview.com/news/moneycontrol:a0b7a7f79094b:0-reliance-stock-jumps-past-key-resistance-level-analysts-see-33-upside/"
-  },
-  {
-   "name": "Free Press Journal: Auto stocks after October sales, 2 Nov",
-   "url": "https://www.freepressjournal.in/business/auto-stocks-rally-after-strong-october-sales-data-maruti-leads-with-over-3-gain"
-  },
-  {
-   "name": "Business Standard: market live 30 Oct 2026",
-   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html"
-  },
-  {
-   "name": "HDFC Sky: market close 30 Oct 2026",
-   "url": "https://hdfcsky.com/news/market-close-report-today-october-30-2026-nifty-sensex-rise-for-second-straight-session"
-  },
-  {
-   "name": "HDFC Sky: weekly review 26–30 Oct 2026",
-   "url": "https://hdfcsky.com/news/weekly-stock-market-review-october-26-30-2026-nifty-reclaims-23053-as-pharma-surges-6-1percent-jio-platforms-lists-at-21percent-premium-fiis-return-with-rs3599-crore"
-  },
-  {
-   "name": "Kotak Neo: closing report 30 Oct",
-   "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-50-close-higher-amid-global-headwinds/"
-  },
-  {
-   "name": "Liquide: Bank Nifty close 30 Oct",
-   "url": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-000-sensex-gains-308-points-as-it-and-pharma-stocks-rally/"
-  },
-  {
-   "name": "Liquide: weekly review",
-   "url": "https://blog.liquide.life/weekly-review-indian-stock-market-prediction-nov-02nd-nov-06th-2026/"
-  },
-  {
-   "name": "Goodreturns: outlook 2–6 Nov",
-   "url": "https://www.goodreturns.in/news/indian-stock-market-outlook-next-week-november-2-6-2026-will-sensex-nifty-extend-gains-ahead-of-2026-1544521.html"
-  },
-  {
-   "name": "Angel One: top gainers/losers 30 Oct",
-   "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-october-30-2026-trent-and-interglobe-aviation-gain-while-shriram-finance-drops-over-2"
-  },
-  {
-   "name": "Upstox: Reliance Q2 FY27",
-   "url": "https://upstox.com/news/market-news/earnings/reliance-q2-results-net-profit-jumps-41-yo-y-to-25-548-crore-o2-c-revenues-surge-44-on-higher-energy-prices/article-202747/"
-  },
-  {
-   "name": "TradingView/Moody's: Reliance brokerages after Q2",
-   "url": "https://www.tradingview.com/news/moodys:a678caed1d190:0-reliance-shares-buy-sell-or-hold-after-q2-results-2026-ril-stock-up-384-in-10-yrs-brokerages-advice-to-investors/"
-  },
-  {
-   "name": "Business Today: Adani Ports targets",
-   "url": "https://www.businesstoday.in/markets/stocks/story/adani-ports-shares-surge-post-q2-earnings-key-factors-behind-the-rise-targets-564451-2026-10-29"
-  },
-  {
-   "name": "Business Today: Bandhan Bank ratings",
-   "url": "https://www.businesstoday.in/markets/stocks/story/bandhan-bank-stock-gets-upgrade-from-nuvama-jefferies-trims-target-post-q2-earnings-564456-2026-10-29"
-  },
-  {
-   "name": "News Karnataka: TVS Motor targets",
-   "url": "https://newskarnataka.com/business/tvs-motor-q2-brokerages-raise-targets-citi-says-sell/29102026/"
-  },
-  {
-   "name": "Whalesbook: ICICI Sec on Hero",
-   "url": "https://www.whalesbook.com/news/English/brokerage-reports/ICICI-Securities-Retains-indian-rupee6000-Target-on-Hero-MotoCorp/6ae45c734fc30694db53a593"
-  },
-  {
-   "name": "Whalesbook: PL on Hero",
-   "url": "https://www.whalesbook.com/news/Hinglish/brokerage-reports/Hero-MotoCorp-Target-Raised-To-Rs-5850-By-Prabhudas-Lilladher/6ae49e104fc30694db54541e"
-  },
-  {
-   "name": "Angel One: L&T Q2 FY27",
-   "url": "https://www.angelone.in/news/stocks/larsen-toubro-l-t-share-price-rises-over-4-reports-33-net-profit-growth-in-q2-fy27"
-  },
-  {
-   "name": "PSU Connect: SBI Q2 date",
-   "url": "https://www.psuconnect.in/financial/sbi-to-announce-q2fy27-results-on-3-november-2026"
-  },
-  {
-   "name": "Business Today: Swiggy block deal",
-   "url": "https://www.businesstoday.in/markets/stocks/story/swiggy-block-deal-rs-982-crore-worth-shares-change-hands-key-details-564684-2026-10-30"
-  },
-  {
-   "name": "Kotak Neo: Nov 2026 holidays",
-   "url": "https://www.kotakneo.com/news/stocks/upcoming-stock-market-holidays-october-november-2026-muhurat-trading/"
-  },
-  {
-   "name": "Oquilia: RELIANCE NSE close",
-   "url": "https://www.oquilia.com/stocks/reliance-industries-share-price"
-  },
-  {
-   "name": "Oquilia: HDFCBANK NSE close",
-   "url": "https://www.oquilia.com/stocks/hdfc-bank-share-price"
   }
  ]
 }
