@@ -1154,7 +1154,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "Nifty +1.68% to 23,440.80 on 2 Nov; FII net buy ₹3,115 cr (2nd day); Brent eased; US midterm results due 3 Nov",
-   "outcome": null
+   "outcome": {
+    "price": 25044.65,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "NIFTY-2026-11-02-h20",
@@ -1219,7 +1224,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "Bank Nifty +0.58% to 55,002.20, lagging Nifty; ICICI, Kotak, Axis fell; SBI Q2 due 3 Nov",
-   "outcome": null
+   "outcome": {
+    "price": 59741.25,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://blog.liquide.life/share-market-today-nifty-reclaims-25-000-to-hit-9-month-high-psu-banks-financials-power-rally-it-drags/"
+   }
   },
   {
    "id": "BANKNIFTY-2026-11-02-h20",
@@ -1284,7 +1294,12 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail 0, early 1; composite +0.41; stock +11.6% on 2 Nov after Q2 profit +41%",
-   "outcome": null
+   "outcome": {
+    "price": 1324.4,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://www.5paisa.com/stocks/reliance-share-price"
+   }
   },
   {
    "id": "RELIANCE-2026-11-02-h20",
@@ -1349,7 +1364,12 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06; fell 0.76% on 2 Nov",
-   "outcome": null
+   "outcome": {
+    "price": 1589.0,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "ICICIBANK-2026-11-02-h20",
@@ -1414,7 +1434,12 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst 0, retail 0, early -1; composite -0.12; fell 2.0% on 2 Nov",
-   "outcome": null
+   "outcome": {
+    "price": 1154.1,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "INFY-2026-11-02-h20",
@@ -3864,7 +3889,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "Index: record FPI buying vs weak breadth, GIFT discount, global tech sell-off",
-   "outcome": null
+   "outcome": {
+    "price": 25044.65,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "NIFTY-2026-11-06-h5",
@@ -3909,7 +3939,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "Index: record FPI buying vs weak breadth, GIFT discount, global tech sell-off",
-   "outcome": null
+   "outcome": {
+    "price": 59741.25,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://blog.liquide.life/share-market-today-nifty-reclaims-25-000-to-hit-9-month-high-psu-banks-financials-power-rally-it-drags/"
+   }
   },
   {
    "id": "BANKNIFTY-2026-11-06-h5",
@@ -3954,7 +3989,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail 0, early 1; composite +0.41",
-   "outcome": null
+   "outcome": {
+    "price": 1324.4,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://www.5paisa.com/stocks/reliance-share-price"
+   }
   },
   {
    "id": "RELIANCE-2026-11-06-h5",
@@ -3999,7 +4039,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst -1, retail None, early 0; composite +0.31",
-   "outcome": null
+   "outcome": {
+    "price": 798.15,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "HDFCBANK-2026-11-06-h5",
@@ -4044,7 +4089,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06",
-   "outcome": null
+   "outcome": {
+    "price": 1589.0,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "ICICIBANK-2026-11-06-h5",
@@ -4089,7 +4139,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst 0, retail 0, early -1; composite -0.12",
-   "outcome": null
+   "outcome": {
+    "price": 1154.1,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "INFY-2026-11-06-h5",
@@ -4224,7 +4279,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
-   "outcome": null
+   "outcome": {
+    "price": 1042.0,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "SBIN-2026-11-06-h5",
@@ -4269,7 +4329,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail 0, early 0; composite +0.29",
-   "outcome": null
+   "outcome": {
+    "price": 278.8,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "ITC-2026-11-06-h5",
@@ -4314,7 +4379,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
-   "outcome": null
+   "outcome": {
+    "price": 4185.0,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "LT-2026-11-06-h5",
@@ -4674,7 +4744,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst None, retail -1, early -1; composite -0.55",
-   "outcome": null
+   "outcome": {
+    "price": 12928.0,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
   },
   {
    "id": "MARUTI-2026-11-06-h5",
@@ -4764,7 +4839,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst 0, retail 1, early 1; composite +0.35",
-   "outcome": null
+   "outcome": {
+    "price": 1083.9,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://www.5paisa.com/blog/tata-consumer-products-stock-update-09-nov-26"
+   }
   },
   {
    "id": "TATACONSUM-2026-11-06-h5",
@@ -4839,6 +4919,336 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 1; composite +1.00",
+   "outcome": null
+  },
+  {
+   "id": "NIFTY-2026-11-09-h1",
+   "sym": "NIFTY",
+   "sector": "Index",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 25044.65,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "9 Nov close 25,044.65 (+0.23%), VIX 17.42, weak breadth, FPI Nov buying; holiday/CPI/Fed risk",
+   "outcome": null
+  },
+  {
+   "id": "NIFTY-2026-11-09-h5",
+   "sym": "NIFTY",
+   "sector": "Index",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 25044.65,
+   "due": "2026-11-17",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "9 Nov close 25,044.65 (+0.23%), VIX 17.42, weak breadth, FPI Nov buying; holiday/CPI/Fed risk",
+   "outcome": null
+  },
+  {
+   "id": "BANKNIFTY-2026-11-09-h1",
+   "sym": "BANKNIFTY",
+   "sector": "Index",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 59741.25,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "9 Nov close 59,741.25 (+1.51%), PSU banks +3.7%, bank-led FPI buying; stretched run",
+   "outcome": null
+  },
+  {
+   "id": "BANKNIFTY-2026-11-09-h5",
+   "sym": "BANKNIFTY",
+   "sector": "Index",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 59741.25,
+   "due": "2026-11-17",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "9 Nov close 59,741.25 (+1.51%), PSU banks +3.7%, bank-led FPI buying; stretched run",
+   "outcome": null
+  },
+  {
+   "id": "RELIANCE-2026-11-09-h1",
+   "sym": "RELIANCE",
+   "sector": "Energy / Conglomerate",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1324.4,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail 0, early 1; composite +0.41",
+   "outcome": null
+  },
+  {
+   "id": "RELIANCE-2026-11-09-h5",
+   "sym": "RELIANCE",
+   "sector": "Energy / Conglomerate",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1324.4,
+   "due": "2026-11-17",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail 0, early 1; composite +0.41",
+   "outcome": null
+  },
+  {
+   "id": "HDFCBANK-2026-11-09-h1",
+   "sym": "HDFCBANK",
+   "sector": "Banking",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 798.15,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst -1, retail None, early 0; composite +0.31",
+   "outcome": null
+  },
+  {
+   "id": "HDFCBANK-2026-11-09-h5",
+   "sym": "HDFCBANK",
+   "sector": "Banking",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 798.15,
+   "due": "2026-11-17",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst -1, retail None, early 0; composite +0.31",
+   "outcome": null
+  },
+  {
+   "id": "ICICIBANK-2026-11-09-h1",
+   "sym": "ICICIBANK",
+   "sector": "Banking",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1589.0,
+   "due": "2026-11-11",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06",
+   "outcome": null
+  },
+  {
+   "id": "ICICIBANK-2026-11-09-h5",
+   "sym": "ICICIBANK",
+   "sector": "Banking",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1589.0,
+   "due": "2026-11-17",
+   "dir": "pos",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06",
+   "outcome": null
+  },
+  {
+   "id": "INFY-2026-11-09-h1",
+   "sym": "INFY",
+   "sector": "IT Services",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1154.1,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst 0, retail 0, early -1; composite -0.12",
+   "outcome": null
+  },
+  {
+   "id": "INFY-2026-11-09-h5",
+   "sym": "INFY",
+   "sector": "IT Services",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1154.1,
+   "due": "2026-11-17",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst 0, retail 0, early -1; composite -0.12",
+   "outcome": null
+  },
+  {
+   "id": "SBIN-2026-11-09-h1",
+   "sym": "SBIN",
+   "sector": "Banking - PSU",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1042.0,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
+   "outcome": null
+  },
+  {
+   "id": "SBIN-2026-11-09-h5",
+   "sym": "SBIN",
+   "sector": "Banking - PSU",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1042.0,
+   "due": "2026-11-17",
+   "dir": "pos",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
+   "outcome": null
+  },
+  {
+   "id": "ITC-2026-11-09-h1",
+   "sym": "ITC",
+   "sector": "FMCG / Tobacco",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 278.8,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail 0, early 0; composite +0.29",
+   "outcome": null
+  },
+  {
+   "id": "ITC-2026-11-09-h5",
+   "sym": "ITC",
+   "sector": "FMCG / Tobacco",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 278.8,
+   "due": "2026-11-17",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail 0, early 0; composite +0.29",
+   "outcome": null
+  },
+  {
+   "id": "LT-2026-11-09-h1",
+   "sym": "LT",
+   "sector": "Infrastructure / Capital goods",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 4185.0,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
+   "outcome": null
+  },
+  {
+   "id": "LT-2026-11-09-h5",
+   "sym": "LT",
+   "sector": "Infrastructure / Capital goods",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 4185.0,
+   "due": "2026-11-17",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
+   "outcome": null
+  },
+  {
+   "id": "MARUTI-2026-11-09-h1",
+   "sym": "MARUTI",
+   "sector": "Automobiles - Passenger vehicles",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 12928.0,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst None, retail -1, early -1; composite -0.55",
+   "outcome": null
+  },
+  {
+   "id": "MARUTI-2026-11-09-h5",
+   "sym": "MARUTI",
+   "sector": "Automobiles - Passenger vehicles",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 12928.0,
+   "due": "2026-11-17",
+   "dir": "neg",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst None, retail -1, early -1; composite -0.55",
+   "outcome": null
+  },
+  {
+   "id": "TATACONSUM-2026-11-09-h1",
+   "sym": "TATACONSUM",
+   "sector": "FMCG - Food & Beverages",
+   "h": "h1",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1083.9,
+   "due": "2026-11-11",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst 0, retail 1, early 1; composite +0.35",
+   "outcome": null
+  },
+  {
+   "id": "TATACONSUM-2026-11-09-h5",
+   "sym": "TATACONSUM",
+   "sector": "FMCG - Food & Beverages",
+   "h": "h5",
+   "created": "2026-11-10T05:35:00+05:30",
+   "refDate": "2026-11-09",
+   "refPrice": 1083.9,
+   "due": "2026-11-17",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "analyst 0, inst 0, retail 1, early 1; composite +0.35",
    "outcome": null
   }
  ]

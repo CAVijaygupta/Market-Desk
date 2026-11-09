@@ -1,7 +1,7 @@
 {
- "asof": "2026-11-09T05:50:00+05:30",
- "asofText": "9 Nov 2026, 5:50 AM IST",
- "refDate": "2026-11-06",
+ "asof": "2026-11-10T05:35:00+05:30",
+ "asofText": "10 Nov 2026, 5:35 AM IST",
+ "refDate": "2026-11-09",
  "model": {
   "version": "v0.1-qualitative",
   "calibrated": false,
@@ -18,28 +18,28 @@
   "market": {
    "dir": "pos",
    "label": "Positive, stretched",
-   "headline": "Seventh straight gain: Nifty +2.01% to 25,030.35, Bank Nifty +2.27%; week up ~8.6%",
-   "text": "Nifty closed at 25,030.35 on 6 Nov (+2.01%), Sensex 81,028.02 (+2.17%), Bank Nifty 59,086.00 (+2.27%) — a seventh straight gain and the best week in about six years, despite Nasdaq −5.5% and Kospi −6%. Private banks (+3.2%), consumer durables and pharma led; energy, media and realty fell. Breadth was weak (1,681 advances vs 2,400 declines). FPIs bought ₹13,749.82 cr and DIIs sold ₹5,968.70 cr (provisional). GIFT Nifty was about 0.33% below the Nifty close on Friday evening, and the Sunday 8 Nov Muhurat session ended marginally lower (Nifty about 24,987). Market holiday Tue 10 Nov."
+   "headline": "Nifty reclaims 25,000 (+0.23% to 25,044.65); Bank Nifty +1.51% to 59,741.25",
+   "text": "On 9 Nov Nifty closed at 25,044.65 (+0.23%) and Sensex at 81,106.65 (+0.13%), an eight-month closing high, while Bank Nifty rose 1.51% to 59,741.25 as the PSU Bank index gained about 3.7%. IT was the weakest sector (Nifty IT about −1.2%). India VIX fell about 5.5% to 17.42. Breadth was negative (1,922 advances vs 2,316 declines). Markets are shut on Tue 10 Nov (Diwali Balipratipada); India October CPI is due Thu 12 Nov. 9 Nov FII/DII cash figures were not yet published in the sources checked."
   },
   "analyst": {
-   "dir": "pos",
-   "label": "Mildly positive",
-   "text": "No new large-cap rating or target changes were confirmed for 6 Nov. Bharti Airtel's Q2 FY27 (revenue +16.7%, net income before exceptional items +32.7%) is out; named broker reactions were not found yet, so its analyst score is unchanged. Latest notes remain the 3–4 Nov post-results round (SBI mostly Buy; ITC mostly target cuts)."
+   "dir": "neu",
+   "label": "Mixed to mildly positive",
+   "text": "Bharti Airtel drew a round of post-Q2 revisions on 9 Nov (Business Today): Morgan Stanley cut its target to ₹2,350 and Jefferies to ₹2,380 (Buy), JPMorgan raised to ₹2,290 (Overweight), ICICI Securities raised to ₹2,430, Motilal Oswal at ₹2,395 and Emkay Reduce at ₹2,000. No other confirmed large-cap rating changes were found for 9 Nov; other stocks keep their earlier dated notes."
   },
   "institutional": {
    "dir": "pos",
    "label": "Aggregate buying, stock data thin",
-   "text": "FPIs net bought ₹13,749.82 cr on 6 Nov (fifth straight session; ₹45,960 cr over the week per reports) while DIIs sold ₹5,968.70 cr (provisional exchange data). No new bulk/block deals or promoter/MF disclosures were confirmed for the 20 stocks; stock-level evidence is still September-quarter shareholding (delayed filings)."
+   "text": "Latest confirmed exchange data: FPIs net bought ₹13,749.82 cr and DIIs net sold ₹5,968.70 cr on 6 Nov (provisional); FPIs reportedly bought over $4.1 bn of Indian equities so far in November. 9 Nov figures were not yet available. No new stock-level bulk/block deals or promoter/MF disclosures were confirmed for the tracked names this run; disclosures shown are delayed filings with their filing dates."
   },
   "retail": {
    "dir": "neu",
-   "label": "Neutral / limited",
-   "text": "No fresh retail-mood coverage was gathered this run; scores carry over from earlier runs. Weak breadth (more decliners than advancers) suggests the broader retail-heavy midcap/smallcap space did not join the large-cap rally. Retail mood here comes only from public news coverage, not a live social feed."
+   "label": "No fresh reading",
+   "text": "No new published retail sentiment surveys or reported investor-chatter pieces were found for 9 Nov. Retail scores carry over from earlier dated items. This module has no live social feed; mood comes only from public coverage."
   },
   "reliability": {
    "dir": "neu",
-   "label": "Moderate",
-   "text": "6 Nov closes found for both indices and all 20 stocks (Oquilia close report citing NSE data, and 5paisa quote pages; NSE bhavcopy could not be opened). Several prices rest on one source. Refdate is Fri 6 Nov; the one-hour Muhurat session on Sun 8 Nov is not used for outlooks or checks. Rotating names were kept unchanged this run."
+   "label": "Too few results yet",
+   "text": "Model v0.1-qualitative is uncalibrated. Today 16 due predictions were checked against 9 Nov closes; 13 still await a confirmed 9 Nov close and will be retried. Cumulative checked: 120. Treat outlooks as research context only."
   }
  },
  "indices": [
@@ -47,8 +47,8 @@
    "sym": "NIFTY",
    "name": "Nifty 50",
    "sector": "Index",
-   "price": "25,030.35 (+2.01%)",
-   "priceDate": "2026-11-06",
+   "price": "25,044.65 (+0.23%)",
+   "priceDate": "2026-11-09",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -68,22 +68,21 @@
     }
    },
    "evidence": "Moderate",
-   "summary": "Available evidence suggests a firm medium-term undertone: Nifty rose 2.01% to 25,030.35 on 6 Nov, a seventh straight gain and about 8.6% for the week (best week in six years per HDFC Sky), with FPIs buying ₹13,750 cr (provisional), but weak breadth (1,681 advances vs 2,400 declines), a GIFT Nifty discount of about 0.33% on Friday evening, a marginally lower Muhurat session on 8 Nov and the global tech sell-off reduce confidence for the next few sessions.",
+   "summary": "Nifty rose 0.23% to 25,044.65 on 9 Nov, reclaiming 25,000 at an eight-month closing high, with India VIX down about 5.5% to 17.42 and FPIs having bought over $4.1 bn so far in November. Available evidence suggests a firm undertone, but negative breadth (1,922 advances vs 2,316 declines), IT weakness, Tuesday's holiday and Fed-hike and CPI risk this week reduce confidence for the next few sessions.",
    "bull": [
-    "FPIs net bought ₹13,749.82 cr on 6 Nov — fifth straight buying day (provisional)",
-    "Brent near $98, about 17% below its six-month high",
-    "Nifty P/E near 19x, a four-year low (Upstox, 6 Nov)"
+    "Eight-month closing high above 25,000 on 9 Nov",
+    "India VIX fell ~5.5% to 17.42",
+    "FPIs bought over $4.1 bn of Indian equities so far in November (reported)"
    ],
    "bear": [
-    "Breadth weak on 6 Nov: 1,681 advances vs 2,400 declines; midcaps flat, smallcaps −0.8%",
-    "GIFT Nifty at 24,948 on Fri evening, ~82 pts below Nifty close",
-    "Overbought after ~8.6% weekly gain; Muhurat session ended marginally lower",
-    "DIIs net sold ₹5,968.70 cr on 6 Nov"
+    "Breadth negative on 9 Nov: 1,922 advances vs 2,316 declines",
+    "Nifty IT fell ~1.2%; Infosys, HCLTech among top losers",
+    "Overbought after an ~8.6% week; gain on 9 Nov was small"
    ],
    "risks": [
-    "Further fall in US/Asian tech (Nasdaq −5.5%, Kospi −6% on 6 Nov)",
-    "Oil and West Asia headlines",
-    "Holiday on Tue 10 Nov thins trading"
+    "India October CPI on Thu 12 Nov",
+    "US CPI and Fed December hike odds",
+    "Oil and West Asia headlines"
    ],
    "invalid": [
     "Close back below 24,500",
@@ -94,8 +93,8 @@
    "sym": "BANKNIFTY",
    "name": "Bank Nifty",
    "sector": "Index",
-   "price": "59,086.00 (+2.27%)",
-   "priceDate": "2026-11-06",
+   "price": "59,741.25 (+1.51%)",
+   "priceDate": "2026-11-09",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -115,24 +114,24 @@
     }
    },
    "evidence": "Moderate",
-   "summary": "Available evidence suggests banks are leading the FPI-driven rally: Bank Nifty rose 2.27% to 59,086 on 6 Nov with Nifty Private Bank +3.2% (ICICI Bank +4.75%, HDFC Bank +3.72%), after +3.33% on 5 Nov, but the speed of the move, a weak Monday cue from GIFT Nifty and DII selling reduce confidence.",
+   "summary": "Bank Nifty rose 1.51% to 59,741.25 on 9 Nov, led by the PSU Bank index (+3.7%), SBI (+2.56%), HDFC Bank (+1.79%) and ICICI Bank (+1.53%). Available evidence (bank-led FPI buying, broad sector strength) leans positive over a week, but a stretched run, the holiday and CPI/Fed risk reduce confidence.",
    "bull": [
-    "Private banks led on 6 Nov: Nifty Private Bank +3.2%",
-    "Heaviest FPI buying in years concentrated in large caps",
-    "Post-Q2 broker notes on SBI and private banks mostly Buy"
+    "Nifty PSU Bank +3.7% on 9 Nov",
+    "Large private banks led gains: HDFC Bank +1.79%, ICICI Bank +1.53%",
+    "FPI buying concentrated in financials (reported)"
    ],
    "bear": [
-    "Two-day gain above 5.5% — stretched",
-    "DIIs sold ₹5,968.70 cr on 6 Nov",
-    "GIFT Nifty pointed lower for Monday"
+    "Sharp run over the past week leaves little cushion",
+    "Bajaj Finance −1.56% shows financials not uniformly strong"
    ],
    "risks": [
-    "Profit-taking after sharp run",
-    "Global risk-off spilling into EM flows"
+    "RBI 4 Dec policy (minutes hint at a hike)",
+    "Fed December decision",
+    "India CPI on 12 Nov"
    ],
    "invalid": [
-    "Close below 57,500 (5 Nov close area)",
-    "FPI selling resumes"
+    "Close below 58,500",
+    "Reversal in FPI flows into banks"
    ]
   }
  ],
@@ -141,9 +140,9 @@
    "sym": "RELIANCE",
    "name": "Reliance Industries Ltd",
    "sector": "Energy / Conglomerate",
-   "price": 1320.0,
+   "price": 1324.4,
    "priceSrc": "https://www.5paisa.com/stocks/reliance-share-price",
-   "priceDate": "2026-11-06",
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -240,7 +239,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 1700.6,
-    "upside": 29.7
+    "upside": 28.4
    },
    "inst": {
     "items": [
@@ -332,10 +331,10 @@
    },
    "early": 1,
    "earlyWhy": "Q2 FY27 (30 Oct, after market): net profit ₹25,548 cr, +41% YoY; O2C EBITDA +68%; retail profit fell",
-   "fresh": "2026-11-02",
+   "fresh": "2026-11-09",
    "divNote": "Stock re-rated 11.6% in one day; most published targets are from July and have not yet been refreshed after Q2.",
    "evidence": "Strong",
-   "summary": "6 Nov close ₹1,320.00 (+0.50%) as Nifty rose 2.01% to 25,030.35. Available evidence suggests a neutral-to-positive setup: Q2 FY27 profit rose about 41% with strong refining and petrochemical margins, and the stock jumped 11.6% to ₹1,300 on 2 Nov, but most broker targets predate the results, Nuvama cut its target, and after such a large one-day move a pause is common, which reduces confidence.",
+   "summary": "9 Nov close ₹1,324.40 (+0.03%). Available evidence suggests a neutral-to-positive setup: Q2 FY27 profit rose about 41% with strong refining and petrochemical margins, and the stock jumped 11.6% to ₹1,300 on 2 Nov, but most broker targets predate the results, Nuvama cut its target, and after such a large one-day move a pause is common, which reduces confidence.",
    "bull": [
     "Q2 profit up about 41% YoY; O2C EBITDA up sharply",
     "Broke above the ₹1,234–1,255 resistance zone on heavy volume (technical commentary)",
@@ -390,9 +389,9 @@
    "sym": "HDFCBANK",
    "name": "HDFC Bank Ltd",
    "sector": "Banking",
-   "price": 788.25,
-   "priceSrc": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-06-november-2026",
-   "priceDate": "2026-11-06",
+   "price": 798.15,
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath",
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -489,7 +488,7 @@
     "consensus": "Positive",
     "score": 2,
     "avgTarget": 956.4,
-    "upside": 29.8
+    "upside": 19.8
    },
    "inst": {
     "items": [
@@ -543,10 +542,10 @@
    },
    "early": 0,
    "earlyWhy": "Q2 was in line with no fresh catalyst since; margin pressure balances cost control",
-   "fresh": "2026-11-03",
+   "fresh": "2026-11-09",
    "divNote": "Analysts are uniformly Buy, while FIIs cut their stake by 2.4 pp in the September quarter.",
    "evidence": "Moderate",
-   "summary": "6 Nov close ₹788.25 (+3.72%) as Nifty rose 2.01% to 25,030.35. Available evidence suggests analysts see meaningful upside after an in-line Q2, but heavy FII selling, falling margins and a missing 29 Oct close reduce confidence.",
+   "summary": "9 Nov close ₹798.15 (+1.79%). Available evidence suggests analysts see meaningful upside after an in-line Q2, but heavy FII selling, falling margins and a missing 29 Oct close reduce confidence.",
    "bull": [
     "All eight tracked brokers rate it Buy/Overweight, with targets of ₹850-1,150 vs about ₹713 after results",
     "JM Financial upgraded to Buy",
@@ -592,9 +591,9 @@
    "sym": "ICICIBANK",
    "name": "ICICI Bank Ltd",
    "sector": "Banking",
-   "price": 1571.2,
-   "priceSrc": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-06-november-2026",
-   "priceDate": "2026-11-06",
+   "price": 1589.0,
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath",
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -641,7 +640,7 @@
     "consensus": "Positive",
     "score": 2,
     "avgTarget": 1835.0,
-    "upside": 28.9
+    "upside": 15.5
    },
    "inst": {
     "items": [
@@ -707,10 +706,10 @@
    },
    "early": 1,
    "earlyWhy": "Q2 beat with a raised Jefferies target and FII buying in the September quarter",
-   "fresh": "2026-11-03",
+   "fresh": "2026-11-09",
    "divNote": "",
    "evidence": "Strong",
-   "summary": "6 Nov close ₹1,571.20 (+4.75%) as Nifty rose 2.01% to 25,030.35. Available evidence suggests analysts and foreign investors lean positive after a Q2 beat, but the muted price reaction, slight domestic trimming and a missing 29 Oct close reduce confidence.",
+   "summary": "9 Nov close ₹1,589.00 (+1.53%). Available evidence suggests analysts and foreign investors lean positive after a Q2 beat, but the muted price reaction, slight domestic trimming and a missing 29 Oct close reduce confidence.",
    "bull": [
     "Q2 profit up 20% YoY, ahead of estimates",
     "Targets of ₹1,730-2,025 vs ₹1,382 close on 19 Oct",
@@ -756,9 +755,9 @@
    "sym": "INFY",
    "name": "Infosys Ltd",
    "sector": "IT Services",
-   "price": 1181.4,
-   "priceSrc": "https://www.5paisa.com/stocks/infy-share-price",
-   "priceDate": "2026-11-06",
+   "price": 1154.1,
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath",
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -855,7 +854,7 @@
     "consensus": "Mixed",
     "score": 0,
     "avgTarget": 1122.2,
-    "upside": -0.5
+    "upside": -2.8
    },
    "inst": {
     "items": [
@@ -921,10 +920,10 @@
    },
    "early": -1,
    "earlyWhy": "FY27 revenue growth guidance was cut to 1-2% from 1.5-3% in Q2",
-   "fresh": "2026-10-26",
+   "fresh": "2026-11-09",
    "divNote": "Retail holding reportedly rose sharply while analysts are split and several cut targets.",
    "evidence": "Strong",
-   "summary": "6 Nov close ₹1,181.40 (+1.20%) as Nifty rose 2.01% to 25,030.35. Available evidence suggests a split Street after a guidance cut, with targets clustered near the current price, but possible data reclassification in the shareholding and a missing 29 Oct close reduce confidence.",
+   "summary": "9 Nov close ₹1,154.10 (-1.49%). Available evidence suggests a split Street after a guidance cut, with targets clustered near the current price, but possible data reclassification in the shareholding and a missing 29 Oct close reduce confidence.",
    "bull": [
     "Several brokers (Citi, MS, CLSA) raised targets",
     "Nomura and UBS keep Buy with targets of ₹1,300-1,415",
@@ -1176,6 +1175,66 @@
    "analyst": {
     "items": [
      {
+      "firm": "Morgan Stanley",
+      "analyst": "",
+      "rating": "Not stated in report",
+      "target": 2350,
+      "date": "2026-11-09",
+      "change": "Target cut from ₹2,442",
+      "reason": "Post-Q2 revision; reason not given in report",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-shares-rs-20000-crore-m-cap-gone-amid-target-revisions-by-morgan-stanley-jpmorgan-others-566481-2026-11-09"
+     },
+     {
+      "firm": "Jefferies",
+      "analyst": "",
+      "rating": "Buy",
+      "target": 2380,
+      "date": "2026-11-09",
+      "change": "Target cut from ₹2,400",
+      "reason": "India mobile missed on ARPU; Airtel Business stronger; FY27-29 India estimates trimmed 2-3%",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-shares-rs-20000-crore-m-cap-gone-amid-target-revisions-by-morgan-stanley-jpmorgan-others-566481-2026-11-09"
+     },
+     {
+      "firm": "JPMorgan",
+      "analyst": "",
+      "rating": "Overweight",
+      "target": 2290,
+      "date": "2026-11-09",
+      "change": "Target raised from ₹2,240",
+      "reason": "Higher wireless ARPU estimates; sees deleveraging and rising dividends as catalysts",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-shares-rs-20000-crore-m-cap-gone-amid-target-revisions-by-morgan-stanley-jpmorgan-others-566481-2026-11-09"
+     },
+     {
+      "firm": "ICICI Securities",
+      "analyst": "",
+      "rating": "Not stated in report",
+      "target": 2430,
+      "date": "2026-11-09",
+      "change": "Target raised from ₹2,410",
+      "reason": "Tariff-hike assumption pushed to FY28; Africa estimates raised",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-shares-rs-20000-crore-m-cap-gone-amid-target-revisions-by-morgan-stanley-jpmorgan-others-566481-2026-11-09"
+     },
+     {
+      "firm": "Motilal Oswal",
+      "analyst": "",
+      "rating": "Not stated in report",
+      "target": 2395,
+      "date": "2026-11-09",
+      "change": "",
+      "reason": "Industry tariff hike seen as key near-term trigger",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-shares-rs-20000-crore-m-cap-gone-amid-target-revisions-by-morgan-stanley-jpmorgan-others-566481-2026-11-09"
+     },
+     {
+      "firm": "Emkay",
+      "analyst": "",
+      "rating": "Reduce",
+      "target": 2000,
+      "date": "2026-11-09",
+      "change": "",
+      "reason": "Sees unfavourable risk-reward; tariff hike expected 1QFY28",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-shares-rs-20000-crore-m-cap-gone-amid-target-revisions-by-morgan-stanley-jpmorgan-others-566481-2026-11-09"
+     },
+     {
       "firm": "JM Financial",
       "analyst": "",
       "rating": "Buy",
@@ -1206,10 +1265,10 @@
       "url": "https://www.businesstoday.in/markets/stocks/story/vodafone-idea-bharti-airtel-q2-results-preview-share-price-targets-559604-2026-10-05"
      }
     ],
-    "consensus": "Mixed",
+    "consensus": "Positive",
     "score": 1,
-    "avgTarget": 2259.7,
-    "upside": 9.3
+    "avgTarget": 2307.5,
+    "upside": 9.5
    },
    "inst": {
     "items": [
@@ -1242,16 +1301,17 @@
     "asof": "2026-11-03",
     "score": null
    },
-   "fresh": "2026-11-06",
+   "fresh": "2026-11-09",
    "divNote": "",
    "evidence": "Weak",
-   "summary": "6 Nov close ₹2,107.20 (+2.45%) as Nifty rose 2.01% to 25,030.35. Available evidence leans mildly positive (two of three pre-results notes Buy), but the notes date from 5 Oct, institutional data conflict between sources and Q2 results on 5 Nov could move the stock either way, so confidence is low.",
+   "summary": "Post-Q2 broker notes on 9 Nov were mixed: Jefferies and JPMorgan stay positive, Morgan Stanley and Jefferies trimmed targets, Emkay rates Reduce; mean of six reported targets about ₹2,308. Available evidence leans mildly positive, but no confirmed 9 Nov close, missing institutional data and the mixed reactions reduce confidence.",
    "bull": [
     "Q2 FY27 (reported 5 Nov): revenue ₹60,878 cr (+16.7%), net income before exceptional items ₹9,015 cr (+32.7%), India mobile ARPU ₹271; closed +2.45% on 6 Nov",
     "JM Financial and Centrum Buy; tariff-hike expectations",
     "Up 3.77% on 3 Nov ahead of results"
    ],
    "bear": [
+    "Jefferies: India mobile ARPU growth below estimates; Emkay rates Reduce (₹2,000)",
     "UBS Sell at ₹1,785",
     "Foreign holding reportedly fell in the September quarter (sources disagree)"
    ],
@@ -1261,12 +1321,12 @@
    "invalid": [
     "Weak ARPU or subscriber numbers on 5 Nov"
    ],
-   "early": 1,
-   "earlyWhy": "Q2 FY27 (reported 5 Nov): revenue ₹60,878 cr (+16.7%), net income before exceptional items ₹9,015 cr (+32.7%), India mobile ARPU ₹271; closed +2.45% on 6 Nov",
+   "early": 0,
+   "earlyWhy": "Post-Q2 broker reactions on 9 Nov were mixed (two target cuts, two raises, Emkay Reduce); stock fell about 2% intraday per Business Today",
    "priceSrc": "https://www.5paisa.com/stocks/bhartiartl-share-price",
    "pred": {
     "h1": {
-     "dir": "pos",
+     "dir": "neu",
      "conf": "Low"
     },
     "h5": {
@@ -1283,14 +1343,14 @@
     }
    },
    "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
-   "composite": 1.0
+   "composite": 0.71
   },
   {
    "sym": "SBIN",
    "name": "State Bank of India",
    "sector": "Banking - PSU",
-   "price": 1018.5,
-   "priceDate": "2026-11-06",
+   "price": 1042.0,
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -1357,7 +1417,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 1232.0,
-    "upside": 25.8
+    "upside": 18.2
    },
    "inst": {
     "items": [],
@@ -1369,10 +1429,10 @@
     "asof": null,
     "score": null
    },
-   "fresh": "2026-11-04",
+   "fresh": "2026-11-09",
    "divNote": "",
    "evidence": "Weak",
-   "summary": "6 Nov close ₹1,018.50 (+1.20%) as Nifty rose 2.01% to 25,030.35. Available evidence suggests a mildly positive medium-term view: four of five post-results broker notes reported on 4 Nov are Buy/Outperform (targets ₹1,220–1,320) and the stock recovered 0.9%, but HSBC and UBS cut targets, UBS is Neutral and no fresh stake data was found, which reduces confidence.",
+   "summary": "9 Nov close ₹1,042.00 (+2.56%). Available evidence suggests a mildly positive medium-term view: four of five post-results broker notes reported on 4 Nov are Buy/Outperform (targets ₹1,220–1,320) and the stock recovered 0.9%, but HSBC and UBS cut targets, UBS is Neutral and no fresh stake data was found, which reduces confidence.",
    "bull": [
     "Q2 profit ₹23,038 cr (+14.3%); GNPA 1.39%, domestic NIM 3.11%",
     "Jefferies target ₹1,320 (3 Nov sector note)"
@@ -1393,7 +1453,7 @@
    ],
    "early": 0,
    "earlyWhy": "Q2 (3 Nov) profit +14%; on 4 Nov HSBC and UBS cut targets while Jefferies, Citi, Macquarie stayed positive; stock +0.9%",
-   "priceSrc": "https://www.5paisa.com/stocks/sbin-share-price",
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -1412,15 +1472,15 @@
      "conf": "Medium"
     }
    },
-   "basis": "Post-Q2 broker notes mostly Buy (4 Nov), two target cuts; no stake data",
+   "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
    "composite": 0.71
   },
   {
    "sym": "ITC",
    "name": "ITC Ltd",
    "sector": "FMCG / Tobacco",
-   "price": 283.15,
-   "priceDate": "2026-11-06",
+   "price": 278.8,
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -1557,7 +1617,7 @@
     "consensus": "Mixed",
     "score": 1,
     "avgTarget": 327.4,
-    "upside": 16.9
+    "upside": 17.4
    },
    "inst": {
     "items": [
@@ -1626,10 +1686,10 @@
     "asof": "2026-09-30",
     "score": 0
    },
-   "fresh": "2026-11-04",
+   "fresh": "2026-11-09",
    "divNote": "",
    "evidence": "Strong",
-   "summary": "6 Nov close ₹283.15 (+1.54%) as Nifty rose 2.01% to 25,030.35. Available evidence suggests a neutral outlook: 13 brokerages updated targets after Q2 (average about ₹327, mostly Buy/Accumulate) and mutual funds absorbed GQG's October block sale, but repeated target cuts on weak cigarette volumes and foreign trimming reduce confidence.",
+   "summary": "9 Nov close ₹278.80 (-1.64%). Available evidence suggests a neutral outlook: 13 brokerages updated targets after Q2 (average about ₹327, mostly Buy/Accumulate) and mutual funds absorbed GQG's October block sale, but repeated target cuts on weak cigarette volumes and foreign trimming reduce confidence.",
    "bull": [
     "Non-cigarette FMCG revenue +16%, PBIT +28% in Q2 (reported 4 Nov)",
     "Stock rose 2.2% on results day",
@@ -1651,7 +1711,7 @@
    ],
    "early": 0,
    "earlyWhy": "Q2 FY27 (4 Nov): standalone profit −20% and cigarette PBIT −27%, but non-cigarette FMCG revenue +16%; stock +2.2% on about 2x volume",
-   "priceSrc": "https://5paisa.com/stocks/ITC",
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -1670,15 +1730,15 @@
      "conf": "Medium"
     }
    },
-   "basis": "Q2 mixed (profit −20%, FMCG strong); targets mostly cut earlier",
+   "basis": "analyst 1, inst 0, retail 0, early 0; composite +0.29",
    "composite": 0.29
   },
   {
    "sym": "LT",
    "name": "Larsen & Toubro",
    "sector": "Infrastructure / Capital goods",
-   "price": 4117.7,
-   "priceDate": "2026-11-06",
+   "price": 4185.0,
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -1725,7 +1785,7 @@
     "consensus": "Positive",
     "score": 1,
     "avgTarget": 4473.0,
-    "upside": 13.4
+    "upside": 6.9
    },
    "inst": {
     "items": [
@@ -1762,10 +1822,10 @@
     "asof": null,
     "score": null
    },
-   "fresh": "2026-10-28",
+   "fresh": "2026-11-09",
    "divNote": "",
    "evidence": "Moderate",
-   "summary": "6 Nov close ₹4,117.70 (+1.67%) as Nifty rose 2.01% to 25,030.35. Available evidence suggests a neutral view: three of four post-Q2 notes are positive (average target about ₹4,473) on record orders, but margins fell to 8.7% and institutional holdings were flat, which reduces conviction.",
+   "summary": "9 Nov close ₹4,185.00 (+1.82%). Available evidence suggests a neutral view: three of four post-Q2 notes are positive (average target about ₹4,473) on record orders, but margins fell to 8.7% and institutional holdings were flat, which reduces conviction.",
    "bull": [
     "Q2 orders +28%; order book ₹8.5 trn",
     "CLSA and Macquarie Outperform"
@@ -1783,7 +1843,7 @@
    ],
    "early": 0,
    "earlyWhy": "Q2 profit +33% and record order inflow, but EBITDA margin fell to 8.7% from 10%",
-   "priceSrc": "https://www.5paisa.com/stocks/lt-share-price",
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath",
    "pred": {
     "h1": {
      "dir": "neu",
@@ -2357,7 +2417,7 @@
     "Core EBITDA growth (excluding one-offs) shown to be strong in results commentary",
     "Brokerage upgrades or large institutional buying after Q2"
    ],
-   "basis": "Retail mood leaning negative vs strong Q2 revenue and +4.5% move; conflicting",
+   "basis": "analyst None, inst None, retail -1, early 0; composite -0.67",
    "attention": null,
    "pred": {
     "h1": {
@@ -2768,9 +2828,9 @@
    "sym": "MARUTI",
    "name": "Maruti Suzuki India Ltd",
    "sector": "Automobiles - Passenger vehicles",
-   "price": 12750.0,
-   "priceSrc": "https://www.5paisa.com/stocks/maruti-share-price",
-   "priceDate": "2026-11-06",
+   "price": 12928.0,
+   "priceSrc": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath",
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -2816,10 +2876,10 @@
    },
    "early": -1,
    "earlyWhy": "Q2 profit fell 26% against previews of about 9–13%, a clear miss driven by margin pressure from commodity costs.",
-   "fresh": "2026-10-27",
+   "fresh": "2026-11-09",
    "divNote": "",
    "evidence": "Strong",
-   "summary": "6 Nov close ₹12,750.00 (+0.77%) as Nifty rose 2.01% to 25,030.35. Available evidence suggests a sizeable earnings miss: profit fell 26% against previews of 9–13% despite record volumes and 26% revenue growth. But volumes and market share (40.8%) remain strong, and post-results broker reactions and the 29 Oct close were not verified, which reduces confidence.",
+   "summary": "9 Nov close ₹12,928.00 (+0.88%). Available evidence suggests a sizeable earnings miss: profit fell 26% against previews of 9–13% despite record volumes and 26% revenue growth. But volumes and market share (40.8%) remain strong, and post-results broker reactions and the 29 Oct close were not verified, which reduces confidence.",
    "bull": [
     "Record Q2 volumes of 6.97 lakh units (+26.5%)",
     "Domestic market share of 40.8%",
@@ -2965,9 +3025,9 @@
    "sym": "TATACONSUM",
    "name": "Tata Consumer Products Ltd",
    "sector": "FMCG - Food & Beverages",
-   "price": 1086.3,
-   "priceSrc": "https://www.5paisa.com/stocks/tataconsum-share-price",
-   "priceDate": "2026-11-06",
+   "price": 1083.9,
+   "priceSrc": "https://www.5paisa.com/blog/tata-consumer-products-stock-update-09-nov-26",
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -2994,7 +3054,7 @@
     "consensus": "Mixed",
     "score": 0,
     "avgTarget": 1080.0,
-    "upside": 1.1
+    "upside": -0.4
    },
    "inst": {
     "items": [
@@ -3048,10 +3108,10 @@
    },
    "early": 1,
    "earlyWhy": "Q2 showed double-digit revenue growth and margin expansion, and the stock rebounded sharply from near its 52-week low.",
-   "fresh": "2026-10-27",
+   "fresh": "2026-11-09",
    "divNote": "The price rebounded on results while the one verified broker note (Elara) cut its target by about 16%.",
    "evidence": "Strong",
-   "summary": "6 Nov close ₹1,086.30 (+0.80%) as Nifty rose 2.01% to 25,030.35. Available evidence suggests Q2 FY27 was solid, with revenue up 14%, EBITDA up 18% and margins wider, and the stock bounced about 5% from near its 52-week low. But only one broker view could be verified (Elara, which cut its target), the stock is still in a six-month downtrend, and no 29 Oct close or holding data was found, which reduces confidence.",
+   "summary": "9 Nov close ₹1,083.90 (+0.36%). Available evidence suggests Q2 FY27 was solid, with revenue up 14%, EBITDA up 18% and margins wider, and the stock bounced about 5% from near its 52-week low. But only one broker view could be verified (Elara, which cut its target), the stock is still in a six-month downtrend, and no 29 Oct close or holding data was found, which reduces confidence.",
    "bull": [
     "Q2 revenue +14%, EBITDA +18%, EBITDA margin up 40 bps to 14%",
     "H1 FY27 net profit up about 22% to ₹897 cr",
@@ -3272,6 +3332,11 @@
     "d": "2026-11-06",
     "i": 0,
     "r": 0
+   },
+   {
+    "d": "2026-11-09",
+    "i": 0,
+    "r": 0
    }
   ],
   "ICICIBANK": [
@@ -3307,6 +3372,11 @@
    },
    {
     "d": "2026-11-06",
+    "i": 1,
+    "r": 0
+   },
+   {
+    "d": "2026-11-09",
     "i": 1,
     "r": 0
    }
@@ -3346,6 +3416,11 @@
     "d": "2026-11-06",
     "i": 0,
     "r": 0
+   },
+   {
+    "d": "2026-11-09",
+    "i": 0,
+    "r": 0
    }
   ],
   "TCS": [
@@ -3383,6 +3458,11 @@
     "d": "2026-11-06",
     "i": -1,
     "r": 0
+   },
+   {
+    "d": "2026-11-09",
+    "i": -1,
+    "r": 0
    }
   ],
   "ITC": [
@@ -3403,6 +3483,11 @@
    },
    {
     "d": "2026-11-06",
+    "i": 0,
+    "r": 0
+   },
+   {
+    "d": "2026-11-09",
     "i": 0,
     "r": 0
    }
@@ -3427,6 +3512,11 @@
     "d": "2026-11-06",
     "i": -1,
     "r": 1
+   },
+   {
+    "d": "2026-11-09",
+    "i": -1,
+    "r": 1
    }
   ],
   "TATACONSUM": [
@@ -3449,45 +3539,59 @@
     "d": "2026-11-06",
     "i": 0,
     "r": 1
+   },
+   {
+    "d": "2026-11-09",
+    "i": 0,
+    "r": 1
    }
   ]
  },
  "attention": [
   {
-   "sym": "ICICIBANK",
+   "sym": "SBIN",
    "kind": "Coverage jump",
-   "head": "Top Nifty gainer group: +4.75% to ₹1,571.20",
-   "why": "Led a 3.2% private-bank rally on heavy FPI buying; named in several close reports",
-   "date": "2026-11-06",
-   "src": "Oquilia; Upstox; HDFC Sky",
-   "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-06-november-2026"
+   "head": "Top Nifty gainer: +2.56% to ₹1,042 on 9 Nov",
+   "why": "Led a ~3.7% PSU Bank index rally; named in several close reports",
+   "date": "2026-11-09",
+   "src": "HDFC Sky; 5paisa; Liquide",
+   "url": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
   },
   {
    "sym": "HDFCBANK",
    "kind": "Coverage jump",
-   "head": "+3.72% to ₹788.25 on 6 Nov",
-   "why": "Among top Nifty gainers in multiple close reports",
-   "date": "2026-11-06",
-   "src": "Oquilia; Upstox",
-   "url": "https://www.oquilia.com/news/stock-market-today-nifty-50-closing-06-november-2026"
+   "head": "+1.79% to ₹798.15, among Bank Nifty leaders",
+   "why": "Cited with ICICI Bank as driving Bank Nifty's 1.51% gain; also among most-active stocks",
+   "date": "2026-11-09",
+   "src": "5paisa; DSIJ; HDFC Sky",
+   "url": "https://www.5paisa.com/blog/post-market-update-nifty-reclaims-25000-banking-stocks-lead-recovery-november-9-2026"
   },
   {
-   "sym": "BHARTIARTL",
-   "kind": "New disclosure",
-   "head": "Q2 FY27: net income before exceptional items +32.7%; stock +2.45%",
-   "why": "Results after 5 Nov close drew wide coverage; ARPU rose to ₹271",
-   "date": "2026-11-06",
-   "src": "Kotak Neo; Oquilia",
-   "url": "https://www.kotakneo.com/news/stocks/bharti-airtel-q2-fy27-results-put-share-price-in-focus/"
-  },
-  {
-   "sym": "NIFTY",
+   "sym": "INFY",
    "kind": "Coverage jump",
-   "head": "Best week in ~6 years as FPIs buy ₹13,750 cr on Friday",
-   "why": "Fifth straight FPI buying day while US/Asian tech sold off",
-   "date": "2026-11-06",
-   "src": "HDFC Sky; Tapetide (exchange provisional data)",
-   "url": "https://hdfcsky.com/news/market-close-report-today-november-6-2026-diwali-party-continues-in-full-swing-ignoring-global-selloff"
+   "head": "−1.49% to ₹1,154.10 as IT drags",
+   "why": "Nifty IT the weakest sector on 9 Nov; Infosys among top Nifty losers",
+   "date": "2026-11-09",
+   "src": "HDFC Sky; DSIJ",
+   "url": "https://insights.dsij.in/dsijarticledetail/closing-bell-nifty-50-closes-above-25000-as-sensex-gains-107-points-psu-banks-rally-373-60370"
+  },
+  {
+   "sym": "ITC",
+   "kind": "Coverage jump",
+   "head": "−1.64% to ₹278.80, a top Nifty loser",
+   "why": "Listed among top losers in multiple close reports",
+   "date": "2026-11-09",
+   "src": "HDFC Sky; Liquide; Kotak Neo",
+   "url": "https://blog.liquide.life/share-market-today-nifty-reclaims-25-000-to-hit-9-month-high-psu-banks-financials-power-rally-it-drags/"
+  },
+  {
+   "sym": "LT",
+   "kind": "Coverage jump",
+   "head": "+1.82% to ₹4,185 with Noida Metro order headline",
+   "why": "Top Nifty gainer list and an order-win headline the same day",
+   "date": "2026-11-09",
+   "src": "Liquide; Kotak Neo",
+   "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-make-maginal-gains/"
   }
  ],
  "connectors": [
@@ -3542,6 +3646,58 @@
  ],
  "sources": [
   {
+   "name": "HDFC Sky – Market close 9 Nov 2026",
+   "url": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+  },
+  {
+   "name": "5paisa – Post-market 9 Nov 2026",
+   "url": "https://www.5paisa.com/blog/post-market-update-nifty-reclaims-25000-banking-stocks-lead-recovery-november-9-2026"
+  },
+  {
+   "name": "DSIJ – Closing Bell 9 Nov 2026",
+   "url": "https://insights.dsij.in/dsijarticledetail/closing-bell-nifty-50-closes-above-25000-as-sensex-gains-107-points-psu-banks-rally-373-60370"
+  },
+  {
+   "name": "Liquide – Share market today 9 Nov 2026",
+   "url": "https://blog.liquide.life/share-market-today-nifty-reclaims-25-000-to-hit-9-month-high-psu-banks-financials-power-rally-it-drags/"
+  },
+  {
+   "name": "Business Standard – Market live 9 Nov 2026",
+   "url": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
+  },
+  {
+   "name": "Kotak Neo – Closing Bell 9 Nov 2026",
+   "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-make-maginal-gains/"
+  },
+  {
+   "name": "5paisa – Reliance share price",
+   "url": "https://www.5paisa.com/stocks/reliance-share-price"
+  },
+  {
+   "name": "Multibagg – Top traded by value 9 Nov 2026",
+   "url": "https://www.multibagg.ai/market-pulse/articles/top-traded-value-india-cmw95k4or007h2mph18xaxu1d"
+  },
+  {
+   "name": "5paisa – Tata Consumer 9 Nov 2026",
+   "url": "https://www.5paisa.com/blog/tata-consumer-products-stock-update-09-nov-26"
+  },
+  {
+   "name": "Business Today – Bharti Airtel target revisions",
+   "url": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-shares-rs-20000-crore-m-cap-gone-amid-target-revisions-by-morgan-stanley-jpmorgan-others-566481-2026-11-09"
+  },
+  {
+   "name": "HDFC Sky – India VIX",
+   "url": "https://hdfcsky.com/news/india-vix-falls-5-48percent-as-crude-oil-eases-and-asian-markets-recover"
+  },
+  {
+   "name": "NiftyTrader – FII/DII data",
+   "url": "https://www.niftytrader.in/fii-dii-data"
+  },
+  {
+   "name": "5paisa – Why stocks rose/fell 9 Nov 2026",
+   "url": "https://www.5paisa.com/blog/why-these-stocks-are-rising-and-falling-09-nov-26"
+  },
+  {
    "name": "Oquilia — Market Pulse 6 Nov 2026",
    "url": "https://www.oquilia.com/markets/today/2026-11-06"
   },
@@ -3580,10 +3736,6 @@
   {
    "name": "5paisa — Nifty 50 (Muhurat 8 Nov)",
    "url": "https://www.5paisa.com/share-market-today/nifty-50"
-  },
-  {
-   "name": "5paisa — RELIANCE quote",
-   "url": "https://www.5paisa.com/stocks/reliance-share-price"
   },
   {
    "name": "5paisa — INFY quote",
@@ -3812,54 +3964,6 @@
   {
    "name": "HEROMOTOCO quote 4 Nov",
    "url": "https://trendlyne.com/equity/540/HEROMOTOCO/hero-motocorp-ltd/"
-  },
-  {
-   "name": "MARUTI quote 4 Nov",
-   "url": "https://www.indmoney.com/stocks/maruti-suzuki-india-ltd-share-price"
-  },
-  {
-   "name": "NAUKRI quote 4 Nov",
-   "url": "https://trendlyne.com/equity/913/NAUKRI/info-edge-india-ltd/"
-  },
-  {
-   "name": "Upstox market wrap, 3 Nov",
-   "url": "https://upstox.com/news/market-news/stocks/market-wrap-nov-3-sensex-jumps-1-225-pts-nifty-50-ends-at-23-810-nse-listed-firms-add-5-lakh-crore-mcap/article-202904/"
-  },
-  {
-   "name": "IIFL market close, 3 Nov",
-   "url": "https://www.indiainfoline.com/news/markets/sensex-nifty-today-nifty-ends-the-day-at-23810-sensex-trades-past-76900"
-  },
-  {
-   "name": "HDFC Sky market close, 3 Nov",
-   "url": "https://hdfcsky.com/news/market-close-report-today-november-3-2026-diwali-party-continues-as-benchmarks-extend-mega-rally"
-  },
-  {
-   "name": "Liquide market close, 3 Nov",
-   "url": "https://blog.liquide.life/share-market-today-nifty-reclaims-23-800-sensex-surges-1-225-points-as-fmcg-and-financial-stocks-lead-rally/"
-  },
-  {
-   "name": "AngelOne gainers/losers, 3 Nov",
-   "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-3-2026-bse-and-nestle-gain-while-power-grid-drops-over-3"
-  },
-  {
-   "name": "Business Standard: FPI buying highest in a year",
-   "url": "https://www.business-standard.com/markets/news/markets-extend-gains-for-fourth-day-fpi-buying-highest-in-a-year-126110301699_1.html"
-  },
-  {
-   "name": "Kotak Neo: Sensex, Nifty extend winning streak",
-   "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-50-extend-winning-streak/"
-  },
-  {
-   "name": "5paisa post-market, 3 Nov",
-   "url": "https://www.5paisa.com/blog/post-market-update-sensex-nifty-rally-fourth-straight-session-november-3-2026"
-  },
-  {
-   "name": "Reuters via MarketScreener: US close 3 Nov",
-   "url": "https://www.marketscreener.com/news/nasdaq-ends-higher-as-ai-heavyweights-rebound-ahead-of-midterm-results-ce785fdedd8ef520"
-  },
-  {
-   "name": "AngelOne: NSE holidays November 2026",
-   "url": "https://www.angelone.in/news/market-updates/stock-market-nse-bse-holidays-this-month-november-2026"
   }
  ]
 }
