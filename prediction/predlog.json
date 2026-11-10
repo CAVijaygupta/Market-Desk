@@ -1504,7 +1504,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "No scored evidence found; neutral by default; fell 0.7% on 2 Nov",
-   "outcome": null
+   "outcome": {
+    "price": 479.5,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://www.oquilia.com/markets/movers/2026-11"
+   }
   },
   {
    "id": "KOTAKBANK-2026-11-02-h20",
@@ -4189,7 +4194,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst -1, retail 0, early 0; composite -0.35",
-   "outcome": null
+   "outcome": {
+    "price": 2475.4,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://www.oquilia.com/markets/movers/2026-11"
+   }
   },
   {
    "id": "TCS-2026-11-06-h5",
@@ -4234,7 +4244,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 1; composite +1.00",
-   "outcome": null
+   "outcome": {
+    "price": 2072.1,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://www.oquilia.com/markets/movers/2026-11"
+   }
   },
   {
    "id": "BHARTIARTL-2026-11-06-h5",
@@ -4429,7 +4444,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
-   "outcome": null
+   "outcome": {
+    "price": 479.5,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://www.oquilia.com/markets/movers/2026-11"
+   }
   },
   {
    "id": "KOTAKBANK-2026-11-06-h5",
@@ -4564,7 +4584,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst None, inst None, retail -1, early 0; composite -0.67",
-   "outcome": null
+   "outcome": {
+    "price": 2706.3,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://www.oquilia.com/markets/movers/2026-11"
+   }
   },
   {
    "id": "ADANIENT-2026-11-06-h5",
@@ -4609,7 +4634,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst None, retail None, early 1; composite +1.71",
-   "outcome": null
+   "outcome": {
+    "price": 1942.7,
+    "date": "2026-11-09",
+    "status": "checked",
+    "src": "https://www.oquilia.com/markets/movers/2026-11"
+   }
   },
   {
    "id": "ADANIPORTS-2026-11-06-h5",

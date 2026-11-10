@@ -1,6 +1,6 @@
 {
- "asof": "2026-11-10T05:35:00+05:30",
- "asofText": "10 Nov 2026, 5:35 AM IST",
+ "asof": "2026-11-11T05:35:00+05:30",
+ "asofText": "11 Nov 2026, 5:35 AM IST",
  "refDate": "2026-11-09",
  "model": {
   "version": "v0.1-qualitative",
@@ -19,7 +19,7 @@
    "dir": "pos",
    "label": "Positive, stretched",
    "headline": "Nifty reclaims 25,000 (+0.23% to 25,044.65); Bank Nifty +1.51% to 59,741.25",
-   "text": "On 9 Nov Nifty closed at 25,044.65 (+0.23%) and Sensex at 81,106.65 (+0.13%), an eight-month closing high, while Bank Nifty rose 1.51% to 59,741.25 as the PSU Bank index gained about 3.7%. IT was the weakest sector (Nifty IT about −1.2%). India VIX fell about 5.5% to 17.42. Breadth was negative (1,922 advances vs 2,316 declines). Markets are shut on Tue 10 Nov (Diwali Balipratipada); India October CPI is due Thu 12 Nov. 9 Nov FII/DII cash figures were not yet published in the sources checked."
+   "text": "On 9 Nov Nifty closed at 25,044.65 (+0.23%) and Sensex at 81,106.65 (+0.13%), an eight-month closing high, while Bank Nifty rose 1.51% to 59,741.25 as the PSU Bank index gained about 3.7%. IT was the weakest sector (Nifty IT about −1.2%). India VIX fell about 5.5% to 17.42. Breadth was negative (1,922 advances vs 2,316 declines). Markets are shut on Tue 10 Nov (Diwali Balipratipada); India October CPI is due Thu 12 Nov. Provisional 9 Nov flows: FPIs +₹7,212 cr, DIIs −₹7,173 cr. Markets reopen Wed 11 Nov after the holiday; no new close since 9 Nov."
   },
   "analyst": {
    "dir": "neu",
@@ -28,8 +28,8 @@
   },
   "institutional": {
    "dir": "pos",
-   "label": "Aggregate buying, stock data thin",
-   "text": "Latest confirmed exchange data: FPIs net bought ₹13,749.82 cr and DIIs net sold ₹5,968.70 cr on 6 Nov (provisional); FPIs reportedly bought over $4.1 bn of Indian equities so far in November. 9 Nov figures were not yet available. No new stock-level bulk/block deals or promoter/MF disclosures were confirmed for the tracked names this run; disclosures shown are delayed filings with their filing dates."
+   "label": "FPI buying continues, DIIs selling",
+   "text": "Provisional exchange data: FPIs net bought ₹7,212.22 cr and DIIs net sold ₹7,172.53 cr on 9 Nov, after FPI net buying of ₹13,749.82 cr on 6 Nov. November so far shows heavy FPI buying matched by DII selling. No new stock-level bulk/block deals or promoter/MF disclosures were confirmed for the tracked names this run; disclosures shown are delayed filings with their filing dates."
   },
   "retail": {
    "dir": "neu",
@@ -37,9 +37,9 @@
    "text": "No new published retail sentiment surveys or reported investor-chatter pieces were found for 9 Nov. Retail scores carry over from earlier dated items. This module has no live social feed; mood comes only from public coverage."
   },
   "reliability": {
-   "dir": "neu",
-   "label": "Too few results yet",
-   "text": "Model v0.1-qualitative is uncalibrated. Today 16 due predictions were checked against 9 Nov closes; 13 still await a confirmed 9 Nov close and will be retried. Cumulative checked: 120. Treat outlooks as research context only."
+   "dir": "neg",
+   "label": "Weak so far",
+   "text": "Model v0.1-qualitative is uncalibrated. This run checked 6 more predictions that were due on 9 Nov (1 correct); 7 still await a confirmed 9 Nov close and will be retried. Cumulative checked: 126, of which 35 were exact-direction calls (about 28%), below the roughly one-in-three a random pick among three outcomes would get. Treat outlooks as research context only."
   }
  },
  "indices": [
@@ -977,9 +977,9 @@
    "sym": "TCS",
    "name": "Tata Consultancy Services Ltd",
    "sector": "IT Services",
-   "price": 2498.5,
+   "price": 2475.4,
    "priceSrc": "https://www.5paisa.com/stocks/tcs-share-price",
-   "priceDate": "2026-11-06",
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -1170,8 +1170,8 @@
    "sym": "BHARTIARTL",
    "name": "Bharti Airtel",
    "sector": "Telecom",
-   "price": 2107.2,
-   "priceDate": "2026-11-06",
+   "price": 2072.1,
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -1869,8 +1869,8 @@
    "sym": "KOTAKBANK",
    "name": "Kotak Mahindra Bank",
    "sector": "Banking - Private",
-   "price": 480.0,
-   "priceDate": "2026-11-06",
+   "price": 479.5,
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -2363,9 +2363,9 @@
    "sym": "ADANIENT",
    "name": "Adani Enterprises Ltd",
    "sector": "Diversified - Infrastructure incubator",
-   "price": 2745.8,
+   "price": 2706.3,
    "priceSrc": "https://www.5paisa.com/stocks/adanient-share-price",
-   "priceDate": "2026-11-06",
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [],
     "consensus": "No data",
@@ -2443,9 +2443,9 @@
    "sym": "ADANIPORTS",
    "name": "Adani Ports and Special Economic Zone Ltd",
    "sector": "Infrastructure - Ports & Logistics",
-   "price": 1936.6,
+   "price": 1942.7,
    "priceSrc": "https://www.oquilia.com/markets/today/2026-11-06",
-   "priceDate": "2026-11-06",
+   "priceDate": "2026-11-09",
    "analyst": {
     "items": [
      {
@@ -3726,10 +3726,6 @@
    "url": "https://upstox.com/news/market-news/stocks/fii-s-pump-22-693-crore-into-indian-equities-after-5-day-buying-streak-what-s-driving-the-massive-inflows/article-203137/"
   },
   {
-   "name": "Tapetide — FII/DII flows Nov 2026",
-   "url": "https://tapetide.com/insight/reports/fii-dii-flows/2026-11"
-  },
-  {
    "name": "Kotak Neo — Bharti Airtel Q2 FY27",
    "url": "https://www.kotakneo.com/news/stocks/bharti-airtel-q2-fy27-results-put-share-price-in-focus/"
   },
@@ -3962,8 +3958,12 @@
    "url": "https://www.indmoney.com/stocks/bandhan-bank-ltd-share-price"
   },
   {
-   "name": "HEROMOTOCO quote 4 Nov",
-   "url": "https://trendlyne.com/equity/540/HEROMOTOCO/hero-motocorp-ltd/"
+   "name": "Tapetide – FII/DII flows Nov 2026",
+   "url": "https://tapetide.com/insight/reports/fii-dii-flows/2026-11"
+  },
+  {
+   "name": "Oquilia – Market movers Nov 2026 (9 Nov closes)",
+   "url": "https://www.oquilia.com/markets/movers/2026-11"
   }
  ]
 }
