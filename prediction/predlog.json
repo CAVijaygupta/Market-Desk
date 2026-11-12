@@ -2274,7 +2274,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
-   "outcome": null
+   "outcome": {
+    "price": 171.55,
+    "date": "2026-11-11",
+    "status": "checked",
+    "src": "https://www.5paisa.com/stocks/bandhanbnk-share-price"
+   }
   },
   {
    "id": "HEROMOTOCO-2026-11-03-h1",
@@ -2504,7 +2509,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "Index: Available evidence suggests a firm short-term tone: Nifty rose for a fifth session to 23,9",
-   "outcome": null
+   "outcome": {
+    "price": 25299.35,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-nov-12-hdfc-lic-shriram-finance-gain-4-bajaj-finance-rises-3-nestle-falls-2-check-list/article-203377/"
+   }
   },
   {
    "id": "BANKNIFTY-2026-11-04-h1",
@@ -2644,7 +2654,12 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06",
-   "outcome": null
+   "outcome": {
+    "price": 1590.0,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "INFY-2026-11-04-h1",
@@ -2784,7 +2799,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "Post-Q2 broker notes mostly Buy (4 Nov), two target cuts; no stake data",
-   "outcome": null
+   "outcome": {
+    "price": 1086.5,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "ITC-2026-11-04-h1",
@@ -2854,7 +2874,12 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
-   "outcome": null
+   "outcome": {
+    "price": 4159.2,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "KOTAKBANK-2026-11-04-h1",
@@ -2994,7 +3019,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "Retail mood leaning negative vs strong Q2 revenue and +4.5% move; conflicting",
-   "outcome": null
+   "outcome": {
+    "price": 2741.5,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://www.5paisa.com/blog/adani-enterprises-stock-update-12-nov-26"
+   }
   },
   {
    "id": "ADANIPORTS-2026-11-04-h1",
@@ -3029,7 +3059,12 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst None, retail None, early 1; composite +1.71",
-   "outcome": null
+   "outcome": {
+    "price": 1930.0,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "BANDHANBNK-2026-11-04-h1",
@@ -3134,7 +3169,12 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst None, retail -1, early -1; composite -0.55",
-   "outcome": null
+   "outcome": {
+    "price": 13024.0,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "NAUKRI-2026-11-04-h1",
@@ -3204,7 +3244,12 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst 0, retail 1, early 1; composite +0.35",
-   "outcome": null
+   "outcome": {
+    "price": 1085.3,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://www.5paisa.com/blog/tata-consumer-products-stock-update-12-nov-26"
+   }
   },
   {
    "id": "NIFTY-2026-11-05-h1",
@@ -5449,7 +5494,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "FPI buying, 9-month high, strong breadth vs overbought and CPI risk",
-   "outcome": null
+   "outcome": {
+    "price": 25299.35,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-nov-12-hdfc-lic-shriram-finance-gain-4-bajaj-finance-rises-3-nestle-falls-2-check-list/article-203377/"
+   }
   },
   {
    "id": "NIFTY-2026-11-11-h5",
@@ -5539,7 +5589,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst 1, retail 0, early 1; composite +1.06",
-   "outcome": null
+   "outcome": {
+    "price": 1590.0,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "ICICIBANK-2026-11-11-h5",
@@ -5629,7 +5684,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 0; composite +0.71",
-   "outcome": null
+   "outcome": {
+    "price": 1086.5,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "SBIN-2026-11-11-h5",
@@ -5689,7 +5749,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst 0, retail None, early 0; composite +0.38",
-   "outcome": null
+   "outcome": {
+    "price": 4159.2,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "LT-2026-11-11-h5",
@@ -5809,7 +5874,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst None, inst None, retail -1, early 0; composite -0.67",
-   "outcome": null
+   "outcome": {
+    "price": 2741.5,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://www.5paisa.com/blog/adani-enterprises-stock-update-12-nov-26"
+   }
   },
   {
    "id": "ADANIENT-2026-11-11-h5",
@@ -5839,7 +5909,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 2, inst None, retail None, early 1; composite +1.71",
-   "outcome": null
+   "outcome": {
+    "price": 1930.0,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "ADANIPORTS-2026-11-11-h5",
@@ -5899,7 +5974,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst None, retail -1, early -1; composite -0.55",
-   "outcome": null
+   "outcome": {
+    "price": 13024.0,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://hdfcsky.com/news/sectoral-snapshot-today-november-12-2026-financials-support-dalal-street-as-autos-retreat"
+   }
   },
   {
    "id": "MARUTI-2026-11-11-h5",
@@ -5929,7 +6009,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 0, inst 0, retail 1, early 1; composite +0.35",
-   "outcome": null
+   "outcome": {
+    "price": 1085.3,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://www.5paisa.com/blog/tata-consumer-products-stock-update-12-nov-26"
+   }
   },
   {
    "id": "TATACONSUM-2026-11-11-h5",
@@ -5959,7 +6044,12 @@
    "conf": "Low",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 1; composite +1.00",
-   "outcome": null
+   "outcome": {
+    "price": 4500.0,
+    "date": "2026-11-12",
+    "status": "checked",
+    "src": "https://www.5paisa.com/stocks/tvsmotor-share-price"
+   }
   },
   {
    "id": "TVSMOTOR-2026-11-11-h5",
@@ -5974,6 +6064,276 @@
    "conf": "Medium",
    "model": "v0.1-qualitative",
    "basis": "analyst 1, inst None, retail None, early 1; composite +1.00",
+   "outcome": null
+  },
+  {
+   "id": "NIFTY-2026-11-12-h1",
+   "sym": "NIFTY",
+   "sector": "Index",
+   "h": "h1",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 25299.35,
+   "due": "2026-11-13",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "FPI buying strong vs Oct CPI 6.09% breach; stretched rally",
+   "outcome": null
+  },
+  {
+   "id": "NIFTY-2026-11-12-h5",
+   "sym": "NIFTY",
+   "sector": "Index",
+   "h": "h5",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 25299.35,
+   "due": "2026-11-19",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "FPI buying strong vs Oct CPI 6.09% breach; stretched rally",
+   "outcome": null
+  },
+  {
+   "id": "ICICIBANK-2026-11-12-h1",
+   "sym": "ICICIBANK",
+   "sector": "Banking",
+   "h": "h1",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 1590.0,
+   "due": "2026-11-13",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Post-Q2 Buy notes; +1.17% on 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "ICICIBANK-2026-11-12-h5",
+   "sym": "ICICIBANK",
+   "sector": "Banking",
+   "h": "h5",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 1590.0,
+   "due": "2026-11-19",
+   "dir": "pos",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "Post-Q2 Buy notes; +1.17% on 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "SBIN-2026-11-12-h1",
+   "sym": "SBIN",
+   "sector": "Banking - PSU",
+   "h": "h1",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 1086.5,
+   "due": "2026-11-13",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Post-Q2 mostly Buy notes; top gainer 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "SBIN-2026-11-12-h5",
+   "sym": "SBIN",
+   "sector": "Banking - PSU",
+   "h": "h5",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 1086.5,
+   "due": "2026-11-19",
+   "dir": "pos",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "Post-Q2 mostly Buy notes; top gainer 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "LT-2026-11-12-h1",
+   "sym": "LT",
+   "sector": "Infrastructure / Capital goods",
+   "h": "h1",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 4159.2,
+   "due": "2026-11-13",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Mixed: order flow vs −1.25% on 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "LT-2026-11-12-h5",
+   "sym": "LT",
+   "sector": "Infrastructure / Capital goods",
+   "h": "h5",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 4159.2,
+   "due": "2026-11-19",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "Mixed: order flow vs −1.25% on 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "ADANIPORTS-2026-11-12-h1",
+   "sym": "ADANIPORTS",
+   "sector": "Infrastructure - Ports & Logistics",
+   "h": "h1",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 1930.0,
+   "due": "2026-11-13",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Positive broker views; +1.21% on 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "ADANIPORTS-2026-11-12-h5",
+   "sym": "ADANIPORTS",
+   "sector": "Infrastructure - Ports & Logistics",
+   "h": "h5",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 1930.0,
+   "due": "2026-11-19",
+   "dir": "pos",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "Positive broker views; +1.21% on 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "MARUTI-2026-11-12-h1",
+   "sym": "MARUTI",
+   "sector": "Automobiles - Passenger vehicles",
+   "h": "h1",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 13024.0,
+   "due": "2026-11-13",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Mixed analyst view; auto index −1% on 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "MARUTI-2026-11-12-h5",
+   "sym": "MARUTI",
+   "sector": "Automobiles - Passenger vehicles",
+   "h": "h5",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 13024.0,
+   "due": "2026-11-19",
+   "dir": "neg",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "Mixed analyst view; auto index −1% on 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "ADANIENT-2026-11-12-h1",
+   "sym": "ADANIENT",
+   "sector": "Diversified - Infrastructure incubator",
+   "h": "h1",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 2741.5,
+   "due": "2026-11-13",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "No analyst/inst data; weak retail tone",
+   "outcome": null
+  },
+  {
+   "id": "ADANIENT-2026-11-12-h5",
+   "sym": "ADANIENT",
+   "sector": "Diversified - Infrastructure incubator",
+   "h": "h5",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 2741.5,
+   "due": "2026-11-19",
+   "dir": "neg",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "No analyst/inst data; weak retail tone",
+   "outcome": null
+  },
+  {
+   "id": "TATACONSUM-2026-11-12-h1",
+   "sym": "TATACONSUM",
+   "sector": "FMCG - Food & Beverages",
+   "h": "h1",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 1085.3,
+   "due": "2026-11-13",
+   "dir": "neu",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Neutral analyst/inst; FMCG weak",
+   "outcome": null
+  },
+  {
+   "id": "TATACONSUM-2026-11-12-h5",
+   "sym": "TATACONSUM",
+   "sector": "FMCG - Food & Beverages",
+   "h": "h5",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 1085.3,
+   "due": "2026-11-19",
+   "dir": "neu",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "Neutral analyst/inst; FMCG weak",
+   "outcome": null
+  },
+  {
+   "id": "TVSMOTOR-2026-11-12-h1",
+   "sym": "TVSMOTOR",
+   "sector": "Automobiles - Two-wheelers",
+   "h": "h1",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 4500.0,
+   "due": "2026-11-13",
+   "dir": "pos",
+   "conf": "Low",
+   "model": "v0.1-qualitative",
+   "basis": "Positive broker view; auto weak on 12 Nov",
+   "outcome": null
+  },
+  {
+   "id": "TVSMOTOR-2026-11-12-h5",
+   "sym": "TVSMOTOR",
+   "sector": "Automobiles - Two-wheelers",
+   "h": "h5",
+   "created": "2026-11-13T05:45:00+05:30",
+   "refDate": "2026-11-12",
+   "refPrice": 4500.0,
+   "due": "2026-11-19",
+   "dir": "pos",
+   "conf": "Medium",
+   "model": "v0.1-qualitative",
+   "basis": "Positive broker view; auto weak on 12 Nov",
    "outcome": null
   }
  ]
